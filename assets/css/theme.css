@@ -252,6 +252,7 @@ section.recent-posts {
   margin-bottom: 5px;
   margin-top: 10px;
   font-size: 0.95rem;
+  color: rgba(0, 0, 0, 0.44);
 }
 .author-meta {
   flex: 1 1 auto;
@@ -747,7 +748,7 @@ a.btn {
 }
 .authorpage .author-description {
   font-size: 1rem;
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.44);
 }
 .post-top-meta.authorpage .btn.follow {
   padding: 7px 20px;
