@@ -510,6 +510,10 @@ figure .featured-image {
 .article-post p iframe {
   margin-bottom: 0.5rem;
 }
+.article-post form {
+  margin-bottom: 1rem;
+}
+
 .share {
   text-align: center;
 }
