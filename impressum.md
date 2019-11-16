@@ -10,4 +10,4 @@ Richard-Sorge-Str. 59
 
 +49 30 41728894
 
-<a href="mailto:bodo@tasche.me">bodo@tasche.me</a>
+<a href="mailto:mail@papiberlin.de">mail@papiberlin.de</a>
