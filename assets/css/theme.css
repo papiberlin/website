@@ -494,6 +494,14 @@ blockquote {
   margin-bottom: 2rem;
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.1);
 }
+
+figure {
+  margin-bottom: 2rem;
+}
+figure .featured-image {
+  margin-bottom: 0.5rem;
+}
+
 .article-post img,
 .article-post iframe {
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.1);

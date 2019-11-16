@@ -12,7 +12,17 @@ title: Archive
 
     <div class="col-md-8 col-lg-8">
         <div class="section-title">
-            <h2><span>{{ page.type }} '{{ page.title }}'</span></h2>
+            <h2>
+                <span>
+                    {% case page.type %}
+                    {% when "category" %}
+                    Kategorie
+                    {% else %}
+                    {{ page.type}}
+                    {% endcase %}
+                    '{{ page.title }}'
+                </span>
+            </h2>
         </div>
         <div class="masonrygrid row listrecent">
 
