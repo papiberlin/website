@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Der \"Ich-werde-Vater\"-Kurs"
+title:  "Der \"Ich-werde-Vater*\"-Kurs"
 categories: [ Kurs ]
 image: assets/images/vater-kurs.jpg
 image_description: Ein Gesicht eines schlafenden Kindes
