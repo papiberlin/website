@@ -1,22 +1,9 @@
 ---
 layout: post
-title: About
+title: Über uns
 comments: true
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+Papi Berlin ist eine neue Gruppe von aktiven Vätern* . Uns ist es wichtig, Rollenklischees zu hinterfragen und unsere Rolle als Väter* neu zu definieren. Stichworte wie Mental-Load und bedürfnissorientierte Erziehung sind uns wichtig.
 
-**License & Download**
-
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
-
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
-
+Wir planen uns in 2020 einmal monatlich zu einem Vater-Kind-Treffen zu verabreden. Mehr dazu erfahrt Ihr, wenn Ihr Teil unseres [Slack Chats](http://dadaberlin.herokuapp.com/) werdet, uns auf [Twitter](https://twitter.com/papiberlin) folgt oder unseren Newsletter abonniert. 
