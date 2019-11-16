@@ -8,9 +8,9 @@ image_credit: Foto von <a href="https://unsplash.com/@peter_oslanec">Peter Oslan
 featured: true
 author: bodo
 ---
-Dieser Kurs richtet sich an alle werdenden Väter* , die sich vor der Geburt gut vorbereitet fühlen wollen und sich mit anderen werdenen Vätern* austauschen wollen. 
+Dieser Kurs richtet sich an alle werdenden Väter* , die sich vor der Geburt gut vorbereitet fühlen wollen und sich mit anderen werdenden Vätern* austauschen wollen. 
 
-Der Schwerpunkt des Kurses ist der Wissensaustausch, das Beantworten von offenen Fragen und das vernetzen von Menschen in der selben Lebenssituation wie du.
+Der Schwerpunkt des Kurses ist der Wissensaustausch, das Beantworten von offenen Fragen und das Vernetzen von Menschen in derselben Lebenssituation wie du.
 
 Folgende Themen werden wir unter anderem Besprechen:
 
