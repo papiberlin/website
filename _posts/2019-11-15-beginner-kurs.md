@@ -14,7 +14,7 @@ Der Schwerpunkt des Kurses ist der Wissensaustausch, das Beantworten von offenen
 
 Folgende Themen werden wir unter anderem Besprechen:
 
-* Die Geburt und wie du dich und deine Partnerin vorbereiten kannst
+* Die Zeit vor der Geburt und wie du dich und deine Partnerin vorbereiten kannst
 * Die Geburt
 * Das Wochenbett und deine Rolle in den ersten Lebenswochen
 * Umstellung auf die neue Zeit als Eltern und deren Bedeutung für das Leben als Paar
