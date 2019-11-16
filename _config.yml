@@ -9,7 +9,7 @@ paginate: 12
 baseurl: ''
 email: 'mail@papiberlin.de'
 
-permalink: /pages/:title:output_ext
+permalink: /pages/:title
 
 # Plugins
 plugins: 
