@@ -7,13 +7,7 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 
-<div class="row">
-
-    <!-- Sidebar -->
-    <div class="col-sm-4">
-        {% include sidebar.html %}
-    </div>
-
+<div class="row flex-row-reverse">
 
     <!-- Post -->
     {% assign author = site.data.authors[page.author] %}
@@ -93,7 +87,7 @@ post_class: post-template
         <!-- Author Box -->
         {% if page.author %}
         <div class="row post-top-meta">
-            <div class="col-md-2">
+            <div class="col-md-2 post-author-thumb">
                 <img class="author-thumb" src="/assets/images/{{ author.image }}" alt="{{ author.display_name }}">
             </div>
             <div class="col-md-10">
@@ -106,6 +100,12 @@ post_class: post-template
 
     </div>
     <!-- End Post -->
+
+    <!-- Sidebar -->
+    <div class="col-sm-4">
+        {% include sidebar.html %}
+    </div>
+
 
 
 
