@@ -191,6 +191,10 @@ section.recent-posts {
 .listfeaturedtag .card-block {
   padding-left: 0;
 }
+.listfeaturedtag .card-wrapper {
+  max-height: 170px;
+  overflow: hidden;
+}
 .listfeaturedtag h2.card-title,
 .listrecent h2.card-title {
   font-size: 1.3rem;
