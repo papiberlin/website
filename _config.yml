@@ -1,0 +1,32 @@
+# Site
+name: "Papi Berlin"
+title: "Papi Berlin"
+description: "Eine Community für aktive Väter in Berlin."
+meta_description: "Eine Community für aktive Väter in Berlin."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: ''
+email: 'bodo@wannawork.de'
+
+permalink: /pages/:title:output_ext
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
