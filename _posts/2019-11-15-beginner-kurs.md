@@ -12,9 +12,9 @@ Dieser Kurs richtet sich an alle werdenden Väter* , die sich vor der Geburt gut
 
 Der Schwerpunkt des Kurses ist der Wissensaustausch, das Beantworten von offenen Fragen und das Vernetzen von Menschen in derselben Lebenssituation wie du.
 
-Folgende Themen werden wir unter anderem Besprechen:
+Folgende Themen werden wir unter anderem besprechen:
 
-* Die Zeit vor der Geburt und wie du dich und deine Partnerin vorbereiten kannst
+* Die Zeit vor der Geburt und wie du dich und deine Partner*in vorbereiten kannst
 * Die Geburt
 * Das Wochenbett und deine Rolle in den ersten Lebenswochen
 * Umstellung auf die neue Zeit als Eltern und deren Bedeutung für das Leben als Paar
