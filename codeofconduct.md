@@ -66,7 +66,7 @@ Wir erwarten, dass sich alle Teilnehmenden der Community (bezahlte oder unbezahl
 
 ## Lizenz und Namensnennung
 
-Dieser Verhaltenskodex basiert auf dem [Berlin Code of Conduct](http://https://berlincodeofconduct.org/) und steht unter der [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) Lizenz. Er basiert auf dem [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
+Dieser Verhaltenskodex basiert auf dem [Berlin Code of Conduct](https://berlincodeofconduct.org/) und steht unter der [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) Lizenz. Er basiert auf dem [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
 
 ## Kontaktpersonen
 
