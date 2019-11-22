@@ -493,7 +493,6 @@ span.post-read-more a:hover {
   text-decoration: none;
 }
 
-
 blockquote {
   border-left: 4px solid #6fd350;
   padding: 0 20px;
@@ -1044,4 +1043,10 @@ iframe {
   .form-group .col-md-6:first-child {
     margin-bottom: 1rem;
   }
+}
+
+.img-postbox {
+  width: 350px;
+  height: 200px;
+  object-fit: cover;
 }
