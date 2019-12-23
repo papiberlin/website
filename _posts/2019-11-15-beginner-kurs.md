@@ -7,6 +7,7 @@ image_description: Ein Gesicht eines schlafenden Kindes
 image_credit: Foto von <a href="https://unsplash.com/@peter_oslanec">Peter Oslanec</a>
 featured: true
 author: bodo
+published: false
 ---
 Dieser Kurs richtet sich an alle werdenden Väter* , die sich vor der Geburt gut vorbereitet fühlen wollen und sich mit anderen werdenden Vätern* austauschen wollen. 
 
