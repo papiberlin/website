@@ -17,5 +17,6 @@ Hier sammle ich eine Liste von angeboten für euch, die Ihr mit euren Kindern ma
 * [Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/) ist ein sehr tolles kostenloses englischsprachiges Lernprogramm für Kinder im Vorschulalter.
 * [papamachtsachen liest vor](https://www.instagram.com/p/B9yaXP6IoxB/?igshid=bb0eybdbmezo) - der Instagram-Account [@papamachtsachen](https://www.instagram.com/papamachtsachen/) fängt Dienstag an jeweils um 16:00 Märchen vorzulesen.
 * [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
+* Die Spiel- und Lerndesignerinnen Anne & Ruth schenken auf [geschwisterloewenstein.de](https://www.geschwisterloewenstein.de/) jeden Tag eine neue Spielidee.
 
 Habt Ihr noch mehr? Dann [her damit](/contact).
