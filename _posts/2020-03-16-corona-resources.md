@@ -12,8 +12,9 @@ Covid-19 sorgt ja jetzt gerade bei allen für mehr oder weniger schlechte Stimmu
 
 Hier sammle ich eine Liste von angeboten für euch, die Ihr mit euren Kindern machen könnt.
 
+* [Deswegen bleiben wir zuhause](https://www.instagram.com/p/B9weIRAoRMI/?igshid=phs4d7szuaj9) - Ein kleiner Comic der kinderfreundlich erklärt, warum alle zuhause bleiben
 * [Illustratoren gegen Corona](http://www.illustratoren-gegen-corona.de/) hat sehr viele Malvorlagen für euch, total kostenlos. Runterladen, ausdrucken und eure Kinder können los malen.
-* [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
 * [Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/) ist ein sehr tolles kostenloses englischsprachiges Lernprogramm für Kinder im Vorschulalter.
+* [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
 
 Habt Ihr noch mehr? Dann [her damit](/contact).
