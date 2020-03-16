@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Corona Elternresourcen"
+title:  "Corona Elternressourcen"
 author: bodo
 categories: [ Bibliothek ]
 image: assets/images/blog/covid-19.jpg
