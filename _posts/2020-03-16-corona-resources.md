@@ -22,4 +22,6 @@ Hier sammle ich eine Liste von angeboten für euch, die Ihr mit euren Kindern ma
 * Der Blog von [@newniqberlin](https://instagram.com/newniqberlin/) hat auch jeden Tag schöne [Malvorlagen für euch](https://www.newniq.com/allgemein/malvorlagen-fuer-kinder-gegen-den-corona-kollar/).
 * Das ZDF hat ein [Digitales Klassenzimmer](https://www.zdf.de/wissen/schulersatzprogramm-100.html) mit Videos für Kinder aller Altersklassen.
 
+Für Video-Chats mit mehr als 4 Menschen empfehlen wir [Jitsi.org](https://meet.jit.si/). Neben dem Chrome-Browser muss keine weitere Software installiert werden, es gibt kostenlose Apps für iOS und Android Geräte. Das eignet sich toll um z.B. mit der Kindergartengruppe trotzdem den Morgenkreis zusammen zu machen und ein Lied zu singen.
+
 Habt Ihr noch mehr? Dann [her damit](/contact).
