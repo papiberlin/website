@@ -60,7 +60,7 @@ Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www
 ### Sprachen
 
 * [Duolingo](https://www.duolingo.com/) hat jede Menge kostenlose und einfach aufbereitete Sprachlernkurse
-* [busuu](https://www.busuu.com/de) ebenfalls ein kostenloses Sprachlernangebot
+* [busuu](https://www.busuu.com/de) ist ebenfalls ein kostenloses Sprachlernangebot
 
 ### Geschichte
 
