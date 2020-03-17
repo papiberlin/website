@@ -29,6 +29,7 @@ Für Video-Chats mit mehr als 4 Menschen empfehlen wir [Jitsi.org](https://meet.
 * Der Blog von [@newniqberlin](https://instagram.com/newniqberlin/) hat auch jeden Tag schöne [Malvorlagen für euch](https://www.newniq.com/allgemein/malvorlagen-fuer-kinder-gegen-den-corona-kollar/).
 * [Damla Hekimoğlu](https://twitter.com/_DamlaHekimoglu) liest auf ihrem [Youtube-Kanal](https://www.youtube.com/damlahekimoglu) ausgewählte Geschichten vor.
 * [Polylino](https://www.polylino.de/neuigkeiten/coronakrise-polylino-offen-fuer-alle-kinder/) hat ihr Angebot von Kinderbüchern in mehreren Sprachen für Eltern kostenlos freigeschaltet.
+* [Löwenzähnchen](https://www.zdf.de/kinder/loewenzaehnchen) ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
 
 ## Für Schulkinder
 
