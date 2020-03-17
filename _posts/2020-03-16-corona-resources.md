@@ -31,6 +31,7 @@ Hier sammle ich eine Liste von angeboten für euch, die Ihr mit euren Kindern ma
 ## Für Schulkinder
 
 * [Khan Academy](https://de.khanacademy.org/) ist ein kostenloses Lernangebot für Kinder ab der ersten Klasse.
+* Jede Menge Schreibübungen gibt es unter [ABCund123](https://www.abcund123.de/mein-verruecktes-nachfahrheft/).
 * [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
 * Das ZDF hat ein [Digitales Klassenzimmer](https://www.zdf.de/wissen/schulersatzprogramm-100.html) mit Videos für Kinder aller Altersklassen.
 
