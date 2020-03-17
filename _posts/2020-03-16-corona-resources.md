@@ -75,6 +75,10 @@ Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www
 * Die Helmholtz-Gemeinschaft hat ein Portal mit Videos und einem PDF mit [Experimenten für Zuhause](https://www.helmholtz.de/index.php?id=5360).
 * Mehr Links gibt es auch beim [zdi](https://www.zdi-portal.de/mint-trotz-corona-linkliste-fuer-zuhause/)
 
+### Sport
+
+* [Alba Berlin] zeigt auf Ihrem Youtube Kanal jetzt täglich eine Sportstunde, unterteilt in Kita-, Grunschul- und Oberschulkinder
+
 ### Informatik
 
 Es gibt viele Angebote, um Programmieren zu lernen, hier nur ein kleiner Auszug:
