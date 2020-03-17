@@ -77,7 +77,7 @@ Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www
 
 ### Sport
 
-* [Alba Berlin] zeigt auf Ihrem Youtube Kanal jetzt täglich eine Sportstunde, unterteilt in Kita-, Grunschul- und Oberschulkinder
+* [Alba Berlin](https://www.albaberlin.de/news/details/reaktion-auf-coronavirus-alba-berlin-startet-taegliche-digitale-sportstunde-fuer-kinder-und-jugendlic/) zeigt auf Ihrem Youtube Kanal jetzt täglich eine Sportstunde, unterteilt in Kita-, Grunschul- und Oberschulkinder
 
 ### Informatik
 
