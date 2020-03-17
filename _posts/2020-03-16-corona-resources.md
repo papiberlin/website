@@ -8,9 +8,9 @@ image_description: Ein Kind malt auf einem Blatt Papier.
 image_credit: Bild von <a href="https://pixabay.com/de/users/picjumbo_com-2130229/">Pixabay</a>
 
 ---
-Covid-19 sorgt ja jetzt gerade bei allen für mehr oder weniger schlechte Stimmung. Zuhause, nicht raus gehen können und die Kinder wollen irgendwie beschäftigt werden.
+Covid-19 sorgt ja jetzt gerade bei allen für mehr oder weniger schlechte Stimmung. Zu Hause, nicht rausgehen können und die Kinder wollen irgendwie beschäftigt werden.
 
-Hier sammle ich eine Liste von Angeboten für euch, die Ihr mit euren Kindern machen könnt. Das ganze ist relativ locker gruppiert. Die Grenze von Vorschulkind zu Schulkind sind ja mitunter recht fließend.
+Hier sammle ich eine Liste von Angeboten für euch damit die Zeit zu Hause so entspannt wie möglich läuft. Das Ganze ist relativ locker gruppiert, die Grenze von Vorschulkind zu Schulkind sind ja mitunter recht fließend.
 
 ## Allgemeine Infos
 
