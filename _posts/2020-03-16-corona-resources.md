@@ -16,6 +16,8 @@ Hier sammle ich eine Liste von angeboten für euch, die Ihr mit euren Kindern ma
 
 * [Deswegen bleiben wir zuhause](https://www.instagram.com/p/B9weIRAoRMI/?igshid=phs4d7szuaj9) - Ein kleiner Comic der kinderfreundlich erklärt, warum alle zuhause bleiben
 
+Für Video-Chats mit mehr als 4 Menschen empfehlen wir [Jitsi.org](https://meet.jit.si/). Neben dem Chrome-Browser muss keine weitere Software installiert werden, es gibt kostenlose Apps für iOS und Android Geräte. Das eignet sich toll um z.B. mit der Kindergartengruppe trotzdem den Morgenkreis zusammen zu machen und ein Lied zu singen.
+
 ## Für Kita/Vorschulkinder
 
 * [ene-mene-bu](https://www.kika.de/ene-mene-bu/index.html) ist das Vorschulangebot des Kika mit vielen Videos und Spielideen.
@@ -36,7 +38,6 @@ Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www
 
 * Bei [ZDF Logo](https://www.zdf.de/kinder/logo) gibt es Nachrichten für Kinder rund um Corona und mehr.
 * [Khan Academy](https://de.khanacademy.org/) ist ein kostenloses Lernangebot für Kinder ab der ersten Klasse.
-* Jede Menge Schreibübungen gibt es unter [ABCund123](https://www.abcund123.de/mein-verruecktes-nachfahrheft/).
 * [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
 * Das ZDF hat ein [digitales Klassenzimmer](https://www.zdf.de/wissen/schulersatzprogramm-100.html) mit Videos für Kinder aller Altersklassen.
 * Das Portal des WDR findet sich unter [schule digital](https://www1.wdr.de/schule/digital/unterrichtsmaterial/index.html).
@@ -48,7 +49,38 @@ Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www
 * [Scoyo](https://www-de.scoyo.com/) hat viele Lernvideos, jetzt 2 Wochen Gratis.
 * [Anton](https://anton.app/de/) hat viele kostenlose Lernspiele in Deutsch, Mathe, Biologie und Musik für Kinder der 1. bis zur 10. Klasse
 
-Für Video-Chats mit mehr als 4 Menschen empfehlen wir [Jitsi.org](https://meet.jit.si/). Neben dem Chrome-Browser muss keine weitere Software installiert werden, es gibt kostenlose Apps für iOS und Android Geräte. Das eignet sich toll um z.B. mit der Kindergartengruppe trotzdem den Morgenkreis zusammen zu machen und ein Lied zu singen.
+### Lesen/Schreiben
+
+* Jede Menge Schreibübungen gibt es unter [ABCund123](https://www.abcund123.de/mein-verruecktes-nachfahrheft/).
+* [Antolino](https://antolin.westermann.de/) ist eine Lese-Platform für die Grund- und Sekundarstufe.
+* Auf [einfachvorlesen.de](https://www.einfachvorlesen.de/) gibt es jede Woche eine neue kostenlose Vorlesegeschichte.
+* [Leseo](https://www.cornelsen.de/empfehlungen/lesen) von Cornelsen ist 3 Monate kostenlos nutzbar.
+* Viele Bibliotheken haben digitale Angebote, die auch trotz Schließung nutzbar sind. Die Liste der Berliner Bibliotheken findet sich z.B. [hier](https://voebb.de) und dann auf "Digitale Medien" klicken.
+
+### Sprachen
+
+* [Duolingo](https://www.duolingo.com/) hat jede Menge kostenlose und einfach aufbereitete Sprachlernkurse
+* [https://www.busuu.com/de](https://www.busuu.com/de)
+
+### Geschichte
+
+* [Lernplattform für offenen Geschichtsunterricht](https://segu-geschichte.de/)
+
+### Naturwissenschaften/Mathematik
+
+* [Bettermarks](https://de.bettermarks.com/) hat Kurse für die 4.-10. Klasse, kostenfrei bis zum 31.07.
+* Der DLR hat ein tolles [#ScienceAtHome](https://www.dlr.de/next/desktopdefault.aspx/tabid-15440/) Portal.
+* Die Youtube-Kanäle von [Dr. Mai Thi Nguyen-Kim](https://www.youtube.com/c/maiLab) und [Lehrerschmidt](https://www.youtube.com/channel/UCy0FxMgGUlRnkxCoNZUNRQQ) haben viele tolle Lernvideos
+* Die Helmholtz-Gemeinschaft hat ein Portal mit Videos und einem PDF mit [Experimenten für Zuhause](https://www.helmholtz.de/index.php?id=5360).
+* Mehr Links gibt es auch beim [zdi](https://www.zdi-portal.de/mint-trotz-corona-linkliste-fuer-zuhause/)
+
+### Informatik
+
+Es gibt viele Angebote, um Programmieren zu lernen, hier nur ein kleiner Auszug:
+
+* [Scratch](https://scratch.mit.edu/)
+* [Hopscotch](https://www.gethopscotch.com/)
+* [Kodable](https://www.kodable.com/)
 
 Habt Ihr noch mehr? Dann [her damit](/contact).
 
