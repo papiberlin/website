@@ -10,7 +10,7 @@ image_credit: Bild von <a href="https://pixabay.com/de/users/picjumbo_com-213022
 ---
 Covid-19 sorgt ja jetzt gerade bei allen für mehr oder weniger schlechte Stimmung. Zuhause, nicht raus gehen können und die Kinder wollen irgendwie beschäftigt werden.
 
-Hier sammle ich eine Liste von angeboten für euch, die Ihr mit euren Kindern machen könnt. Das ganze ist relativ locker gruppiert. Die Grenze von Vorschulkind zu Schulkind sind ja mitunter recht fließend.
+Hier sammle ich eine Liste von Angeboten für euch, die Ihr mit euren Kindern machen könnt. Das ganze ist relativ locker gruppiert. Die Grenze von Vorschulkind zu Schulkind sind ja mitunter recht fließend.
 
 ## Allgemeine Infos
 
