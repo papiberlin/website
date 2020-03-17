@@ -30,10 +30,11 @@ Hier sammle ich eine Liste von angeboten für euch, die Ihr mit euren Kindern ma
 
 ## Für Schulkinder
 
-Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www.ndr.de/ratgeber/So-klappt-Lernen-von-zu-Hause-am-besten,faqlernenzuhause100.html). Bei [ZDF Logo](https://www.zdf.de/kinder/logo) gibt es Nachrichten für Kinder rund um Corona und mehr.
+Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www.ndr.de/ratgeber/So-klappt-Lernen-von-zu-Hause-am-besten,faqlernenzuhause100.html). 
 
 ### Allgemeine Angebote
 
+* Bei [ZDF Logo](https://www.zdf.de/kinder/logo) gibt es Nachrichten für Kinder rund um Corona und mehr.
 * [Khan Academy](https://de.khanacademy.org/) ist ein kostenloses Lernangebot für Kinder ab der ersten Klasse.
 * Jede Menge Schreibübungen gibt es unter [ABCund123](https://www.abcund123.de/mein-verruecktes-nachfahrheft/).
 * [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
