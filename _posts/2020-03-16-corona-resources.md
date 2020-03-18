@@ -15,6 +15,8 @@ Hier sammle ich eine Liste von Angeboten für euch damit die Zeit zu Hause so en
 ## Allgemeine Infos
 
 * [Deswegen bleiben wir zuhause](https://www.instagram.com/p/B9weIRAoRMI/?igshid=phs4d7szuaj9) - Ein kleiner Comic der kinderfreundlich erklärt, warum alle zuhause bleiben
+* Ein weiteres Poster in verschiedenen Sprachen zum Thema gibt es auf [mindheart.co](https://www.mindheart.co/descargables)
+* Du hättest gerne Tipps, wie das mit dem Homeoffice und Kindern klappen soll? [@dieformgeberin](https://www.instagram.com/dieformgeberin/) posted jeden Tag einen neuen Beitrag [in ihrem Blog](https://dieformgeber.com/homeoffice-guideline/).
 * Für Video-Chats mit mehr als 4 Menschen empfehlen wir [Jitsi.org](https://meet.jit.si/). Neben dem Chrome-Browser muss keine weitere Software installiert werden, es gibt kostenlose Apps für iOS und Android Geräte. Das eignet sich toll um z.B. mit der Kindergartengruppe trotzdem den Morgenkreis zusammen zu machen und ein Lied zu singen.
 
 ## Für Kita/Vorschulkinder
