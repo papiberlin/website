@@ -21,16 +21,22 @@ Hier sammle ich eine Liste von Angeboten für euch damit die Zeit zu Hause so en
 
 ## Für Kita/Vorschulkinder
 
+### Allgemeine Angebote
+
 * [ene-mene-bu](https://www.kika.de/ene-mene-bu/index.html) ist das Vorschulangebot des Kika mit vielen Videos und Spielideen.
 * [Die Maus](https://www.wdrmaus.de/) hat natürlich auch eine Webseite mit jeder Menge Folgen
 * [Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/) ist ein sehr tolles kostenloses englischsprachiges Lernprogramm für Kinder im Vorschulalter.
 * [papamachtsachen liest vor](https://www.instagram.com/p/B9yaXP6IoxB/?igshid=bb0eybdbmezo) - der Instagram-Account [@papamachtsachen](https://www.instagram.com/papamachtsachen/) fängt Dienstag an jeweils um 16:00 Märchen vorzulesen.
-* [Illustratoren gegen Corona](http://www.illustratoren-gegen-corona.de/) hat sehr viele Malvorlagen für euch, total kostenlos. Runterladen, ausdrucken und eure Kinder können losmalen.
-* Die Spiel- und Lerndesignerinnen Anne & Ruth schenken auf [geschwisterloewenstein.de](https://www.geschwisterloewenstein.de/) jeden Tag eine neue Spielidee.
-* Der Blog von [@newniqberlin](https://instagram.com/newniqberlin/) hat auch jeden Tag schöne [Malvorlagen für euch](https://www.newniq.com/allgemein/malvorlagen-fuer-kinder-gegen-den-corona-kollar/).
 * [Damla Hekimoğlu](https://twitter.com/_DamlaHekimoglu) liest auf ihrem [Youtube-Kanal](https://www.youtube.com/damlahekimoglu) ausgewählte Geschichten vor.
 * [Polylino](https://www.polylino.de/neuigkeiten/coronakrise-polylino-offen-fuer-alle-kinder/) hat ihr Angebot von Kinderbüchern in mehreren Sprachen für Eltern kostenlos freigeschaltet.
 * [Löwenzähnchen](https://www.zdf.de/kinder/loewenzaehnchen) ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
+
+### Basteln/Malen/Spielen
+
+* [Illustratoren gegen Corona](http://www.illustratoren-gegen-corona.de/) hat sehr viele Malvorlagen für euch, total kostenlos. Runterladen, ausdrucken und eure Kinder können losmalen.
+* Die Spiel- und Lerndesignerinnen Anne & Ruth schenken auf [geschwisterloewenstein.de](https://www.geschwisterloewenstein.de/) jeden Tag eine neue Spielidee.
+* Der Blog von [@newniqberlin](https://instagram.com/newniqberlin/) hat auch jeden Tag schöne [Malvorlagen für euch](https://www.newniq.com/allgemein/malvorlagen-fuer-kinder-gegen-den-corona-kollar/).
+* [Besser Basteln](http://besserbasteln.de/) hat viele kostenlose Bastelanleitungen.
 
 ## Für Schulkinder
 
