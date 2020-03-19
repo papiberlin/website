@@ -35,6 +35,7 @@ Hier sammle ich eine Liste von Angeboten für euch damit die Zeit zu Hause so en
 
 * [Illustratoren gegen Corona](http://www.illustratoren-gegen-corona.de/) hat sehr viele Malvorlagen für euch, total kostenlos. Runterladen, ausdrucken und eure Kinder können losmalen.
 * Die Spiel- und Lerndesignerinnen Anne & Ruth schenken auf [geschwisterloewenstein.de](https://www.geschwisterloewenstein.de/) jeden Tag eine neue Spielidee.
+* Wundeschöne Ausmalbilder gibt es auch bei [Martina Hoffmann](https://stiftundpapier.de/portfolio_page/coloringpictures/)
 * Der Blog von [@newniqberlin](https://instagram.com/newniqberlin/) hat auch jeden Tag schöne [Malvorlagen für euch](https://www.newniq.com/allgemein/malvorlagen-fuer-kinder-gegen-den-corona-kollar/).
 * [Besser Basteln](http://besserbasteln.de/) hat viele kostenlose Bastelanleitungen.
 * Die Deutsche Bahn hat jede Menge Bastelvorlagen auf ihrem [Portal für Kinder](https://www.olis-bahnwelt.de/spiele-und-basteln).
