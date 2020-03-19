@@ -38,6 +38,7 @@ Hier sammle ich eine Liste von Angeboten für euch damit die Zeit zu Hause so en
 * Der Blog von [@newniqberlin](https://instagram.com/newniqberlin/) hat auch jeden Tag schöne [Malvorlagen für euch](https://www.newniq.com/allgemein/malvorlagen-fuer-kinder-gegen-den-corona-kollar/).
 * [Besser Basteln](http://besserbasteln.de/) hat viele kostenlose Bastelanleitungen.
 * Die Deutsche Bahn hat jede Menge Bastelvorlagen auf ihrem [Portal für Kinder](https://www.olis-bahnwelt.de/spiele-und-basteln).
+* [Papu](https://papustories.com/) hat auch gratis [Malvorlagen](https://papustories.com/pages/coloring-pages)
 
 ## Für Schulkinder
 
