@@ -8,9 +8,17 @@ image_description: Ein Kind malt auf einem Blatt Papier.
 image_credit: Bild von <a href="https://pixabay.com/de/users/picjumbo_com-2130229/">Pixabay</a>
 
 ---
-Covid-19 sorgt ja jetzt gerade bei allen für mehr oder weniger schlechte Stimmung. Zu Hause, nicht rausgehen können und die Kinder wollen irgendwie beschäftigt werden.
+Eltern haben gerade eine besondere Herausforderung durch Covid-19. Homeoffice,
+Kinder bespaßen und dabei vielleicht noch ein wenig Schulstoff pauken? Das ist
+schon ziemlich krass. Das wichtigste gerade ist: versucht nicht perfekt zu
+sein. Es ist okay, wenn das Kind mal nicht alle Hausaufgaben macht. Versucht
+euch Freiräume zu schaffen.
 
-Hier sammle ich eine Liste von Angeboten für euch damit die Zeit zu Hause so entspannt wie möglich läuft. Das Ganze ist relativ locker gruppiert, die Grenze von Vorschulkind zu Schulkind sind ja mitunter recht fließend.
+Ich versuche euch hier mit einer langen Liste mit vielen
+Inspirationen unter die Arme zu greifen. Das Ganze ist relativ locker gruppiert, die Grenze von
+Vorschulkind zu Schulkind sind ja mitunter recht fließend.
+
+Teilt diese Liste gerne mit allen und wenn ihr noch weitere Ideen habt, [schreibt mir](/contact).
 
 ## Allgemeine Infos
 
