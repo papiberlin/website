@@ -47,6 +47,7 @@ Teilt diese Liste gerne mit allen und wenn ihr noch weitere Ideen habt, [schreib
 * Der Blog von [@newniqberlin](https://instagram.com/newniqberlin/) hat auch jeden Tag schöne [Malvorlagen für euch](https://www.newniq.com/allgemein/malvorlagen-fuer-kinder-gegen-den-corona-kollar/).
 * [Besser Basteln](http://besserbasteln.de/) hat viele kostenlose Bastelanleitungen.
 * Die Deutsche Bahn hat jede Menge Bastelvorlagen auf ihrem [Portal für Kinder](https://www.olis-bahnwelt.de/spiele-und-basteln).
+* Liz Climo hat auch ein wunderschönes Ausmalbuch [in ihrem Blog](https://lizclimo.tumblr.com/post/613057271422910464/free-coloring-book-download-yours-here-if).
 * [Papu](https://papustories.com/) hat auch gratis [Malvorlagen](https://papustories.com/pages/coloring-pages)
 
 ## Für Schulkinder
