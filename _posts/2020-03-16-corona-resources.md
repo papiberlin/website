@@ -94,6 +94,7 @@ Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www
 * Die Youtube-Kanäle von [Dr. Mai Thi Nguyen-Kim](https://www.youtube.com/c/maiLab) und [Lehrerschmidt](https://www.youtube.com/channel/UCy0FxMgGUlRnkxCoNZUNRQQ) haben viele tolle Lernvideos
 * Die Helmholtz-Gemeinschaft hat ein Portal mit Videos und einem PDF mit [Experimenten für Zuhause](https://www.helmholtz.de/index.php?id=5360).
 * Mehr Links gibt es auch beim [zdi](https://www.zdi-portal.de/mint-trotz-corona-linkliste-fuer-zuhause/)
+* Der Nabu hat eine [schöne Seite](https://www.nabu.de/natur-und-landschaft/natur-erleben/27778.html) mit vielen Infos und kleinen Spielen.
 
 ### Sport
 
