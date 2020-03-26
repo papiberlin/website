@@ -71,6 +71,7 @@ Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www
 * [Anton](https://anton.app/de/) hat viele kostenlose Lernspiele in Deutsch, Mathe, Biologie und Musik für Kinder der 1. bis zur 10. Klasse
 * [Homeschooling Corona](https://homeschooling-corona.com/) hat News und listen von Angeboten rund um das Thema Homeschooling.
 * [piqd](https://www.piqd.de/piqd/wir-starten-das-piqd-online-college-und-stellen-taglich-spannende-themen-vor) hat nun jeden Tag ein- bis zweimal eine Schulstunde mit Expert\*innen zu verschiedenen Themen.
+* [Ich-lerne-online](https://ich-lerne-online.org/) ist ein neues Verzeichnis mit verschiedenen Lernangeboten.
 
 ### Lesen/Schreiben
 
