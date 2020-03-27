@@ -39,6 +39,7 @@ Teilt diese Liste gerne mit allen und wenn ihr noch weitere Ideen habt, [schreib
 * [Polylino](https://www.polylino.de/neuigkeiten/coronakrise-polylino-offen-fuer-alle-kinder/) hat ihr Angebot von Kinderbüchern in mehreren Sprachen für Eltern kostenlos freigeschaltet.
 * [Löwenzähnchen](https://www.zdf.de/kinder/loewenzaehnchen) ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
 * [Julia Miller-Lissner](https://www.youtube.com/channel/UCjZo5FZLamKq6fuwb1hHdwQ?reload=9) hat seit Montag den 16. jeden Tag ein neues Musikvideo für Kinder von 0-5.
+* [Sesame Workshop](https://www.sesamestreet.org/caring), die gemeinnützige Firma hinter der Sesamstrasse, hat viele kostenlose Inhalte zusammengestellt. Darunter auch einige deutschsprachige eBooks bei Apple und Google.
 
 ### Basteln/Malen/Spielen
 
