@@ -40,6 +40,7 @@ Teilt diese Liste gerne mit allen und wenn ihr noch weitere Ideen habt, [schreib
 * [Löwenzähnchen](https://www.zdf.de/kinder/loewenzaehnchen) ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
 * [Julia Miller-Lissner](https://www.youtube.com/channel/UCjZo5FZLamKq6fuwb1hHdwQ?reload=9) hat seit Montag den 16. jeden Tag ein neues Musikvideo für Kinder von 0-5.
 * [Sesame Workshop](https://www.sesamestreet.org/caring), die gemeinnützige Firma hinter der Sesamstrasse, hat viele kostenlose Inhalte zusammengestellt. Darunter auch einige deutschsprachige eBooks bei Apple und Google.
+* [DieKurzgeschichte.de](https://diekurzgeschichte.de/) hat sehr viele kostenlose Hörspiele.
 
 ### Basteln/Malen/Spielen
 
@@ -94,7 +95,7 @@ Beim NDR gibt es einen Artikel [wie man am besten von zuhause lernt](https://www
 ### Naturwissenschaften/Mathematik
 
 * [Bettermarks](https://de.bettermarks.com/) hat Kurse für die 4.-10. Klasse, kostenfrei bis zum 31.07.
-* Der DLR hat ein tolles [#ScienceAtHome](https://www.dlr.de/next/desktopdefault.aspx/tabid-15440/) Portal.
+* Der DLR hat ein tolles [#ScienceAtHome](https://www.dlr.de/next/desktopdefault.aspx/tabid-15440/) Portal. Das entsprechende Portal der NASA findet sich [hier](https://www.nasa.gov/specials/nasaathome/).
 * Die Youtube-Kanäle von [Dr. Mai Thi Nguyen-Kim](https://www.youtube.com/c/maiLab) und [Lehrerschmidt](https://www.youtube.com/channel/UCy0FxMgGUlRnkxCoNZUNRQQ) haben viele tolle Lernvideos
 * Die Helmholtz-Gemeinschaft hat ein Portal mit Videos und einem PDF mit [Experimenten für Zuhause](https://www.helmholtz.de/index.php?id=5360).
 * Mehr Links gibt es auch beim [zdi](https://www.zdi-portal.de/mint-trotz-corona-linkliste-fuer-zuhause/)
