@@ -44,11 +44,7 @@ title: Home
 {% endif %}
 {% endif %}
 
-<section class="recent-posts row">
-
-    <div class="col-sm-4">
-        {% include sidebar.html %}
-    </div>
+<section class="recent-posts row flex-row-reverse">
 
     <div class="col-sm-8">
 
@@ -82,5 +78,9 @@ title: Home
         </div>
 
     </div>
+    <div class="col-sm-4">
+        {% include sidebar.html %}
+    </div>
+
 
 </section>
