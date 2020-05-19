@@ -1050,3 +1050,6 @@ iframe {
   height: 200px;
   object-fit: cover;
 }
+
+.form-hidden {
+  display: none;

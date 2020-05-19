@@ -38,21 +38,22 @@ Ort: Vermutlich Paul und Paula, Richard-Sorge-Str. 25, 10249 Berlin
 
 ### Anmelden
 
-<form action="https://formsubmit.co/{{site.email}}" method="POST">
+<form action="https://form.papiberlin.de" method="POST">
+  <input type="hidden" name="_redirectTo" value="https://papiberlin.de/danke">
   <input type="hidden" name="kurs" value="vaterkurs">
-  <input type="hidden" name="_replyto">
 
   <div class="form-group row">
     <div class="col-md-12">
       <label for="email">Email-Adresse</label>
-      <input id="email" class="form-control" type="email" name="email" placeholder="E-mail Adresse" required="required">
+      <input id="email" class="form-control" type="email" name="_replyTo" placeholder="E-mail Adresse" required="required">
     </div>
   </div>
 
+  <input class="form-hidden" aria-hidden="true" name="_t_email" placeholder="E-mail"> 
   <div class="form-group row">
     <div class="col-md-12">
       <label for="name">Name</label>
-      <input id="name" class="form-control" name="name" placeholder="Name" required="required">
+      <input id="name" class="form-control" name="_formName" placeholder="Name" required="required">
     </div>
   </div>
 
