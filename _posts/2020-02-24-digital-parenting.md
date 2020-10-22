@@ -26,7 +26,7 @@ Neben den Apps haben viele übrigens auch einen geteilten Kalender. Sei es mit H
 
 * Babies lieben das Geräusch von Wellen oder sonstigem Rauschen um einzuschlafen. Geschmäcker sind dabei extrem verschieden. Einige mögen das Geräusch eines Föns, andere eher Regen. Apps wie [Relax Meditations](https://www.ipnos.com/apps/relax-meditation/) sind da eine gute Hilfe in den ersten Wochen.
 * Du willst den Schlafrhythmus verstehen? Dir merken, welche Brust bei der letzten Fütterung genutzt wurde? Und das auch, wenn du selber nur 4 Stunden geschlafen hast? Dann sind Apps wie [Feed Baby](https://www.feedbaby.com.au/) oder [Baby Tracker](http://nighp.com/babytracker/) eine perfekte Hilfe.
-* Es gibt eine unglaublich große Anzahl an Spielplätzen. Einige sind leider etwas versteckter. In [Playground Guide: Berlin](https://berlin-playgrounds.de/) gibt es (fast) alle.
+* Es gibt eine unglaublich große Anzahl an Spielplätzen. Einige sind leider etwas versteckter.
 * Ihr braucht Beschäftigung oder langweilt euch gerade? Bei [Kindaling](https://www.kindaling.de/) und [Berlin Mit Kind](https://berlinmitkind.de/) gibt es Newsletter mit den aktuellen Terminen für Eltern in der Stadt.
 * "Oje, ich wachse" ist ein Buch-Klassiker. Das ganze gibt es auch [als App](https://www.ojeichwachse.de/oje-ich-wachse-app/) mit einem schönen Kalender. Damit könnt ihr direkt sehen, wann welcher Sprung ansteht und euch entsprechend vorbereiten.
 * Mit Hilfe von [Luna](https://babyphone.app/) oder [BabyPhone 3G](https://www.tappytaps.com/apps/#Baby-Monitor-3G) könnt ihr auf ein Babyphone verzichten und nutzt ein altes Telefon dafür.
