@@ -14,6 +14,6 @@ Eltern sorgen um die Zeit, die Kinder notgedrungen Medien konsumieren. Dieses Bu
 
 Worauf wartet ihr also? Kauft es. Lest es.
 
-[![](/assets/images/blog/dreissigminuten_cover.jpg)](https://www.genialokal.de/Suche/?q=+Drei%C3%9Fig+Minuten%2C+dann+ist+aber+Schluss)
+[![](/assets/images/blog/dreissigminuten_cover.jpg)](https://www.awin1.com/cread.php?awinmid=17358&awinaffid=934571&ued=https%3A%2F%2Fwww.genialokal.de%2FSuche%2F%3Fq%3D%2BDrei%25C3%259Fig%2BMinuten%252C%2Bdann%2Bist%2Baber%2BSchluss)
 
-[Das Buch bei Genialokal.de kaufen.](https://www.genialokal.de/Suche/?q=+Drei%C3%9Fig+Minuten%2C+dann+ist+aber+Schluss)
+[Das Buch bei Genialokal.de kaufen.](https://www.awin1.com/cread.php?awinmid=17358&awinaffid=934571&ued=https%3A%2F%2Fwww.genialokal.de%2FSuche%2F%3Fq%3D%2BDrei%25C3%259Fig%2BMinuten%252C%2Bdann%2Bist%2Baber%2BSchluss)
