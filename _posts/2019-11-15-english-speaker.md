@@ -8,8 +8,15 @@ image_credit: Foto von <a href="https://unsplash.com/@nicolehoneywill_sincerelym
 
 featured: true
 ---
-This website is in German right now, but don't worry. We are able to speak English. Lots of our members speak English fluently. Our [Slack](http://dadaberlin.herokuapp.com/) has an English channel and on our meetups we try to include everyone.
+This website is in German right now, but don't worry. We are able to speak
+English. Lots of our members speak English fluently. Our
+Slack has an English channel and on our meetups we try to include everyone. Just send
+us an <a href="mailto:mail@papiberlin.de?subject=Slack&body=Slack invite">email</a> and
+we will invite you to it.
 
-We are no lawyers, but if you need some guidance in the German bureaucracy or have questions regarding raising your kid, we might know the answer or at least the right person to ask. 
+We are no lawyers, but if you need some guidance in the German bureaucracy or
+have questions regarding raising your kid, we might know the answer or at least
+the right person to ask. 
 
-So please subscribe to our newsletter or join our slack. Alternatively feel free to [contact](/contact) us via the web form.
+So please subscribe to our newsletter or join our slack. Alternatively feel
+free to [contact](/contact) us via the web form.
