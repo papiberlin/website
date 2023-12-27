@@ -1,0 +1,10 @@
+- id: birthdays
+  title: Geburtstage
+  description: Resourcen rund um das Thema Geburtstage.
+- id: learning
+  title: Lernen
+  description: Alles rund um das riesige Thema Lernen und Bildung
+- id: digital-games
+  title: Digitale Spiele
+  description: Digitale Spiele für Konsolen, iPads, Desktops...
+  

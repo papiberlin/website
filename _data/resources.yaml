@@ -1,0 +1,24 @@
+- title: Entdeckum - das Labor für Kinder
+  category: birthdays
+  url: https://www.entdeckum-kinderlabor.com/forscher-geburtstagspartys/
+  description: Das Entdeckum bietet neben Experimentierkursen für Kinder auch ForscherInnen-Geburtstagsparties an.
+  age: 5-12
+- title: Brio World
+  category: digital-games
+  description: Sehr schöne App für alle Holzeisenbahn-Fans. Ein toller Einstieg in die Spielekategorie "Aufbauspiele"
+  age: 5-9
+- title: Flik Flak - Adventure Time
+  category: digital-games
+  description: Gemeinsam mit Flik und Flak erleben Kinder ein besonders lehrreiches Abenteuer. Laufen, springen und kullern – in 36 spannenden Levels warten verschiedene Rätsel und Aufgaben rund ums Thema Uhrzeit. 
+  age: 5-7
+  url: https://www.flikflak.com/de-de/flikflak-the-app.html
+- title: Khan Academy
+  category: learning
+  description: Die Khan-Academy bietet viele Kurse, von der Vorschule bis zum Abitur. Khan-Academy Kids, die App für die Vorschule, ist leider momentan nur auf Englisch verfügbar.
+  age: 4-16
+  url: https://de.khanacademy.org/
+- title: Anton App
+  category: learning
+  description: Kostenlose App mit Lektionen die zu deutschen Lehrplänen passen.
+  age: 4-14
+  url: https://anton.app/de/

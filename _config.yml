@@ -18,6 +18,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-datapage-generator
         
 # Archives
 jekyll-archives:
@@ -30,3 +31,10 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
+page_gen:
+  - index_files: false
+    data: resource_categories
+    name: id
+    dir: resourcen
+    template: 'resource'

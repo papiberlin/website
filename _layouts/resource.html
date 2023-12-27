@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="back-link">
+  <a href="/resourcen">&laquo; Zurück</a>
+</div>
+
+<div class="article-post">
+  <div class="mainheading" >
+    <h1 class="posttitle">{{ page.title }}</h1>
+    <p class="lead">
+      {{page.description }}
+    </p>
+  </div>
+
+  <ul>
+{% assign sortedItems = site.data.resources | where: 'category', page.id | sort: "title" %}
+{% for resource in sortedItems %}
+  <li>
+    <a href="{{ resource.url }}">
+      {{ resource.title }}
+    </a>
+    {{ if resource.age }}
+      <div class="age-group">Alter: {{ resource.age }}</div>
+    {{ endif}}
+    <p>
+    {{ resource.description}}
+    </p>
+  </li>
+{% endfor %}
+  </ul>
+</div>
