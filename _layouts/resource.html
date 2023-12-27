@@ -21,9 +21,10 @@ layout: default
     <a href="{{ resource.url }}">
       {{ resource.title }}
     </a>
-    {{ if resource.age }}
-      <div class="age-group">Alter: {{ resource.age }}</div>
-    {{ endif}}
+    {% assign cleaned_age = resource.age | strip_newlines %}
+    {% if cleaned_age != "" %}
+      <div class="age-group">Alter: {{ cleaned_age }}</div>
+    {% endif %}
     <p>
     {{ resource.description}}
     </p>

@@ -23,3 +23,13 @@
   description: Kostenlose App mit Lektionen die zu deutschen Lehrplänen passen.
   age: 4-14
   url: https://anton.app/de/
+- title: Fiete Math-Kinder Mathe Spiel
+  category: learning
+  description: Spielerisch Rechnen lernen
+  age: 5-9
+  url: https://apps.apple.com/de/app/fiete-math-kinder-mathe-spiel/id1052109508
+- title: Kinderfahrradfinder
+  category: shopping-advice
+  description: Welches Kinderfahrrad hat die richtige Größe?...Gute, leichte Kinderfahrräder und Jugendfahrräder ganz einfach in der passenden Größe finden.
+  age: 2-16
+  url: https://www.kinderfahrradfinder.de/
