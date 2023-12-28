@@ -15,7 +15,7 @@ layout: default
   </div>
 
   <ul>
-{% assign sortedItems = site.data.resources | where: 'category', page.id | sort: "title" %}
+{% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | sort: "title" %}
 {% for resource in sortedItems %}
   <li>
     <a href="{{ resource.url }}">
@@ -25,9 +25,7 @@ layout: default
     {% if cleaned_age != "" %}
       <div class="age-group">Alter: {{ cleaned_age }}</div>
     {% endif %}
-    <p>
-    {{ resource.description | markdownify}}
-    </p>
+    {{ resource.description | strip_newlines | markdownify}}
   </li>
 {% endfor %}
   </ul>

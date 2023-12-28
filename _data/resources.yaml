@@ -1,41 +1,41 @@
 - title: Entdeckum - das Labor für Kinder
-  category: birthdays
+  categories: ["birthdays"]
   url: https://www.entdeckum-kinderlabor.com/forscher-geburtstagspartys/
   description: Das Entdeckum bietet neben Experimentierkursen für Kinder auch ForscherInnen-Geburtstagsparties an.
   age: 5-12
 
 - title: Brio World
-  category: digital-games
+  categories: ["digital-games"]
   description: Sehr schöne App für alle Holzeisenbahn-Fans. Ein toller Einstieg in die Spielekategorie "Aufbauspiele"
   age: 5-9
   url: https://www.filimundus.com/brio-world-railway
 
 - title: Flik Flak - Adventure Time
-  category: digital-games
+  categories: ["digital-games"]
   description: Gemeinsam mit Flik und Flak erleben Kinder ein besonders lehrreiches Abenteuer. Laufen, springen und kullern – in 36 spannenden Levels warten verschiedene Rätsel und Aufgaben rund ums Thema Uhrzeit. 
   age: 5-7
   url: https://www.flikflak.com/de-de/flikflak-the-app.html
 
 - title: Khan Academy
-  category: learning
+  categories: ["learning"]
   description: Die Khan-Academy bietet viele Kurse, von der Vorschule bis zum Abitur. Khan-Academy Kids, die App für die Vorschule, ist leider momentan nur auf Englisch verfügbar.
   age: 4-16
   url: https://de.khanacademy.org/
 
 - title: Anton App
-  category: learning
+  categories: ["learning"]
   description: Kostenlose App mit Lektionen die zu deutschen Lehrplänen passen.
   age: 4-14
   url: https://anton.app/de/
 
 - title: Fiete Math-Kinder Mathe Spiel
-  category: learning
+  categories: ["learning"]
   description: Wunderschöne App, mit der euer Kind spielerisch Rechnen lernen
   age: 5-9
   url: https://apps.apple.com/de/app/fiete-math-kinder-mathe-spiel/id1052109508
 
 - title: Kinderfahrradfinder
-  category: shopping-advice
+  categories: ["shopping-advice"]
   description: Welches Kinderfahrrad hat die richtige Größe?...Gute, leichte Kinderfahrräder und Jugendfahrräder ganz einfach in der passenden Größe finden.
   age: 2-16
   url: https://www.kinderfahrradfinder.de/
@@ -43,104 +43,139 @@
 - title: Das gewünschteste Wunschkind-Podcast
   url: https://www.gewuenschtestes-wunschkind.de/p/podcast.html
   description: Einer der Klassiker. Guter Blog, gute Buch-Reihe, guter Podcast 🤗
-  category: podcast
+  categories: ["podcast"]
 
 - title: Mit Kindern Leben
   url: https://mkl.wtf/
   description: Patricia und Caspar sind nicht nur im Social Media-Bereich aktiv, sondern haben auch noch diesen tollen Podcast 🎧
-  category: podcast
+  categories: ["podcast"]
 
 - title: Podcast Elterngedöns - Eltern-Coach Christopher End
   url: https://christopher-end.de/podcast-elterngedoens/
   description: Christoph hat eine sehr schöne Art Interviews zu führen und Konzepte zu erklären ❤️
-  category: podcast
+  categories: ["podcast"]
 
 - title: Daddies in Distress
   url: http://did-podcast.de/
   description: Sehr reflektiert und auch sehr lang. Also wenn ihr viel zu waschen habt 😆.
-  category: podcast
+  categories: ["podcast"]
 
 - title: Vaterzeit
   url: http://vaterzeit.rocks
   description: Der Podcast von [Vaterwelten.de](https://vaterwelten.de/), noch sehr neu aber schon ein paar schöne Interviews mit Vätern. Große Liebe hierfür 👨‍👧!
-  category: podcast
+  categories: ["podcast"]
 
 - title: Eltern ohne Filter
   url: https://www.br.de/mediathek/podcast/eltern-ohne-filter/821
   description: Mütter und Väter erzählen ungefiltert von ihrem Leben als Eltern. Vom irrsinnigen Glück. Vom ganz normalen Wahnsinn. Und von ihren dunklen Momenten. 
-  category: podcast
+  categories: ["podcast"]
 
 - title: Zen Parenting
   url: https://zenparentingradio.com/
   description: Erziehung aus einer amerikanischen Sichtweise. Sehr unterhaltsam und tiefgründig 🍼
-  category: podcast
+  categories: ["podcast"]
 
 - title: Mom and Dad are fighting
   url: https://slate.com/podcasts/mom-and-dad-are-fighting
   description: Schöner Eltern-Podcast von der amerikanischen Webseite Slate 📚
-  category: podcast
+  categories: ["podcast"]
 
 - title: Better Teaching Resources
   description: Jede menge Unterrichtsmaterial für Kinder. Die Bilderkarten Gefühle sind z.B. sehr toll.
   url: https://www.betterteachingresources.com/
   age: 5-14
-  category: learning
+  categories: ["learning"]
 
 - title: Little Travel Society
   description: Ein schöner Blog rund um das Thema Familienhotels, mit jede Menge Tips und Empfehlungen
   url: https://www.littletravelsociety.de/
-  category: vacation
+  categories: ["vacation"]
 
 - title: Flimmo
   url: https://www.flimmo.de/
   description: Elternratgeber für TV, Streaming und Co.
   age: 3-14
-  category: media
+  categories: ["media"]
 
 - title: Common Sense Media
   description: Amerikanische Non-Profit mit einer riesigen Filmdatenbank inkl. Rezension und Altersempfehlungen.
   url: https://www.commonsensemedia.org/
   age: 2-18
-  category: media
+  categories: ["media"]
 
 - title: Family Gaming Database
-  description: Riesige Datenbank mit Reviews und Altersempfehlungen von Videospielen.
+  description: Riesige Datenbank mit Reviews und Altersempfehlungen von Brett- und Videospielen.
   url: https://www.familygamingdatabase.com
   age: 4-16
-  category: digital-games
+  categories: ["digital-games", "boardgames"]
 
 - title: Kinderfilmblog
   description: Der beste Blog im deutschen Raum zum Thema Kinderfilme.
   url: https://kinderfilmblog.de/
   age: 4-14
-  category: media
+  categories: ["media"]
 
 - title: Polle
   description: "POLLE ist ein Comic-Magazin für Kinder ab 7 Jahren. Viele wunderbare Künstler*innen aus aller Welt veröffentlichen darin ihre brandneu gezeichneten Geschichten: kurze & längere, lustige & ernste, verrückte & alltägliche."
   url: https://pe-ri-dot.com/collections/polle
   age: 7-
-  category: reading
+  categories: ["reading"]
 
 - title: Kinderstark
   description: Deutschlands erstes Kindermagazin für mehr Vielfalt und starke Kinder
-  category: reading
+  categories: ["reading"]
   age: 7-
   url: https://www.kinderstark-magazin.de/
 
 - title: Stiftung Warentest
   description: Der deutsche Klassiker. Hier gibt es viele gute Tests, z.B. zu Kinderhelmen, Autositzen und vieles mehr.
   url: https://www.test.de/
-  category: shopping-advice
+  categories: ["shopping-advice"]
 
 - title: Wishlephant
   description: Wishlephant ist nicht nur eine tolle Wunschlisten-Webseite, sondern hat zusätzlich eine riesige Anzahl an Produkt-Empfehlungen. Der Blog ist auch einen Besuch wert.
   url: https://wishlephant.com/gift-ideas
-  category: shopping-advice
+  categories: ["shopping-advice"]
+
+- title: Dreißig Minuten, dann ist aber Schluss!
+  url: /pages/dreissigminuten
+  description: Patricia Cammaratas Buch zum Thema Medien sollten alle Erziehende gelesen haben. Weniger Stress, mehr gelassener Umgang mit Medien ♥️.
+  categories: ["media"]
+
+- title: Kakadu
+  url: https://www.kakadu.de/
+  age: 6-12
+  description: Der Kinder-Podcast des Deutschlandfunk Kultur.
+  categories: ["podcast-kids"]
+
+- title: MIRA & das fliegende Haus
+  age: 4-11
+  url: https://mira-welt.de/
+  description: "Bei \"MIRA & das fliegende Haus\" dreht sich alles um die wirklich wichtigen Themen: Nämlich den Umgang mit Gefühlen, Achtsamkeit, Selbstliebe, Nachhaltigkeit, Empathie, Diversity, Inklusion und vieles mehr."
+  categories: ["podcast-kids"]
+
+# * [ene-mene-bu](https://www.kika.de/ene-mene-bu/index.html) ist das Vorschulangebot des Kika mit vielen Videos und Spielideen.
+# * [Die Maus](https://www.wdrmaus.de/) hat natürlich auch eine Webseite mit jeder Menge Folgen
+# * [Polylino](https://www.polylino.de/neuigkeiten/coronakrise-polylino-offen-fuer-alle-kinder/) hat ihr Angebot von Kinderbüchern in mehreren Sprachen für Eltern kostenlos freigeschaltet.
+# Vöbb
+
+# * [Löwenzähnchen](https://www.zdf.de/kinder/loewenzaehnchen) ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
+# * [DieKurzgeschichte.de](https://diekurzgeschichte.de/) hat sehr viele kostenlose Hörspiele.
+# * [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
+
+# * [Wissen Macht Ah!](https://kinder.wdr.de/tv/wissen-macht-ah/) ist eine schöne Kinder-Wissenschafts-Sendung des WDR.
+
+
+# * [Lernattack](https://learnattack.de/corona), das Lernangebot des Duden-Verlages, gibt es nun 2 Monate kostenlos
+
+# * [Scratch](https://scratch.mit.edu/)
+# * [Hopscotch](https://www.gethopscotch.com/)
+# * [Kodable](https://www.kodable.com/)
 
 ## Noch zu machen
 # - title:
 #   url: https://www.albawildlife.com/
-#   category: digital-games
+#   categories: ["digital-games
 
 # - title:
 #    url: https://milchsalon.de/
@@ -150,27 +185,27 @@
 
 # - title:
 #   url: https://www.langer-blomqvist.de
-#   category: reading
+#   categories: ["reading
 
 # - title:
 #   url: https://www.schau-hin.info
-#   category: media
+#   categories: ["media
 
 # - title:
 #   url: https://www.gecko-kinderzeitschrift.de
-#   category: reading
+#   categories: ["reading
 
 # - title:
 #   url: https://herviewfromhome.com/50-questions-to-ask-your-kids-instead-of-asking-how-was-your-day
-#   category: food-for-thoughts
+#   categories: ["food-for-thoughts
 
 # - title:
 #   url: https://www.dieweltwartet.de
-#   category: vacation
+#   categories: ["vacation
 
 # - title: Familienreisefieber
 #   url: https://www.familienreisefieber.de/
-#   category: vacation
+#   categories: ["vacation
 
 # - title:
 #   url: https://shop.jugendkulturservice.de/index.php
@@ -183,6 +218,18 @@
 # url: https://reprodukt.com/collections/kindercomics
 # url: https://buchboxberlin.de/
 # url: https://www.krumulus.com/
+# url: https://babyphone.app/
+# url: https://boardgamegeek.com/
+
+# * Baby Berlin
+#   ([Android](https://play.google.com/store/apps/details?id=de.gesundheitbb.clbirth),
+#   [iPhone](https://itunes.apple.com/de/app/baby-berlin-app/id976204677?l=en&mt=8)) - diese App gibt dir eine Übersicht, was alles zu erledigen ist, wenn ein Kind unterwegs ist. Ich bin immer noch überrascht, wie viele Formulare auszufüllen sind 😢.
+# * [embryotox](https://www.embryotox.de/) - Welche Medikamente sind okay während der Schwangerschaft?
+
+# * [Kita Navigator](https://kita-navigator.berlin.de/) - Ja, das gehört leider zu der "vor der Geburt", zumindest in Berlin. Hier kannst du schon mal schauen, welche Kindergärten es in deiner Nähe gibt und dich dort bewerben.
+# * [Contraction Timer](https://itunes.apple.com/de/app/labor-contraction-timer-birth/id1204868842?l=en&mt=8). Diese App brauchst du hoffentlich nur einige Stunden, aber dann ist es sehr hilfreich. Während der Wehen willst und kannst du nicht auch noch im Kopf rechnen, wie lange die letzte Wehe her war.
+
+# https://wishlephant.com/gift-ideas#spiele
 
 # - title: 
 #   category:

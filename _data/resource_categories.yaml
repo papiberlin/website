@@ -14,11 +14,17 @@
   title: Medien (TV, Streaming, Hörspiele, Musik...)
   description: Alles rund um das Thema Medien. Wie oft? Was? Wann? Wieso?
 - id: podcast
-  title: Podcasts
+  title: Podcasts (Eltern)
   description: Eltern-Podcasts, die perfekte Begleitung beim Abwasch, aufräumen, Wäsche zusammenlegen.
+- id: podcast-kids
+  title: Podcasts (Kinder)
+  description: Auch für Kinder gibt es zum Glück jede menge toller altersgerechte Podcasts.
 - id: vacation
   title: Urlaub
   description: Urlaub, die schönste Zeit des Jahres. Und damit es auch wirklich funktioniert, sind hier ein paar nützliche Seiten.
 - id: reading
   title: Lesen
   description: Alles rund um Bücher und Zeitschriften. Zum Vorlesen, zum vorlesen lassen, zum genießen auf der Couch.
+- id: boardgames
+  title: Brettspiele
+  description: Brettspiele sind eine tolle Freizeitbeschäftigung mit den Kids. Entsprechend groß ist der Markt hierzu.
