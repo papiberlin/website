@@ -3,33 +3,170 @@
   url: https://www.entdeckum-kinderlabor.com/forscher-geburtstagspartys/
   description: Das Entdeckum bietet neben Experimentierkursen für Kinder auch ForscherInnen-Geburtstagsparties an.
   age: 5-12
+
 - title: Brio World
   category: digital-games
   description: Sehr schöne App für alle Holzeisenbahn-Fans. Ein toller Einstieg in die Spielekategorie "Aufbauspiele"
   age: 5-9
   url: https://www.filimundus.com/brio-world-railway
+
 - title: Flik Flak - Adventure Time
   category: digital-games
   description: Gemeinsam mit Flik und Flak erleben Kinder ein besonders lehrreiches Abenteuer. Laufen, springen und kullern – in 36 spannenden Levels warten verschiedene Rätsel und Aufgaben rund ums Thema Uhrzeit. 
   age: 5-7
   url: https://www.flikflak.com/de-de/flikflak-the-app.html
+
 - title: Khan Academy
   category: learning
   description: Die Khan-Academy bietet viele Kurse, von der Vorschule bis zum Abitur. Khan-Academy Kids, die App für die Vorschule, ist leider momentan nur auf Englisch verfügbar.
   age: 4-16
   url: https://de.khanacademy.org/
+
 - title: Anton App
   category: learning
   description: Kostenlose App mit Lektionen die zu deutschen Lehrplänen passen.
   age: 4-14
   url: https://anton.app/de/
+
 - title: Fiete Math-Kinder Mathe Spiel
   category: learning
   description: Spielerisch Rechnen lernen
   age: 5-9
   url: https://apps.apple.com/de/app/fiete-math-kinder-mathe-spiel/id1052109508
+
 - title: Kinderfahrradfinder
   category: shopping-advice
   description: Welches Kinderfahrrad hat die richtige Größe?...Gute, leichte Kinderfahrräder und Jugendfahrräder ganz einfach in der passenden Größe finden.
   age: 2-16
   url: https://www.kinderfahrradfinder.de/
+
+- title: Das gewünschteste Wunschkind-Podcast
+  url: https://www.gewuenschtestes-wunschkind.de/p/podcast.html
+  description: Einer der Klassiker. Guter Blog, gute Buch-Reihe, guter Podcast 🤗
+  category: podcast
+
+- title: Mit Kindern Leben
+  url: https://mkl.wtf/
+  description: Patricia und Caspar sind nicht nur im Social Media-Bereich aktiv, sondern haben auch noch diesen tollen Podcast 🎧
+  category: podcast
+
+- title: Podcast Elterngedöns - Eltern-Coach Christopher End
+  url: https://christopher-end.de/podcast-elterngedoens/
+  description: Christoph hat eine sehr schöne Art Interviews zu führen und Konzepte zu erklären ❤️
+  category: podcast
+
+- title: Daddies in Distress
+  url: http://did-podcast.de/
+  description: Sehr reflektiert und auch sehr lang. Also wenn ihr viel zu waschen habt 😆.
+  category: podcast
+
+- title: Vaterzeit
+  url: http://vaterzeit.rocks
+  description: Der Podcast von [Vaterwelten.de](https://vaterwelten.de/), noch sehr neu aber schon ein paar schöne Interviews mit Vätern. Große Liebe hierfür 👨‍👧!
+  category: podcast
+
+- title: Eltern ohne Filter
+  url: https://www.br.de/mediathek/podcast/eltern-ohne-filter/821
+  description: Mütter und Väter erzählen ungefiltert von ihrem Leben als Eltern. Vom irrsinnigen Glück. Vom ganz normalen Wahnsinn. Und von ihren dunklen Momenten. 
+  category: podcast
+
+- title: Zen Parenting
+  url: https://zenparentingradio.com/
+  description: Erziehung aus einer amerikanischen Sichtweise. Sehr unterhaltsam und tiefgründig 🍼
+  category: podcast
+
+- title: Mom and Dad are fighting
+  url: https://slate.com/podcasts/mom-and-dad-are-fighting
+  description: Schöner Eltern-Podcast von der amerikanischen Webseite Slate 📚
+  category: podcast
+
+- title: Better Teaching Resources
+  description: Jede menge Unterrichtsmaterial für Kinder. Die Bilderkarten Gefühle sind z.B. sehr toll.
+  url: https://www.betterteachingresources.com/
+  age: 5-14
+  category: learning
+
+- title: Little Travel Society
+  description: Ein schöner Blog rund um das Thema Familienhotels, mit jede Menge Tips und Empfehlungen
+  url: https://www.littletravelsociety.de/
+  category: vacation
+
+- title: Flimmo
+  url: https://www.flimmo.de/
+  description: Elternratgeber für TV, Streaming und Co.
+  age: 3-14
+  category: media
+
+- title: Common Sense Media
+  description: Amerikanische Non-Profit mit einer riesigen Filmdatenbank inkl. Rezension und Altersempfehlungen.
+  url: https://www.commonsensemedia.org/
+  age: 2-18
+  category: media
+
+- title: Family Gaming Database
+  description: Riesige Datenbank mit Reviews und Altersempfehlungen von Videospielen.
+  url: https://www.familygamingdatabase.com
+  age: 4-16
+  category: digital-games
+
+- title: Kinderfilmblog
+  description: Der beste Blog im deutschen Raum zum Thema Kinderfilme.
+  url: https://kinderfilmblog.de/
+  age: 4-14
+  category: media
+
+- title: Polle
+  description: "POLLE ist ein Comic-Magazin für Kinder ab 7 Jahren. Viele wunderbare Künstler*innen aus aller Welt veröffentlichen darin ihre brandneu gezeichneten Geschichten: kurze & längere, lustige & ernste, verrückte & alltägliche."
+  url: https://pe-ri-dot.com/collections/polle
+  age: 7-
+  category: reading
+
+- title: Kinderstark
+  description: Deutschlands erstes Kindermagazin für mehr Vielfalt und starke Kinder
+  category: reading
+  age: 7-
+  url: https://www.kinderstark-magazin.de/
+
+- title: Stiftung Warentest
+  description: Der deutsche Klassiker. Hier gibt es viele gute Tests, z.B. zu Kinderhelmen, Autositzen und vieles mehr.
+  url: https://www.test.de/
+  category: shopping-advice
+
+## Noch zu machen
+
+# - title:
+#   url: https://lesenmit.app/
+
+# - title:
+#   url: https://www.langer-blomqvist.de
+#   category: reading
+
+# - title:
+#   url: https://www.schau-hin.info
+#   category: media
+
+# - title:
+#   url: https://www.gecko-kinderzeitschrift.de
+#   category: reading
+
+# - title:
+#   url: https://herviewfromhome.com/50-questions-to-ask-your-kids-instead-of-asking-how-was-your-day
+#   category: food-for-thoughts
+
+# - title:
+#   url: https://www.dieweltwartet.de
+#   category: vacation
+
+# - title: Familienreisefieber
+#   url: https://www.familienreisefieber.de/
+#   category: vacation
+
+# - title:
+#   url: https://shop.jugendkulturservice.de/index.php
+
+
+# - title: 
+#   category:
+#   description:
+#   url:
+#   age:

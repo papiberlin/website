@@ -10,3 +10,15 @@
 - id: shopping-advice
   title: Einkaufsberatung
   description: Welches Rad? Welches Produkt? Hier eine kleine Übersicht mit Seiten, die dir bei der Auswahl helfen.
+- id: media
+  title: Medien (TV, Streaming, Hörspiele, Musik...)
+  description: Alles rund um das Thema Medien. Wie oft? Was? Wann? Wieso?
+- id: podcast
+  title: Podcasts
+  description: Eltern-Podcasts, die perfekte Begleitung beim Abwasch, aufräumen, Wäsche zusammenlegen.
+- id: vacation
+  title: Urlaub
+  description: Urlaub, die schönste Zeit des Jahres. Und damit es auch wirklich funktioniert, sind hier ein paar nützliche Seiten.
+- id: reading
+  title: Lesen
+  description: Alles rund um Bücher und Zeitschriften. Zum Vorlesen, zum vorlesen lassen, zum genießen auf der Couch.
