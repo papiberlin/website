@@ -180,65 +180,62 @@
   url: https://boardgamegeek.com/
   categories: ["boardgames"]
   
-## Noch zu machen
+- title: Die Welt wartet
+  description: Ihr wollt verreisen, aber wollt euch den Stress der Planung und des Buchens ersparen? Die Welt wartet hilft euch.
+  url: https://www.dieweltwartet.de
+  categories: ["vacation"]
 
-# * [ene-mene-bu](https://www.kika.de/ene-mene-bu/index.html) ist das Vorschulangebot des Kika mit vielen Videos und Spielideen.
+- title: Buchbox Berlin
+  description: Eine Buchhandlung in Berlin mit einer vielfältigen Auswahl an Büchern und vielen Standorten.
+  url: https://buchboxberlin.de/
+  categories: ["reading"]
 
-# * [Die Maus](https://www.wdrmaus.de/) hat natürlich auch eine Webseite mit jeder Menge Folgen
-# * [Polylino](https://www.polylino.de/neuigkeiten/coronakrise-polylino-offen-fuer-alle-kinder/) hat ihr Angebot von Kinderbüchern in mehreren Sprachen für Eltern kostenlos freigeschaltet.
-# Vöbb
+- title: Krumulus
+  description: Der beste Kinderbuchladen in Berlin.
+  url: https://www.krumulus.com/
+  categories: ["reading"]
 
-# * [Löwenzähnchen](https://www.zdf.de/kinder/loewenzaehnchen) ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
-# * [DieKurzgeschichte.de](https://diekurzgeschichte.de/) hat sehr viele kostenlose Hörspiele.
-# * [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
+- title: Polylino
+  description: Eine Plattform für digitale Bilderbuchgeschichten in verschiedenen Sprachen für Kinder. Enthalten in deiner Bibliotheksmitgliedschaft.
+  age: 3-10
+  url: https://www.polylino.de/
+  categories: ["reading"]
 
-# * [Wissen Macht Ah!](https://kinder.wdr.de/tv/wissen-macht-ah/) ist eine schöne Kinder-Wissenschafts-Sendung des WDR.
+- title: Langer Blomqvist
+  description: Ein Antiquariat und Buchhandlung in Berlin mit einer umfangreichen Sammlung von antiquarischen Büchern.
+  url: https://www.langer-blomqvist.de/
+  categories: ["reading"]
+
+- title: Reprodukt Kindercomics
+  age: 3-
+  description: Eine Sammlung von Kindercomics vom Verlag Reprodukt, die eine breite Auswahl an tollen Comics für Kinder bietet.
+  url: https://reprodukt.com/collections/kindercomics
+  categories: ["reading"]
+
+- title: VÖBB - Verbund Öffentlicher Bibliotheken Berlin
+  description: Der Verbund der öffentlichen Bibliotheken in Berlin, der einen umfassenden Zugang zu einer Vielzahl von Medien bietet. Wer Kinder hat, sollte unbedingt eine Bibliothekskarte haben.
+  url: https://www.voebb.de/
+  categories: ["reading"]
+
+- title: LesenMit.app
+  description: LesenMit.app prüft regelmäßig Apps und gibt euch Tipps, wie diese in Familie, Kita, Kindergarten, Hort und Schule genutzt werden können.
+  url: https://lesenmit.app/
+  categories: ["reading"]
 
 
-# * [Lernattack](https://learnattack.de/corona), das Lernangebot des Duden-Verlages, gibt es nun 2 Monate kostenlos
-
-# * [Scratch](https://scratch.mit.edu/)
-# * [Hopscotch](https://www.gethopscotch.com/)
-# * [Kodable](https://www.kodable.com/)
-
+# Veranstaltungen
 
 # - title:
 #    url: https://milchsalon.de/
-
-# - title:
-#   url: https://lesenmit.app/
-
-# - title:
-#   url: https://www.langer-blomqvist.de
-#   categories: ["reading
-
-# - title:
-#   url: https://www.schau-hin.info
-#   categories: ["media
-
-
-# - title:
-#   url: https://herviewfromhome.com/50-questions-to-ask-your-kids-instead-of-asking-how-was-your-day
-#   categories: ["food-for-thoughts
-
-# - title:
-#   url: https://www.dieweltwartet.de
-#   categories: ["vacation
-
-
 # - title:
 #   url: https://shop.jugendkulturservice.de/index.php
-
 # url: https://babykonzert.de/
-# url: https://kleineprints.de/
-# url: https://onceupon.photo/
 # url: https://www.kindaling.de/
 # url: https://berlinmitkind.de/
-# url: https://reprodukt.com/collections/kindercomics
-# url: https://buchboxberlin.de/
-# url: https://www.krumulus.com/
-# url: https://babyphone.app/
 
+# Apps
+
+# url: https://babyphone.app/
 # * Baby Berlin
 #   ([Android](https://play.google.com/store/apps/details?id=de.gesundheitbb.clbirth),
 #   [iPhone](https://itunes.apple.com/de/app/baby-berlin-app/id976204677?l=en&mt=8)) - diese App gibt dir eine Übersicht, was alles zu erledigen ist, wenn ein Kind unterwegs ist. Ich bin immer noch überrascht, wie viele Formulare auszufüllen sind 😢.
@@ -246,6 +243,40 @@
 
 # * [Kita Navigator](https://kita-navigator.berlin.de/) - Ja, das gehört leider zu der "vor der Geburt", zumindest in Berlin. Hier kannst du schon mal schauen, welche Kindergärten es in deiner Nähe gibt und dich dort bewerben.
 # * [Contraction Timer](https://itunes.apple.com/de/app/labor-contraction-timer-birth/id1204868842?l=en&mt=8). Diese App brauchst du hoffentlich nur einige Stunden, aber dann ist es sehr hilfreich. Während der Wehen willst und kannst du nicht auch noch im Kopf rechnen, wie lange die letzte Wehe her war.
+
+# Lernen
+
+# * [ene-mene-bu](https://www.kika.de/ene-mene-bu/index.html) ist das Vorschulangebot des Kika mit vielen Videos und Spielideen.
+
+# * [Die Maus](https://www.wdrmaus.de/) hat natürlich auch eine Webseite mit jeder Menge Folgen
+
+# * [Löwenzähnchen](https://www.zdf.de/kinder/loewenzaehnchen) ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
+# * [DieKurzgeschichte.de](https://diekurzgeschichte.de/) hat sehr viele kostenlose Hörspiele.
+# * [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
+
+# * [Wissen Macht Ah!](https://kinder.wdr.de/tv/wissen-macht-ah/) ist eine schöne Kinder-Wissenschafts-Sendung des WDR.
+
+# * [Lernattack](https://learnattack.de/corona), das Lernangebot des Duden-Verlages, gibt es nun 2 Monate kostenlos
+
+# * [Scratch](https://scratch.mit.edu/)
+# * [Hopscotch](https://www.gethopscotch.com/)
+# * [Kodable](https://www.kodable.com/)
+
+# Misc
+
+# - title:
+#   url: https://herviewfromhome.com/50-questions-to-ask-your-kids-instead-of-asking-how-was-your-day
+#   categories: ["food-for-thoughts
+
+# Photos
+
+# url: https://kleineprints.de/
+# url: https://onceupon.photo/
+
+# Berlin
+
+# url: https://allaboutberlin.com/
+
 
 # - title: 
 #   category:
