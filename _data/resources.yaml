@@ -81,7 +81,7 @@
   categories: ["podcast"]
 
 - title: Better Teaching Resources
-  description: Jede menge Unterrichtsmaterial für Kinder. Die Bilderkarten Gefühle sind z.B. sehr toll.
+  description: Jede Menge Unterrichtsmaterial für Kinder. Die Bilderkarten Gefühle sind z.B. sehr toll.
   url: https://www.betterteachingresources.com/
   age: 5-14
   categories: ["learning"]
@@ -159,7 +159,31 @@
   url: https://wishlephant.com/gift-ideas#spiele
   categories: ["boardgames"]
 
+- title: Alba - A Wildlife Adventure
+  description: Sehr tolles Abenteuer-Spiel. Mit sehr viel liebe gemacht und extrem Lehrreich. 
+  url: https://www.albawildlife.com/
+  categories: ["digital-games"]
+
+- title: Gecko - Kinderzeitschrift
+  description: Ein kindgerechter Türöffner in die Welt der Bücher, intelligent, einfühlsam und ganz ohne Werbung.
+  age: 5-7
+  url: https://www.gecko-kinderzeitschrift.de
+  categories: ["reading"]
+
+- title: Familienreisefieber
+  description: Regelmäßig neue Ideen zu Ausflügen und Reisen mit Kind.
+  url: https://www.familienreisefieber.de/
+  categories: ["vacation"]
+
+- title: Boardgame Geek
+  description: Riesige Datenbank mit Infos und Bewertungen von Brettspielen.
+  url: https://boardgamegeek.com/
+  categories: ["boardgames"]
+  
+## Noch zu machen
+
 # * [ene-mene-bu](https://www.kika.de/ene-mene-bu/index.html) ist das Vorschulangebot des Kika mit vielen Videos und Spielideen.
+
 # * [Die Maus](https://www.wdrmaus.de/) hat natürlich auch eine Webseite mit jeder Menge Folgen
 # * [Polylino](https://www.polylino.de/neuigkeiten/coronakrise-polylino-offen-fuer-alle-kinder/) hat ihr Angebot von Kinderbüchern in mehreren Sprachen für Eltern kostenlos freigeschaltet.
 # Vöbb
@@ -177,10 +201,6 @@
 # * [Hopscotch](https://www.gethopscotch.com/)
 # * [Kodable](https://www.kodable.com/)
 
-## Noch zu machen
-# - title:
-#   url: https://www.albawildlife.com/
-#   categories: ["digital-games
 
 # - title:
 #    url: https://milchsalon.de/
@@ -196,9 +216,6 @@
 #   url: https://www.schau-hin.info
 #   categories: ["media
 
-# - title:
-#   url: https://www.gecko-kinderzeitschrift.de
-#   categories: ["reading
 
 # - title:
 #   url: https://herviewfromhome.com/50-questions-to-ask-your-kids-instead-of-asking-how-was-your-day
@@ -208,9 +225,6 @@
 #   url: https://www.dieweltwartet.de
 #   categories: ["vacation
 
-# - title: Familienreisefieber
-#   url: https://www.familienreisefieber.de/
-#   categories: ["vacation
 
 # - title:
 #   url: https://shop.jugendkulturservice.de/index.php
@@ -224,7 +238,6 @@
 # url: https://buchboxberlin.de/
 # url: https://www.krumulus.com/
 # url: https://babyphone.app/
-# url: https://boardgamegeek.com/
 
 # * Baby Berlin
 #   ([Android](https://play.google.com/store/apps/details?id=de.gesundheitbb.clbirth),
@@ -233,7 +246,6 @@
 
 # * [Kita Navigator](https://kita-navigator.berlin.de/) - Ja, das gehört leider zu der "vor der Geburt", zumindest in Berlin. Hier kannst du schon mal schauen, welche Kindergärten es in deiner Nähe gibt und dich dort bewerben.
 # * [Contraction Timer](https://itunes.apple.com/de/app/labor-contraction-timer-birth/id1204868842?l=en&mt=8). Diese App brauchst du hoffentlich nur einige Stunden, aber dann ist es sehr hilfreich. Während der Wehen willst und kannst du nicht auch noch im Kopf rechnen, wie lange die letzte Wehe her war.
-
 
 # - title: 
 #   category:
