@@ -30,7 +30,7 @@
 
 - title: Fiete Math-Kinder Mathe Spiel
   category: learning
-  description: Spielerisch Rechnen lernen
+  description: Wunderschöne App, mit der euer Kind spielerisch Rechnen lernen
   age: 5-9
   url: https://apps.apple.com/de/app/fiete-math-kinder-mathe-spiel/id1052109508
 
@@ -132,7 +132,18 @@
   url: https://www.test.de/
   category: shopping-advice
 
+- title: Wishlephant
+  description: Wishlephant ist nicht nur eine tolle Wunschlisten-Webseite, sondern hat zusätzlich eine riesige Anzahl an Produkt-Empfehlungen. Der Blog ist auch einen Besuch wert.
+  url: https://wishlephant.com/gift-ideas
+  category: shopping-advice
+
 ## Noch zu machen
+# - title:
+#   url: https://www.albawildlife.com/
+#   category: digital-games
+
+# - title:
+#    url: https://milchsalon.de/
 
 # - title:
 #   url: https://lesenmit.app/
@@ -164,6 +175,14 @@
 # - title:
 #   url: https://shop.jugendkulturservice.de/index.php
 
+# url: https://babykonzert.de/
+# url: https://kleineprints.de/
+# url: https://onceupon.photo/
+# url: https://www.kindaling.de/
+# url: https://berlinmitkind.de/
+# url: https://reprodukt.com/collections/kindercomics
+# url: https://buchboxberlin.de/
+# url: https://www.krumulus.com/
 
 # - title: 
 #   category:

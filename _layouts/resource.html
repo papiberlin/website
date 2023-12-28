@@ -26,9 +26,15 @@ layout: default
       <div class="age-group">Alter: {{ cleaned_age }}</div>
     {% endif %}
     <p>
-    {{ resource.description}}
+    {{ resource.description | markdownify}}
     </p>
   </li>
 {% endfor %}
   </ul>
+
+  <p>
+    Wenn du eine Webseite kennst, die hier fehlt, dann schreib uns doch <a href="/contact">über unser Kontaktformular</a>.
+  </p>
 </div>
+
+
