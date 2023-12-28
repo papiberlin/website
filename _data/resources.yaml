@@ -154,6 +154,11 @@
   description: "Bei \"MIRA & das fliegende Haus\" dreht sich alles um die wirklich wichtigen Themen: Nämlich den Umgang mit Gefühlen, Achtsamkeit, Selbstliebe, Nachhaltigkeit, Empathie, Diversity, Inklusion und vieles mehr."
   categories: ["podcast-kids"]
 
+- title: Wishlephant Brettspiel-Listen
+  description: Wishlephant ist nicht nur eine tolle Wunschlisten-Webseite, sondern hat zusätzlich eine riesige Anzahl an Brettspiel-Empfehlungen.
+  url: https://wishlephant.com/gift-ideas#spiele
+  categories: ["boardgames"]
+
 # * [ene-mene-bu](https://www.kika.de/ene-mene-bu/index.html) ist das Vorschulangebot des Kika mit vielen Videos und Spielideen.
 # * [Die Maus](https://www.wdrmaus.de/) hat natürlich auch eine Webseite mit jeder Menge Folgen
 # * [Polylino](https://www.polylino.de/neuigkeiten/coronakrise-polylino-offen-fuer-alle-kinder/) hat ihr Angebot von Kinderbüchern in mehreren Sprachen für Eltern kostenlos freigeschaltet.
@@ -229,7 +234,6 @@
 # * [Kita Navigator](https://kita-navigator.berlin.de/) - Ja, das gehört leider zu der "vor der Geburt", zumindest in Berlin. Hier kannst du schon mal schauen, welche Kindergärten es in deiner Nähe gibt und dich dort bewerben.
 # * [Contraction Timer](https://itunes.apple.com/de/app/labor-contraction-timer-birth/id1204868842?l=en&mt=8). Diese App brauchst du hoffentlich nur einige Stunden, aber dann ist es sehr hilfreich. Während der Wehen willst und kannst du nicht auch noch im Kopf rechnen, wie lange die letzte Wehe her war.
 
-# https://wishlephant.com/gift-ideas#spiele
 
 # - title: 
 #   category:
