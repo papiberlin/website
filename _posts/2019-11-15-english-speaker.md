@@ -9,8 +9,8 @@ image_credit: Foto von <a href="https://unsplash.com/@nicolehoneywill_sincerelym
 featured: true
 ---
 This website is in German right now, but don't worry. We are able to speak
-English. Lots of our members speak English fluently. Our
-Slack has an English channel and on our meetups we try to include everyone. Just send
+English. Lots of our members speak English fluently. [Our
+Slack](https://join.slack.com/t/dadaberlin/shared_invite/zt-1skuexk5x-OUzSHVwxWWayPUHYjNfiAA) has an English channel and on our meetups we try to include everyone. Just send
 us an <a href="mailto:mail@papiberlin.de?subject=Slack&body=Slack invite">email</a> and
 we will invite you to it.
 
