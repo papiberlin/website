@@ -297,19 +297,61 @@
   url: https://onceupon.photo/
   categories: ["apps"]
   
-# Lernen
+- title: ENE MENE BU
+  url: https://www.kika.de/ene-mene-bu/index.html
+  age: 3-7
+  description: ENE MENE BU ist eine Kika Sendung, bei der Kinder basteln, malen, entdecken, spielen und Geschichten erfinden.
+  categories: ["learning"]
 
-# * [ene-mene-bu](https://www.kika.de/ene-mene-bu/index.html) ist das Vorschulangebot des Kika mit vielen Videos und Spielideen.
+- title: Sendung mit der Maus
+  url: https://www.wdrmaus.de
+  description: Einer der Klassiker im deutschen Kinderfernsehen. Natürlich auch mit eine Webseite und App mit jede Menge alter Folgen.
+  categories: ["learning"]
+  age: 5-12
 
-# * [Die Maus](https://www.wdrmaus.de/) hat natürlich auch eine Webseite mit jeder Menge Folgen
+- title: Löwenzähnchen
+  url: https://www.zdf.de/kinder/loewenzaehnchen
+  description: Löwenzähnchen ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
+  categories: ["learning"]
+  age: 3-5
 
-# * [Löwenzähnchen](https://www.zdf.de/kinder/loewenzaehnchen) ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
-# * [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
+- title: Sofatutor
+  url: https://www.sofatutor.com
+  description: Sofatutor bietet Schüler*innen aller Klassenstufen die Möglichkeit, digital, zeitlich flexibel und ortsunabhängig zu lernen.
+  categories: ["learning"]
+  age: 6-16
 
-# * [Wissen Macht Ah!](https://kinder.wdr.de/tv/wissen-macht-ah/) ist eine schöne Kinder-Wissenschafts-Sendung des WDR.
+- title: Wissen Macht Ah!
+  description: Eine unterhaltsame und lehrreiche Wissenssendung für Kinder, produziert vom WDR.
+  categories: ["learning"]
+  age: 9-14
 
-# * [Lernattack](https://learnattack.de/corona), das Lernangebot des Duden-Verlages, gibt es nun 2 Monate kostenlos
+- title: Learnattack
+  description: Eine Lernplattform mit digitalen Lernmaterialien und Nachhilfeangeboten für Schülerinnen und Schüler vom Duden Verlag.
+  url: https://learnattack.de/
+  categories: ["learning"]
+  age: 10-16
 
-# * [Scratch](https://scratch.mit.edu/)
-# * [Hopscotch](https://www.gethopscotch.com/)
-# * [Kodable](https://www.kodable.com/)
+- title: Scratch
+  description: Eine Online-Plattform, die es ermöglicht, interaktive Geschichten, Spiele und Animationen zu erstellen und zu teilen.
+  url: https://scratch.mit.edu/
+  age: 8-16
+  categories: ["learning"]
+
+- title: ScratchJr
+  description: Eine visuelle Programmierumgebung für junge Kinder, die ihnen ermöglicht, Geschichten und Spiele zu erstellen.
+  url: https://www.scratchjr.org/
+  categories: ["learning"]
+  age: 5-7
+
+- title: Hopscotch
+  description: Eine kreative Plattform für Kinder, um interaktive Spiele, Animationen und mehr zu programmieren und zu teilen.
+  url: https://www.gethopscotch.com/
+  categories: ["learning"]
+  age: 8-14
+
+- title: Kodable
+  description: Eine Programmierplattform für Kinder, die spielerisches Lernen und die Grundlagen des Programmieren fördert.
+  url: https://www.kodable.com/
+  categories: ["learning"]
+  age: 5-11
