@@ -132,7 +132,7 @@
   url: https://www.test.de/
   categories: ["shopping-advice"]
 
-- title: Wishlephant
+- title: Wishlephant Geschenkideen
   description: Wishlephant ist nicht nur eine tolle Wunschlisten-Webseite, sondern hat zusätzlich eine riesige Anzahl an Produkt-Empfehlungen. Der Blog ist auch einen Besuch wert.
   url: https://wishlephant.com/gift-ideas
   categories: ["shopping-advice"]
@@ -356,3 +356,8 @@
   url: https://www.kodable.com/
   categories: ["learning"]
   age: 8-14
+
+- title: Wishlephant - Deine online Wunschliste
+  description: "Teile deine Herzenswünsche: aus Online-Shops oder dem Lädchen um die Ecke. Deine Freund:innen und Familie können dir Wünsche geheim erfüllen."
+  url: https://wishlephant.com/
+  categories: ["apps"]
