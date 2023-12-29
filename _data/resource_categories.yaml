@@ -31,3 +31,10 @@
 - id: events
   title: Veranstaltungstipps
   description: In Berlin gibt es sehr viele tolle Veranstaltungen für Familien. Nur was passiert wo? Hier gibt es nützliche Links dazu.
+- id: apps
+  title: Apps und Webseiten
+  description: Digitale Begleiter, die das Familienleben bereichern
+- id: berlin
+  title: Berlin
+  description: Alles was nicht in andere Kategorien passt aber Berlin betrifft.
+

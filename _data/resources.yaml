@@ -252,17 +252,51 @@
   age: 0-
   categories: ["events"]
 
-# Apps
+- title: Luna Baby Monitor
+  description: Babyphone als iOS App. Perfekt wenn man mal wieder das Babyphone vergessen hat 😅
+  url: https://babyphone.app/
+  categories: ["apps"]
 
-# url: https://babyphone.app/
-# * Baby Berlin
-#   ([Android](https://play.google.com/store/apps/details?id=de.gesundheitbb.clbirth),
-#   [iPhone](https://itunes.apple.com/de/app/baby-berlin-app/id976204677?l=en&mt=8)) - diese App gibt dir eine Übersicht, was alles zu erledigen ist, wenn ein Kind unterwegs ist. Ich bin immer noch überrascht, wie viele Formulare auszufüllen sind 😢.
-# * [embryotox](https://www.embryotox.de/) - Welche Medikamente sind okay während der Schwangerschaft?
+- title: Baby Berlin iOS
+  url: https://apps.apple.com/de/app/baby-berlin/id6472043925 
+  description: Alle Termine, Fristen, Anträge, Ämtergänge und Todo`s in der Zeit der Schwangerschaft und nach der Geburt stressfrei im Auge behalten.
+  categories: ["apps"]
 
-# * [Kita Navigator](https://kita-navigator.berlin.de/) - Ja, das gehört leider zu der "vor der Geburt", zumindest in Berlin. Hier kannst du schon mal schauen, welche Kindergärten es in deiner Nähe gibt und dich dort bewerben.
-# * [Contraction Timer](https://itunes.apple.com/de/app/labor-contraction-timer-birth/id1204868842?l=en&mt=8). Diese App brauchst du hoffentlich nur einige Stunden, aber dann ist es sehr hilfreich. Während der Wehen willst und kannst du nicht auch noch im Kopf rechnen, wie lange die letzte Wehe her war.
+- title: Baby Berlin Android
+  url: https://play.google.com/store/apps/details?id=de.gesundheitbb.baby
+  description: Alle Termine, Fristen, Anträge, Ämtergänge und Todo`s in der Zeit der Schwangerschaft und nach der Geburt stressfrei im Auge behalten.
+  categories: ["apps"]
 
+- title: Embryotox
+  description: Eine Informationsplattform über Arzneimittelsicherheit in Schwangerschaft und Stillzeit.
+  url: https://www.embryotox.de/
+  categories: ["apps"]
+
+- title: Kita-Navigator Berlin
+  description: Eine Online-Plattform zur Suche und Anmeldung von Kindertagesstätten (Kitas) in Berlin.
+  url: https://kita-navigator.berlin.de/
+  categories: ["apps"]
+
+- title: Contraction Timer iOS
+  url: https://apps.apple.com/us/app/contraction-timer-counter-9m/id877303791
+  description: Diese App brauchst du hoffentlich nur einige Stunden, aber dann ist es sehr hilfreich. Während der Wehen willst und kannst du nicht auch noch im Kopf rechnen, wie lange die letzte Wehe her war.
+  categories: ["apps"]
+
+- title: All About Berlin
+  description: Informationen für Menschen, die in Berlin ankommen wollen.
+  url: https://allaboutberlin.com/
+  categories: ["berlin"]
+
+- title: Kleine Prints
+  url: https://kleineprints.de/
+  description: Liebevolle Fotobücher für Kinder & Kleinkinder, personalisiertes Memospiele und mehr...
+  categories: ["apps"]
+
+- title: OnceUpon Photo
+  description: Eine Plattform für personalisierte Fotobücher und Erinnerungen, die individuelle Gestaltungsmöglichkeiten bietet.
+  url: https://onceupon.photo/
+  categories: ["apps"]
+  
 # Lernen
 
 # * [ene-mene-bu](https://www.kika.de/ene-mene-bu/index.html) ist das Vorschulangebot des Kika mit vielen Videos und Spielideen.
@@ -279,25 +313,3 @@
 # * [Scratch](https://scratch.mit.edu/)
 # * [Hopscotch](https://www.gethopscotch.com/)
 # * [Kodable](https://www.kodable.com/)
-
-# Misc
-
-# - title:
-#   url: https://herviewfromhome.com/50-questions-to-ask-your-kids-instead-of-asking-how-was-your-day
-#   categories: ["food-for-thoughts
-
-# Photos
-
-# url: https://kleineprints.de/
-# url: https://onceupon.photo/
-
-# Berlin
-
-# url: https://allaboutberlin.com/
-
-
-# - title: 
-#   category:
-#   description:
-#   url:
-#   age:
