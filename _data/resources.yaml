@@ -249,6 +249,7 @@
 - title: Berlin mit Kind
   description: Die Seite des Himbeer-Magazins mit einem tollen Event-Kalender und Blog-Artikeln.
   url: https://berlinmitkind.de/
+  age: 0-
   categories: ["events"]
 
 # Apps
