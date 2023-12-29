@@ -28,3 +28,6 @@
 - id: boardgames
   title: Brettspiele
   description: Brettspiele sind eine tolle Freizeitbeschäftigung mit den Kids. Entsprechend groß ist der Markt hierzu.
+- id: events
+  title: Veranstaltungstipps
+  description: In Berlin gibt es sehr viele tolle Veranstaltungen für Familien. Nur was passiert wo? Hier gibt es nützliche Links dazu.

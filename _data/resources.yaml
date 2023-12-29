@@ -222,16 +222,34 @@
   url: https://lesenmit.app/
   categories: ["reading"]
 
+- title: Milchsalon
+  description: Gute Kindermusik. Für Alle. Hörbar. Tanzbar. Wunderbar. Der Milchsalon ist – seit 2011 – eine erfrischend andere Konzertreihe, die Kinder zum Musizieren, Tanzen und Ausflippen animiert. 
+  url: https://milchsalon.de/
+  age: 4-
+  categories: ["events"]
 
-# Veranstaltungen
+- title: Jugendkulturservice Shop
+  description: Der Online-Shop des Jugendkulturservice, hier gibt es viele ermäßigte Tickets für Berliner Veranstaltungen.
+  url: https://shop.jugendkulturservice.de/
+  age: 2-
+  categories: ["events"]
 
-# - title:
-#    url: https://milchsalon.de/
-# - title:
-#   url: https://shop.jugendkulturservice.de/index.php
-# url: https://babykonzert.de/
-# url: https://www.kindaling.de/
-# url: https://berlinmitkind.de/
+- title: Babykonzert
+  description: Diese Konzertreihe bietet Babys und ihren Eltern einen Event, bei dem sie Kultur gemeinsam und ganz entspannt genießen können.
+  age: 0-3
+  url: https://babykonzert.de/
+  categories: ["events"]
+
+- title: Kindaling
+  description: Kindaling ist ein Online Freizeit-Guide für Eltern in Berlin und hilft dabei, das richtige Angebot zu finden – egal, ob Schwangerschaftsyoga und Geburtsvorbereitung, Kindersport, Eltern-Kind-Gruppen, Kreativ-Kurse, Musikunterricht oder Feriencamps.
+  age: 0-
+  url: https://www.kindaling.de/
+  categories: ["events"]
+
+- title: Berlin mit Kind
+  description: Die Seite des Himbeer-Magazins mit einem tollen Event-Kalender und Blog-Artikeln.
+  url: https://berlinmitkind.de/
+  categories: ["events"]
 
 # Apps
 
@@ -251,7 +269,6 @@
 # * [Die Maus](https://www.wdrmaus.de/) hat natürlich auch eine Webseite mit jeder Menge Folgen
 
 # * [Löwenzähnchen](https://www.zdf.de/kinder/loewenzaehnchen) ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
-# * [DieKurzgeschichte.de](https://diekurzgeschichte.de/) hat sehr viele kostenlose Hörspiele.
 # * [Sofatutor](https://www.sofatutor.com/) ist ein tolles Lernprogramm für Kinder ab der ersten Klasse.
 
 # * [Wissen Macht Ah!](https://kinder.wdr.de/tv/wissen-macht-ah/) ist eine schöne Kinder-Wissenschafts-Sendung des WDR.
