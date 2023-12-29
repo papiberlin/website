@@ -116,3 +116,5 @@ Es gibt viele Angebote, um Programmieren zu lernen, hier nur ein kleiner Auszug:
 Habt Ihr noch mehr? Dann [her damit](/contact).
 
 Danke auch an die vielen Menschen, die mir Links geschickt haben! Ganz besonders zu erwähnen ist dabei die [Anna Seghers Schule](https://www.anna-seghers-schule.de/?view=article&id=224:gev-sammelt-vorschl%C3%A4ge-f%C3%BCr-digitale-lernangbote&catid=68) für deren ausführliche Liste 💚.
+
+Mehr Links findest du in unseren [Eltern Resourcen](/resourcen).
