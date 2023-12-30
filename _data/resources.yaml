@@ -358,6 +358,11 @@
   age: 8-14
 
 - title: Wishlephant - Deine online Wunschliste
-  description: "Teile deine Herzenswünsche: aus Online-Shops oder dem Lädchen um die Ecke. Deine Freund:innen und Familie können dir Wünsche geheim erfüllen."
+  description: "Mit Wunschlisten deiner Kinder kannst du dir sehr viel Stress rund um Geburtstage und Feierlichkeiten sparen. Keine doppelten Geschenke, keine langen Chats was so geschenkt werden könnte."
   url: https://wishlephant.com/
   categories: ["apps", "birthdays"]
+
+- title: Mental Load Test
+  url: https://mental-load-test.org/
+  description: "[Mental load](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/) ist ein Thema, das jeder Vater* kennen und verstehen sollte. Dieser Test kann eine erste Bestandsaufnahme sein, um die Paarbeziehung zu verbessern und Lasten besser aufzuteilen."
+  categories: ["apps"]
