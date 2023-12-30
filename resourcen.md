@@ -3,7 +3,7 @@ layout: post
 title: Eltern Resourcen
 comments: true
 ---
-Willkommen bei unseren Eltern-Resourcen. Hier sammeln wir Links zu Webseiten, die wir für hilfreich halten. 
+Willkommen bei unseren Eltern Resourcen. Hier sammeln wir Links zu Webseiten, die wir für hilfreich halten. 
 Bis jetzt sind schon {{ site.data.resources | size }} zusammengekommen. Wenn du eine Webseite kennst, die hier fehlt, dann schreib uns doch [über unser Kontaktformular](/contact).
 
 ### Kategorien
