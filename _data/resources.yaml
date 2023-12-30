@@ -366,3 +366,33 @@
   url: https://mental-load-test.org/
   description: "[Mental load](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/) ist ein Thema, das jeder Vater* kennen und verstehen sollte. Dieser Test kann eine erste Bestandsaufnahme sein, um die Paarbeziehung zu verbessern und Lasten besser aufzuteilen."
   categories: ["apps"]
+
+- title: "FamilieVerstehen: Das ABC der Gewaltfreien Kommunikation"
+  description: Der Podcast für Eltern mit Herz und Verstand. Von A wie Anziehen bis Z wie Zähneputzen - in liebevoller Verbindung bleiben, auch wenn es zu Hause mal anstrengend wird.
+  url: https://das-elterm-abc.podigee.io
+  categories: ["podcast"]
+
+- title: Lachlabor - Lustiges Wissen für Kinder zum Miträtseln
+  description: "Tina und Mischa beantworten im Lachlabor die verrücktesten Kinderfragen: Kann man in geschmolzener Schokolade schwimmen? Macht ein Känguru-Baby auch mal in den Beutel der Mama? Oder: Kann man Wolken wegpusten? Die beiden machen lustige Experimente, und bekommen auf ihrer Suche nach Wissen und Antworten Hilfe vom Kinder-Miträtsel-Team und von Expertinnen und Experten."
+  url: https://www.br.de/mediathek/podcast/lachlabor/wie-oft-niesen-elefanten/2088040
+  categories: ["podcast-kids"]
+
+- title: Anna und die wilden Tiere
+  description: "Ihr kennt \"Anna und die wilden Tiere\" aus dem Fernsehen? Auch hier im Podcast kommt Anna wilden Tieren ganz nah - egal ob Pferden, Haien, Elefanten oder Schlangen. Ihr erfahrt dabei vieles über Tiere, das ihr garantiert noch nicht wusstet - zum Beispiel über superstarke Abwehrtechniken gegenüber Feinden oder mit welchen schlauen Mitteln sie an ihr Lieblingsfutter gelangen. Und an Annas Seite ist immer: die Hyäne. Sie erzählt Witze, puh, die sind manchmal richtig schlecht und ... ach, hört einfach rein!"
+  url: https://www.br.de/mediathek/podcast/anna-und-die-wilden-tiere/858
+  categories: ["podcast-kids"]
+
+- title: artgerecht – der andere Elternpodcast
+  url: https://www.artgerecht-projekt.de/artgerecht-der-andere-elternpodcast/
+  description: Eine schöne Kindheit für unsere Kinder ist ja gut und schön – aber wie schaffen wir es, uns selbst dabei nicht zu verlieren? Wie kommen wir gut durch die wohl herausforderndste Zeit unseres Lebens?  Schnapp‘ dir ein Kissen und setze dich zu uns ans artgerecht Lagerfeuer. 
+  categories: ["podcast"]
+
+- title: Familienrat mit Katia Saalfrank
+  description: Wie spricht man am besten über Herausforderungen im Familienalltag? Viele Eltern umtreiben dieselben Sorgen, und lesen einen Ratgeber nach dem Anderen. Jeder hat eine andere Idee von Erziehung und nur selten werden Sorgen offen ausgesprochen. Im  Familienrat-Podcast besuchen wir die Diplompädagogin Katia Saalfrank und stellen ihr eure Fragen rund um Erziehung und Familienleben. 
+  url: https://mitvergnuegen.com/familienrat/
+  categories: ["podcast"]
+
+- title: CheckPod - Der Podcast mit Checker Tobi
+  description:  Der Checker zum Hören! Tobi checkt zusammen mit einem Kind drei Fragen zu einem Wissensthema. Lustige Experimente, kluge Expertinnen und Experten sowie die schlaue Datenbank helfen ihnen dabei. Und am Schluss jeder Folge verrät Checker Tobi ein persönliches Geheimnis. Ob es um Bäume, Märchen oder Schleim geht, im CheckPod macht Wissen Spaß und gute Laune. Alle neuen Folgen gibt es immer eine Woche vorab exklusiv in der ARD-Audiothek! 
+  url: https://www.br.de/mediathek/podcast/checkpod-der-podcast-mit-checker-tobi/859
+  categories: ["podcast-kids"]
