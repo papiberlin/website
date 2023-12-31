@@ -409,3 +409,15 @@
   description: Sehr lustiges Rätselspiel rund um eine gemeine Gans.
   age: 5-
   url: https://goose.game/
+
+- title: Spiel des Jahres
+  categories: ["boardgames"]
+  description: DER Brettspiel-Kritikerpreis. Hier gibt es immer tolle Kinderspiel-Empfehlungen.
+  age: 4-
+  url: https://www.spiel-des-jahres.de
+
+- title: Deutscher Spielepreis
+  categories: ["boardgames"]
+  description: Der grösste Deutsche Community Award für Brettspiele.
+  url: https://spielessen.de/de/programm/dsp
+  age: 5-
