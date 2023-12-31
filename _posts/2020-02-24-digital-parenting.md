@@ -33,4 +33,4 @@ Neben den Apps haben viele übrigens auch einen geteilten Kalender. Sei es mit H
 * Vielen hilft es, ein Tagebuch zu führen, um die vielen schönen Momente festzuhalten. Dafür nutzen einige bei uns [DayGram](https://play.google.com/store/apps/details?id=net.saltycrackers.daygram&hl=en_US) oder [Day One](https://dayoneapp.com/).
 * Die Taufe oder der erste Geburtstag steht an und die Verwandten fragen, was sich euer Kind wünscht. Um da nicht den Überblick zu verlieren gibt es [Wishlephant](https://wishlephant.com).
 
-Mehr Links findest du in unseren [Eltern Resourcen](/resourcen).
+Mehr Links findest du in unseren [Eltern Ressourcen](/resourcen).
