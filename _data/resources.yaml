@@ -397,3 +397,15 @@
   description: "Die #1 Schlaf-App für Kinder in Deutschland - der Aumio Hörspiel-Kosmos zum Einschlafen und Entspannen. Und das beste: viele Krankenkassen übernehmen die Abokosten"
   url: https://aumio.de/
   categories: ["apps"]
+
+- title: Das klingende Museum
+  categories: ["birthdays"]
+  url: https://www.klingendes-museum-berlin.de/
+  description: Schlichtweg der Hit ist ein Kindergeburtstag mit dem Klingenden Museum.
+  age: 4-12
+
+- title: Untitled Goose Game
+  categories: ["digital-games"]
+  description: Sehr lustiges Rätselspiel rund um eine gemeine Gans.
+  age: 5-
+  url: https://goose.game/
