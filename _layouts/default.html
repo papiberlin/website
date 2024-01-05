@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{site.active_lang}}">
 
 <head>
     <meta charset="utf-8">
@@ -22,9 +22,42 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+
+    <script>
+        function getBestSuitableSupportedLang(lang, locale, supported) {
+          // Exclude first element, default language
+          var supported_lang = supported.shift();
+          
+          if (supported.includes(lang + "-" + locale)) {
+            supported_lang = lang + "-" + locale;
+          } else if (supported.includes(lang)) {
+            supported_lang = lang;
+          }
+        
+          return supported_lang;
+        }
+        
+        var [lang, locale] = (((navigator.userLanguage || navigator.language).replace('-', '_')).toLowerCase()).split('_');
+        var supported_languages = ["de", "en"];
+        var current_lang = {{ site.active_lang | jsonify }};
+        
+        var suitable_lang = getBestSuitableSupportedLang(lang, locale, supported_languages)
+        
+        var lang_param = new URLSearchParams(window.location.search).get("lang"); 
+        
+        if (lang_param == null && window.location.pathname === "/" && current_lang !== suitable_lang) {
+          window.location = '/' + suitable_lang;
+        } else if (lang_param !== null && current_lang !== lang_param) {
+          var base_path = window.location.pathname.replace("/" + current_lang, "")
+          if (lang_param === "de") {
+            window.location = base_path + '?lang=de';
+          } else {
+            window.location = "/" + lang_param + base_path + '?lang=' + lang_param;
+          }
+        }
+        </script>
+
 </head>
-
-
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
@@ -41,9 +74,15 @@
         <div class="container">
 
             <!-- Begin Logo -->
-            <a class="navbar-brand" href="{{ site.baseurl }}/">
-                Papi Berlin
+            {% if site.active_lang == "de" %}
+            <a class="navbar-brand" href="{{ site.baseurl }}/?lang={{ site.active_lang }}">
+              Papi Berlin
             </a>
+            {% else %}
+            <a class="navbar-brand" href="{{ site.baseurl }}/{{ site.active_lang }}?lang={{ site.active_lang }}">
+              Papi Berlin
+            </a>
+            {% endif %}
             <!-- End Logo -->
 
             <!-- Begin Menu -->
@@ -141,7 +180,7 @@
             <div class="container">
 
                 <div class="row">
-                    <div class="col-sm-6">
+                    <div class="col-sm-3">
                         <div class="footer-widget">
                             <a href="{{site.baseurl}}/contact">
                                 <img src="{{ site.baseurl }}/assets/images/logo-footer.png">
@@ -149,6 +188,15 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-3">
+                        <div class="footer-widget">
+                            <h5 class="title">Sprachen</h5>
+                            <ul>
+                                <li><a href="{{page.url}}?lang=de">Deutsch</a></li>
+                                <li><a href="{{page.url}}?lang=en">English</a></li>
+                            </ul>
+                        </div>
+                    </div>
                     <div class="col-sm-3">
                         <div class="footer-widget">
                             <h5 class="title">Links</h5>
