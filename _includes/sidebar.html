@@ -1,8 +1,9 @@
 <div class="sidebar">
     <div class="sidebar-section">
+        {% if site.active_lang == 'de' %}
         <h5><span>Nützliche Links</span></h5>
         <ul style="list-none;">
-            <li><a target="_blank" href="/pages/slack">Komm in unseren Papi-Slack</a></li>
+            <li><a href="/pages/slack">Komm in unseren Papi-Slack</a></li>
             <li><a target="_blank" href="https://wishlephant.com/">Wishlephant - die unabhängige Wunschliste</a></li>
             <li><a target="_blank" href="https://coworkingforparents.org/">coworking for parents</a></li>
             <li><a target="_blank" href="https://www.kobra-berlin.de/#container_elternzeit-und-pflegezeit">KOBRA -
@@ -10,5 +11,18 @@
             <li><a target="_blank" href="https://kita-navigator.berlin.de/">Kita-Navigator</a></li>
             <li><a target="_blank" href="https://www.kindaling.de/">Kindaling</a></li>
         </ul>
+        {% else %}
+        <h5><span>Useful Links</span></h5>
+        <ul style="list-none;">
+            <li><a href="/pages/slack">Join our Papi-Slack</a></li>
+            <li><a target="_blank" href="https://wishlephant.com/">Wishlephant - the independent wishlist</a></li>
+            <li><a target="_blank" href="https://coworkingforparents.org/">coworking for parents</a></li>
+            <li><a target="_blank" href="https://www.kobra-berlin.de/#container_elternzeit-und-pflegezeit">KOBRA -
+                    Elternberatung</a></li>
+            <li><a target="_blank" href="https://kita-navigator.berlin.de/">Kita-Navigator</a></li>
+            <li><a target="_blank" href="https://www.kindaling.de/">Kindaling</a></li>
+
+        </ul>
+       {% endif %}
     </div>
 </div>

@@ -4,4 +4,5 @@ bodo:
   image: bodo.jpg
   email: bodo@tasche.me
   web: https://bodo.tasche.me
-  description: "Gründer von Papi Berlin, Softwareentwickler und Vater"
+  description_en: "Founder of Papi Berlin, Software developer and father"
+  description_de: "Gründer von Papi Berlin, Softwareentwickler und Vater"

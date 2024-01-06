@@ -7,7 +7,7 @@ image_description: A game of scrabble with the words "Read More"
 image_credit: Photo by <a href="https://unsplash.com/@nicolehoneywill_sincerelymedia">Nicole Honeywill</a>
 featured: true
 short_title: 🇩🇪 Wir sprechen auch Deutsch ❤️!
-short_body: Gehe zur [deutschen Version](/?lang=de) von dieser Webseite.
+short_body: Zur [deutschen Version](/?lang=de) von dieser Webseite.
 lang: en
 slug: english-speaker
 ---

@@ -14,6 +14,12 @@ t:
     footer_fathers: Fathers*?
     footer_fathers_text: Inclusion is important to us. Everyone with a father role is welcome.
     all_posts: All blogposts
+    newer: Newer
+    older: Older
+    page: Page
+    page_of: of
+    back: Back
+    age: Age
 
   de:
     parenting_resources: Eltern Ressourcen
@@ -30,3 +36,9 @@ t:
     footer_fathers: Väter*?
     footer_fathers_text: Uns ist Inklusion wichtig. Jede*r Mensch mit Vaterrolle ist willkommen.
     all_posts: Alle Beiträge
+    newer: Neuer
+    older: Älter
+    page: Seite
+    page_of: von
+    back: Zurück
+    age: Alter

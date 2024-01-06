@@ -1,40 +1,65 @@
 - id: birthdays
   title_de: Geburtstage
   description_de: Ressourcen rund um das Thema Geburtstage.
+  title_en: Birthdays
+  description_en: Resources related to birthdays.
 - id: learning
   title_de: Lernen
   description_de: Alles rund um das riesige Thema Lernen und Bildung
+  title_en: Learning
+  description_en: Everything about the vast topic of learning and education.
 - id: digital-games
   title_de: Digitale Spiele
   description_de: Empfehlungen zu digitale Spiele für Konsolen, iPads, Desktops...
+  title_en: Digital Games
+  description_en: Recommendations of digital games for consoles, iPads, desktops...
 - id: shopping-advice
   title_de: Einkaufsberatung
   description_de: Welches Rad? Welches Produkt? Hier eine kleine Übersicht mit Seiten, die dir bei der Auswahl helfen.
+  title_en: Shopping Advice
+  description_en: Which bike? Which product? Here's a small overview with pages to help you with your choices.
 - id: media
   title_de: Medien (TV, Streaming, Hörspiele, Musik...)
   description_de: Alles rund um das Thema Medien. Wie oft? Was? Wann? Wieso?
+  title_en: Media (TV, Streaming, Audio Dramas, Music...)
+  description_en: Everything to do with media. How often? What? When? Why?
 - id: podcast
   title_de: Podcasts (Eltern)
   description_de: Eltern-Podcasts, die perfekte Begleitung beim Abwasch, Aufräumen, Wäsche zusammenlegen.
+  title_en: Podcasts (Parents)
+  description_en: Parenting podcasts, the perfect companion for washing dishes, cleaning up, folding laundry.
 - id: podcast-kids
   title_de: Podcasts (Kinder)
-  description_de: Auch für Kinder gibt es zum Glück jede Menge toller altersgerechte Podcasts.
+  description_de: Auch für Kinder gibt es zum Glück jede Menge toller altersgerechter Podcasts.
+  title_en: Podcasts (Kids)
+  description_en: Fortunately, there are plenty of great age-appropriate podcasts for kids.
 - id: vacation
   title_de: Urlaub
   description_de: Urlaub, die schönste Zeit des Jahres. Und damit es auch wirklich funktioniert, sind hier ein paar nützliche Seiten.
+  title_en: Vacation
+  description_en: Vacation, the most beautiful time of the year. To make it really work, here are some useful websites.
 - id: reading
   title_de: Lesen
   description_de: Alles rund um Bücher und Zeitschriften. Zum Vorlesen, zum vorlesen lassen, zum genießen auf der Couch.
+  title_en: Reading
+  description_en: Everything about books and magazines. For reading aloud, being read to, and enjoying on the couch.
 - id: boardgames
   title_de: Brettspiele
   description_de: Brettspiele sind eine tolle Freizeitbeschäftigung mit den Kids. Entsprechend groß ist der Markt hierzu.
+  title_en: Board Games
+  description_en: Board games are a great pastime with the kids. The market for them is correspondingly large.
 - id: events
   title_de: Veranstaltungstipps
   description_de: In Berlin gibt es sehr viele tolle Veranstaltungen für Familien. Nur was passiert wo? Hier gibt es nützliche Links dazu.
+  title_en: Event Tips
+  description_en: Berlin offers many great events for families. But what happens where? Here are some useful links.
 - id: apps
   title_de: Apps und Webseiten
   description_de: Digitale Begleiter, die das Familienleben bereichern
+  title_en: Apps and Websites
+  description_en: Digital companions that enrich family life.
 - id: berlin
   title_de: Berlin
   description_de: Alles was nicht in andere Kategorien passt aber Berlin betrifft.
-
+  title_en: Berlin
+  description_en: Everything that doesn't fit into other categories but concerns Berlin.

@@ -92,7 +92,11 @@ post_class: post-template
             </div>
             <div class="col-md-10">
                 <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
-                <p class="author-description">{{ author.description }}</p>
+                {% if site.active_lang == "de" %}
+                <p class="author-description">{{ author.description_de }}</p>
+                {% else %}
+                <p class="author-description">{{ author.description_en }}</p>
+                {% endif %}
             </div>
         </div>
         {% endif %}
