@@ -1,423 +1,423 @@
-- title: Entdeckum - das Labor für Kinder
+- title_de: Entdeckum - das Labor für Kinder
   categories: ["birthdays"]
   url: https://www.entdeckum-kinderlabor.com/forscher-geburtstagspartys/
-  description: Das Entdeckum bietet neben Experimentierkursen für Kinder auch ForscherInnen-Geburtstagsparties an.
+  description_de: Das Entdeckum bietet neben Experimentierkursen für Kinder auch ForscherInnen-Geburtstagsparties an.
   age: 5-12
 
-- title: Brio World
+- title_de: Brio World
   categories: ["digital-games"]
-  description: Sehr schöne App für alle Holzeisenbahn-Fans. Ein toller Einstieg in die Spielekategorie "Aufbauspiele"
+  description_de: Sehr schöne App für alle Holzeisenbahn-Fans. Ein toller Einstieg in die Spielekategorie "Aufbauspiele"
   age: 5-9
   url: https://www.filimundus.com/brio-world-railway
 
-- title: Flik Flak - Adventure Time
+- title_de: Flik Flak - Adventure Time
   categories: ["digital-games"]
-  description: Gemeinsam mit Flik und Flak erleben Kinder ein besonders lehrreiches Abenteuer. Laufen, springen und kullern – in 36 spannenden Levels warten verschiedene Rätsel und Aufgaben rund ums Thema Uhrzeit. 
+  description_de: Gemeinsam mit Flik und Flak erleben Kinder ein besonders lehrreiches Abenteuer. Laufen, springen und kullern – in 36 spannenden Levels warten verschiedene Rätsel und Aufgaben rund ums Thema Uhrzeit. 
   age: 5-7
   url: https://www.flikflak.com/de-de/flikflak-the-app.html
 
-- title: Khan Academy
+- title_de: Khan Academy
   categories: ["learning"]
-  description: Die Khan-Academy bietet viele Kurse, von der Vorschule bis zum Abitur. Khan-Academy Kids, die App für die Vorschule, ist leider momentan nur auf Englisch verfügbar.
+  description_de: Die Khan-Academy bietet viele Kurse, von der Vorschule bis zum Abitur. Khan-Academy Kids, die App für die Vorschule, ist leider momentan nur auf Englisch verfügbar.
   age: 4-16
   url: https://de.khanacademy.org/
 
-- title: Anton App
+- title_de: Anton App
   categories: ["learning"]
-  description: Kostenlose App mit Lektionen die zu deutschen Lehrplänen passen.
+  description_de: Kostenlose App mit Lektionen die zu deutschen Lehrplänen passen.
   age: 4-14
   url: https://anton.app/de/
 
-- title: Fiete Math-Kinder Mathe Spiel
+- title_de: Fiete Math-Kinder Mathe Spiel
   categories: ["learning"]
-  description: Wunderschöne App, mit der euer Kind spielerisch Rechnen lernen
+  description_de: Wunderschöne App, mit der euer Kind spielerisch Rechnen lernen
   age: 5-9
   url: https://apps.apple.com/de/app/fiete-math-kinder-mathe-spiel/id1052109508
 
-- title: Kinderfahrradfinder
+- title_de: Kinderfahrradfinder
   categories: ["shopping-advice"]
-  description: Welches Kinderfahrrad hat die richtige Größe?...Gute, leichte Kinderfahrräder und Jugendfahrräder ganz einfach in der passenden Größe finden.
+  description_de: Welches Kinderfahrrad hat die richtige Größe?...Gute, leichte Kinderfahrräder und Jugendfahrräder ganz einfach in der passenden Größe finden.
   age: 2-16
   url: https://www.kinderfahrradfinder.de/
 
-- title: Das gewünschteste Wunschkind-Podcast
+- title_de: Das gewünschteste Wunschkind-Podcast
   url: https://www.gewuenschtestes-wunschkind.de/p/podcast.html
-  description: Einer der Klassiker. Guter Blog, gute Buch-Reihe, guter Podcast 🤗
+  description_de: Einer der Klassiker. Guter Blog, gute Buch-Reihe, guter Podcast 🤗
   categories: ["podcast"]
 
-- title: Mit Kindern Leben
+- title_de: Mit Kindern Leben
   url: https://mkl.wtf/
-  description: Patricia und Caspar sind nicht nur im Social Media-Bereich aktiv, sondern haben auch noch diesen tollen Podcast 🎧
+  description_de: Patricia und Caspar sind nicht nur im Social Media-Bereich aktiv, sondern haben auch noch diesen tollen Podcast 🎧
   categories: ["podcast"]
 
-- title: Podcast Elterngedöns - Eltern-Coach Christopher End
+- title_de: Podcast Elterngedöns - Eltern-Coach Christopher End
   url: https://christopher-end.de/podcast-elterngedoens/
-  description: Christoph hat eine sehr schöne Art Interviews zu führen und Konzepte zu erklären ❤️
+  description_de: Christoph hat eine sehr schöne Art Interviews zu führen und Konzepte zu erklären ❤️
   categories: ["podcast"]
 
-- title: Vaterzeit
+- title_de: Vaterzeit
   url: http://vaterzeit.rocks
-  description: Der Podcast von [Vaterwelten.de](https://vaterwelten.de/), noch sehr neu aber schon ein paar schöne Interviews mit Vätern. Große Liebe hierfür 👨‍👧!
+  description_de: Der Podcast von [Vaterwelten.de](https://vaterwelten.de/), noch sehr neu aber schon ein paar schöne Interviews mit Vätern. Große Liebe hierfür 👨‍👧!
   categories: ["podcast"]
 
-- title: Eltern ohne Filter
+- title_de: Eltern ohne Filter
   url: https://www.br.de/mediathek/podcast/eltern-ohne-filter/821
-  description: Mütter und Väter erzählen ungefiltert von ihrem Leben als Eltern. Vom irrsinnigen Glück. Vom ganz normalen Wahnsinn. Und von ihren dunklen Momenten. 
+  description_de: Mütter und Väter erzählen ungefiltert von ihrem Leben als Eltern. Vom irrsinnigen Glück. Vom ganz normalen Wahnsinn. Und von ihren dunklen Momenten. 
   categories: ["podcast"]
 
-- title: Zen Parenting
+- title_de: Zen Parenting
   url: https://zenparentingradio.com/
-  description: Erziehung aus einer amerikanischen Sichtweise. Sehr unterhaltsam und tiefgründig 🍼
+  description_de: Erziehung aus einer amerikanischen Sichtweise. Sehr unterhaltsam und tiefgründig 🍼
   categories: ["podcast"]
 
-- title: Mom and Dad are fighting
+- title_de: Mom and Dad are fighting
   url: https://slate.com/podcasts/mom-and-dad-are-fighting
-  description: Schöner Eltern-Podcast von der amerikanischen Webseite Slate 📚
+  description_de: Schöner Eltern-Podcast von der amerikanischen Webseite Slate 📚
   categories: ["podcast"]
 
-- title: Better Teaching Resources
-  description: Jede Menge Unterrichtsmaterial für Kinder. Die Bilderkarten Gefühle sind z.B. sehr toll.
+- title_de: Better Teaching Resources
+  description_de: Jede Menge Unterrichtsmaterial für Kinder. Die Bilderkarten Gefühle sind z.B. sehr toll.
   url: https://www.betterteachingresources.com/
   age: 5-14
   categories: ["learning"]
 
-- title: Little Travel Society
-  description: Ein schöner Blog rund um das Thema Familienhotels, mit jede Menge Tips und Empfehlungen
+- title_de: Little Travel Society
+  description_de: Ein schöner Blog rund um das Thema Familienhotels, mit jede Menge Tips und Empfehlungen
   url: https://www.littletravelsociety.de/
   categories: ["vacation"]
 
-- title: Flimmo
+- title_de: Flimmo
   url: https://www.flimmo.de/
-  description: Elternratgeber für TV, Streaming und Co.
+  description_de: Elternratgeber für TV, Streaming und Co.
   age: 3-14
   categories: ["media"]
 
-- title: Common Sense Media
-  description: Amerikanische Non-Profit mit einer riesigen Filmdatenbank inkl. Rezension und Altersempfehlungen.
+- title_de: Common Sense Media
+  description_de: Amerikanische Non-Profit mit einer riesigen Filmdatenbank inkl. Rezension und Altersempfehlungen.
   url: https://www.commonsensemedia.org/
   age: 2-18
   categories: ["media"]
 
-- title: Family Gaming Database
-  description: Riesige Datenbank mit Reviews und Altersempfehlungen von Brett- und Videospielen.
+- title_de: Family Gaming Database
+  description_de: Riesige Datenbank mit Reviews und Altersempfehlungen von Brett- und Videospielen.
   url: https://www.familygamingdatabase.com
   age: 4-16
   categories: ["digital-games", "boardgames"]
 
-- title: Kinderfilmblog
-  description: Der beste Blog im deutschen Raum zum Thema Kinderfilme.
+- title_de: Kinderfilmblog
+  description_de: Der beste Blog im deutschen Raum zum Thema Kinderfilme.
   url: https://kinderfilmblog.de/
   age: 4-14
   categories: ["media"]
 
-- title: Polle
-  description: "POLLE ist ein Comic-Magazin für Kinder ab 7 Jahren. Viele wunderbare Künstler*innen aus aller Welt veröffentlichen darin ihre brandneu gezeichneten Geschichten: kurze & längere, lustige & ernste, verrückte & alltägliche."
+- title_de: Polle
+  description_de: "POLLE ist ein Comic-Magazin für Kinder ab 7 Jahren. Viele wunderbare Künstler*innen aus aller Welt veröffentlichen darin ihre brandneu gezeichneten Geschichten: kurze & längere, lustige & ernste, verrückte & alltägliche."
   url: https://pe-ri-dot.com/collections/polle
   age: 7-
   categories: ["reading"]
 
-- title: Kinderstark
-  description: Deutschlands erstes Kindermagazin für mehr Vielfalt und starke Kinder
+- title_de: Kinderstark
+  description_de: Deutschlands erstes Kindermagazin für mehr Vielfalt und starke Kinder
   categories: ["reading"]
   age: 7-
   url: https://www.kinderstark-magazin.de/
 
-- title: Stiftung Warentest
-  description: Der deutsche Klassiker. Hier gibt es viele gute Tests, z.B. zu Kinderhelmen, Autositzen und vieles mehr.
+- title_de: Stiftung Warentest
+  description_de: Der deutsche Klassiker. Hier gibt es viele gute Tests, z.B. zu Kinderhelmen, Autositzen und vieles mehr.
   url: https://www.test.de/
   categories: ["shopping-advice"]
 
-- title: Wishlephant Geschenkideen
-  description: Wishlephant ist nicht nur eine tolle Wunschlisten-Webseite, sondern hat zusätzlich eine riesige Anzahl an Produkt-Empfehlungen. Der Blog ist auch einen Besuch wert.
+- title_de: Wishlephant Geschenkideen
+  description_de: Wishlephant ist nicht nur eine tolle Wunschlisten-Webseite, sondern hat zusätzlich eine riesige Anzahl an Produkt-Empfehlungen. Der Blog ist auch einen Besuch wert.
   url: https://wishlephant.com/gift-ideas
   categories: ["shopping-advice"]
 
-- title: Dreißig Minuten, dann ist aber Schluss!
+- title_de: Dreißig Minuten, dann ist aber Schluss!
   url: /pages/dreissigminuten
-  description: Patricia Cammaratas Buch zum Thema Medien sollten alle Erziehende gelesen haben. Weniger Stress, mehr gelassener Umgang mit Medien ♥️.
+  description_de: Patricia Cammaratas Buch zum Thema Medien sollten alle Erziehende gelesen haben. Weniger Stress, mehr gelassener Umgang mit Medien ♥️.
   categories: ["media"]
 
-- title: Kakadu
+- title_de: Kakadu
   url: https://www.kakadu.de/
   age: 6-12
-  description: Der Kinder-Podcast des Deutschlandfunk Kultur.
+  description_de: Der Kinder-Podcast des Deutschlandfunk Kultur.
   categories: ["podcast-kids"]
 
-- title: MIRA & das fliegende Haus
+- title_de: MIRA & das fliegende Haus
   age: 4-11
   url: https://mira-welt.de/
-  description: "Bei \"MIRA & das fliegende Haus\" dreht sich alles um die wirklich wichtigen Themen: Nämlich den Umgang mit Gefühlen, Achtsamkeit, Selbstliebe, Nachhaltigkeit, Empathie, Diversity, Inklusion und vieles mehr."
+  description_de: "Bei \"MIRA & das fliegende Haus\" dreht sich alles um die wirklich wichtigen Themen: Nämlich den Umgang mit Gefühlen, Achtsamkeit, Selbstliebe, Nachhaltigkeit, Empathie, Diversity, Inklusion und vieles mehr."
   categories: ["podcast-kids"]
 
-- title: Wishlephant Brettspiel-Listen
-  description: Wishlephant ist nicht nur eine tolle Wunschlisten-Webseite, sondern hat zusätzlich eine riesige Anzahl an Brettspiel-Empfehlungen.
+- title_de: Wishlephant Brettspiel-Listen
+  description_de: Wishlephant ist nicht nur eine tolle Wunschlisten-Webseite, sondern hat zusätzlich eine riesige Anzahl an Brettspiel-Empfehlungen.
   url: https://wishlephant.com/gift-ideas#spiele
   categories: ["boardgames"]
 
-- title: Alba - A Wildlife Adventure
-  description: Sehr tolles Abenteuer-Spiel. Mit sehr viel liebe gemacht und extrem Lehrreich. 
+- title_de: Alba - A Wildlife Adventure
+  description_de: Sehr tolles Abenteuer-Spiel. Mit sehr viel liebe gemacht und extrem Lehrreich. 
   url: https://www.albawildlife.com/
   categories: ["digital-games"]
   age: 5-
 
-- title: Gecko - Kinderzeitschrift
-  description: Ein kindgerechter Türöffner in die Welt der Bücher, intelligent, einfühlsam und ganz ohne Werbung.
+- title_de: Gecko - Kinderzeitschrift
+  description_de: Ein kindgerechter Türöffner in die Welt der Bücher, intelligent, einfühlsam und ganz ohne Werbung.
   age: 5-7
   url: https://www.gecko-kinderzeitschrift.de
   categories: ["reading"]
 
-- title: Familienreisefieber
-  description: Regelmäßig neue Ideen zu Ausflügen und Reisen mit Kind.
+- title_de: Familienreisefieber
+  description_de: Regelmäßig neue Ideen zu Ausflügen und Reisen mit Kind.
   url: https://www.familienreisefieber.de/
   categories: ["vacation"]
 
-- title: Boardgame Geek
-  description: Riesige Datenbank mit Infos und Bewertungen von Brettspielen.
+- title_de: Boardgame Geek
+  description_de: Riesige Datenbank mit Infos und Bewertungen von Brettspielen.
   url: https://boardgamegeek.com/
   categories: ["boardgames"]
   
-- title: Die Welt wartet
-  description: Ihr wollt verreisen, aber wollt euch den Stress der Planung und des Buchens ersparen? Die Welt wartet hilft euch.
+- title_de: Die Welt wartet
+  description_de: Ihr wollt verreisen, aber wollt euch den Stress der Planung und des Buchens ersparen? Die Welt wartet hilft euch.
   url: https://www.dieweltwartet.de
   categories: ["vacation"]
 
-- title: Buchbox Berlin
-  description: Eine Buchhandlung in Berlin mit einer vielfältigen Auswahl an Büchern und vielen Standorten.
+- title_de: Buchbox Berlin
+  description_de: Eine Buchhandlung in Berlin mit einer vielfältigen Auswahl an Büchern und vielen Standorten.
   url: https://buchboxberlin.de/
   categories: ["reading"]
 
-- title: Krumulus
-  description: Der beste Kinderbuchladen in Berlin.
+- title_de: Krumulus
+  description_de: Der beste Kinderbuchladen in Berlin.
   url: https://www.krumulus.com/
   categories: ["reading"]
 
-- title: Polylino
-  description: Eine Plattform für digitale Bilderbuchgeschichten in verschiedenen Sprachen für Kinder. Enthalten in deiner Bibliotheksmitgliedschaft.
+- title_de: Polylino
+  description_de: Eine Plattform für digitale Bilderbuchgeschichten in verschiedenen Sprachen für Kinder. Enthalten in deiner Bibliotheksmitgliedschaft.
   age: 3-10
   url: https://www.polylino.de/
   categories: ["reading"]
 
-- title: Langer Blomqvist
-  description: Ein Antiquariat und Buchhandlung in Berlin mit einer umfangreichen Sammlung von antiquarischen Büchern.
+- title_de: Langer Blomqvist
+  description_de: Ein Antiquariat und Buchhandlung in Berlin mit einer umfangreichen Sammlung von antiquarischen Büchern.
   url: https://www.langer-blomqvist.de/
   categories: ["reading"]
 
-- title: Reprodukt Kindercomics
+- title_de: Reprodukt Kindercomics
   age: 3-
-  description: Eine Sammlung von Kindercomics vom Verlag Reprodukt, die eine breite Auswahl an tollen Comics für Kinder bietet.
+  description_de: Eine Sammlung von Kindercomics vom Verlag Reprodukt, die eine breite Auswahl an tollen Comics für Kinder bietet.
   url: https://reprodukt.com/collections/kindercomics
   categories: ["reading"]
 
-- title: VÖBB - Verbund Öffentlicher Bibliotheken Berlin
-  description: Der Verbund der öffentlichen Bibliotheken in Berlin, der einen umfassenden Zugang zu einer Vielzahl von Medien bietet. Wer Kinder hat, sollte unbedingt eine Bibliothekskarte haben.
+- title_de: VÖBB - Verbund Öffentlicher Bibliotheken Berlin
+  description_de: Der Verbund der öffentlichen Bibliotheken in Berlin, der einen umfassenden Zugang zu einer Vielzahl von Medien bietet. Wer Kinder hat, sollte unbedingt eine Bibliothekskarte haben.
   url: https://www.voebb.de/
   categories: ["reading"]
 
-- title: LesenMit.app
-  description: LesenMit.app prüft regelmäßig Apps und gibt euch Tipps, wie diese in Familie, Kita, Kindergarten, Hort und Schule genutzt werden können.
+- title_de: LesenMit.app
+  description_de: LesenMit.app prüft regelmäßig Apps und gibt euch Tipps, wie diese in Familie, Kita, Kindergarten, Hort und Schule genutzt werden können.
   url: https://lesenmit.app/
   categories: ["reading"]
 
-- title: Milchsalon
-  description: Gute Kindermusik. Für Alle. Hörbar. Tanzbar. Wunderbar. Der Milchsalon ist – seit 2011 – eine erfrischend andere Konzertreihe, die Kinder zum Musizieren, Tanzen und Ausflippen animiert. 
+- title_de: Milchsalon
+  description_de: Gute Kindermusik. Für Alle. Hörbar. Tanzbar. Wunderbar. Der Milchsalon ist – seit 2011 – eine erfrischend andere Konzertreihe, die Kinder zum Musizieren, Tanzen und Ausflippen animiert. 
   url: https://milchsalon.de/
   age: 4-
   categories: ["events"]
 
-- title: Jugendkulturservice Shop
-  description: Der Online-Shop des Jugendkulturservice, hier gibt es viele ermäßigte Tickets für Berliner Veranstaltungen.
+- title_de: Jugendkulturservice Shop
+  description_de: Der Online-Shop des Jugendkulturservice, hier gibt es viele ermäßigte Tickets für Berliner Veranstaltungen.
   url: https://shop.jugendkulturservice.de/
   age: 2-
   categories: ["events"]
 
-- title: Babykonzert
-  description: Diese Konzertreihe bietet Babys und ihren Eltern einen Event, bei dem sie Kultur gemeinsam und ganz entspannt genießen können.
+- title_de: Babykonzert
+  description_de: Diese Konzertreihe bietet Babys und ihren Eltern einen Event, bei dem sie Kultur gemeinsam und ganz entspannt genießen können.
   age: 0-3
   url: https://babykonzert.de/
   categories: ["events"]
 
-- title: Kindaling
-  description: Kindaling ist ein Online Freizeit-Guide für Eltern in Berlin und hilft dabei, das richtige Angebot zu finden – egal, ob Schwangerschaftsyoga und Geburtsvorbereitung, Kindersport, Eltern-Kind-Gruppen, Kreativ-Kurse, Musikunterricht oder Feriencamps.
+- title_de: Kindaling
+  description_de: Kindaling ist ein Online Freizeit-Guide für Eltern in Berlin und hilft dabei, das richtige Angebot zu finden – egal, ob Schwangerschaftsyoga und Geburtsvorbereitung, Kindersport, Eltern-Kind-Gruppen, Kreativ-Kurse, Musikunterricht oder Feriencamps.
   age: 0-
   url: https://www.kindaling.de/
   categories: ["events"]
 
-- title: Berlin mit Kind
-  description: Die Seite des Himbeer-Magazins mit einem tollen Event-Kalender und Blog-Artikeln.
+- title_de: Berlin mit Kind
+  description_de: Die Seite des Himbeer-Magazins mit einem tollen Event-Kalender und Blog-Artikeln.
   url: https://berlinmitkind.de/
   age: 0-
   categories: ["events"]
 
-- title: Luna Baby Monitor
-  description: Babyphone als iOS App. Perfekt wenn man mal wieder das Babyphone vergessen hat 😅
+- title_de: Luna Baby Monitor
+  description_de: Babyphone als iOS App. Perfekt wenn man mal wieder das Babyphone vergessen hat 😅
   url: https://babyphone.app/
   categories: ["apps"]
 
-- title: Baby Berlin iOS
+- title_de: Baby Berlin iOS
   url: https://apps.apple.com/de/app/baby-berlin/id6472043925 
-  description: Alle Termine, Fristen, Anträge, Ämtergänge und Todo`s in der Zeit der Schwangerschaft und nach der Geburt stressfrei im Auge behalten.
+  description_de: Alle Termine, Fristen, Anträge, Ämtergänge und Todo`s in der Zeit der Schwangerschaft und nach der Geburt stressfrei im Auge behalten.
   categories: ["apps"]
 
-- title: Baby Berlin Android
+- title_de: Baby Berlin Android
   url: https://play.google.com/store/apps/details?id=de.gesundheitbb.baby
-  description: Alle Termine, Fristen, Anträge, Ämtergänge und Todo`s in der Zeit der Schwangerschaft und nach der Geburt stressfrei im Auge behalten.
+  description_de: Alle Termine, Fristen, Anträge, Ämtergänge und Todo`s in der Zeit der Schwangerschaft und nach der Geburt stressfrei im Auge behalten.
   categories: ["apps"]
 
-- title: Embryotox
-  description: Eine Informationsplattform über Arzneimittelsicherheit in Schwangerschaft und Stillzeit.
+- title_de: Embryotox
+  description_de: Eine Informationsplattform über Arzneimittelsicherheit in Schwangerschaft und Stillzeit.
   url: https://www.embryotox.de/
   categories: ["apps"]
 
-- title: Kita-Navigator Berlin
-  description: Eine Online-Plattform zur Suche und Anmeldung von Kindertagesstätten (Kitas) in Berlin.
+- title_de: Kita-Navigator Berlin
+  description_de: Eine Online-Plattform zur Suche und Anmeldung von Kindertagesstätten (Kitas) in Berlin.
   url: https://kita-navigator.berlin.de/
   categories: ["apps"]
 
-- title: Contraction Timer iOS
+- title_de: Contraction Timer iOS
   url: https://apps.apple.com/us/app/contraction-timer-counter-9m/id877303791
-  description: Diese App brauchst du hoffentlich nur einige Stunden, aber dann ist es sehr hilfreich. Während der Wehen willst und kannst du nicht auch noch im Kopf rechnen, wie lange die letzte Wehe her war.
+  description_de: Diese App brauchst du hoffentlich nur einige Stunden, aber dann ist es sehr hilfreich. Während der Wehen willst und kannst du nicht auch noch im Kopf rechnen, wie lange die letzte Wehe her war.
   categories: ["apps"]
 
-- title: All About Berlin
-  description: Informationen für Menschen, die in Berlin ankommen wollen.
+- title_de: All About Berlin
+  description_de: Informationen für Menschen, die in Berlin ankommen wollen.
   url: https://allaboutberlin.com/
   categories: ["berlin"]
 
-- title: Kleine Prints
+- title_de: Kleine Prints
   url: https://kleineprints.de/
-  description: Liebevolle Fotobücher für Kinder & Kleinkinder, personalisiertes Memospiele und mehr...
+  description_de: Liebevolle Fotobücher für Kinder & Kleinkinder, personalisiertes Memospiele und mehr...
   categories: ["apps"]
 
-- title: OnceUpon Photo
-  description: Eine Plattform für personalisierte Fotobücher und Erinnerungen, die individuelle Gestaltungsmöglichkeiten bietet.
+- title_de: OnceUpon Photo
+  description_de: Eine Plattform für personalisierte Fotobücher und Erinnerungen, die individuelle Gestaltungsmöglichkeiten bietet.
   url: https://onceupon.photo/
   categories: ["apps"]
   
-- title: ENE MENE BU
+- title_de: ENE MENE BU
   url: https://www.kika.de/ene-mene-bu/index.html
   age: 3-7
-  description: ENE MENE BU ist eine Kika Sendung, bei der Kinder basteln, malen, entdecken, spielen und Geschichten erfinden.
+  description_de: ENE MENE BU ist eine Kika Sendung, bei der Kinder basteln, malen, entdecken, spielen und Geschichten erfinden.
   categories: ["learning"]
 
-- title: Sendung mit der Maus
+- title_de: Sendung mit der Maus
   url: https://www.wdrmaus.de
-  description: Einer der Klassiker im deutschen Kinderfernsehen. Natürlich auch mit eine Webseite und App mit jede Menge alter Folgen.
+  description_de: Einer der Klassiker im deutschen Kinderfernsehen. Natürlich auch mit eine Webseite und App mit jede Menge alter Folgen.
   categories: ["learning"]
   age: 5-12
 
-- title: Löwenzähnchen
+- title_de: Löwenzähnchen
   url: https://www.zdf.de/kinder/loewenzaehnchen
-  description: Löwenzähnchen ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
+  description_de: Löwenzähnchen ist die [Löwenzahn](https://www.zdf.de/kinder/loewenzahn)-Version für die ganz kleinen.
   categories: ["learning"]
   age: 3-5
 
-- title: Sofatutor
+- title_de: Sofatutor
   url: https://www.sofatutor.com
-  description: Sofatutor bietet Schüler*innen aller Klassenstufen die Möglichkeit, digital, zeitlich flexibel und ortsunabhängig zu lernen.
+  description_de: Sofatutor bietet Schüler*innen aller Klassenstufen die Möglichkeit, digital, zeitlich flexibel und ortsunabhängig zu lernen.
   categories: ["learning"]
   age: 6-16
 
-- title: Wissen Macht Ah!
-  description: Eine unterhaltsame und lehrreiche Wissenssendung für Kinder, produziert vom WDR.
+- title_de: Wissen Macht Ah!
+  description_de: Eine unterhaltsame und lehrreiche Wissenssendung für Kinder, produziert vom WDR.
   categories: ["learning"]
   age: 9-14
 
-- title: Learnattack
-  description: Eine Lernplattform mit digitalen Lernmaterialien und Nachhilfeangeboten für Schülerinnen und Schüler vom Duden Verlag.
+- title_de: Learnattack
+  description_de: Eine Lernplattform mit digitalen Lernmaterialien und Nachhilfeangeboten für Schülerinnen und Schüler vom Duden Verlag.
   url: https://learnattack.de/
   categories: ["learning"]
   age: 10-16
 
-- title: Scratch
-  description: Eine Online-Plattform, die es ermöglicht, interaktive Geschichten, Spiele und Animationen zu erstellen und zu teilen.
+- title_de: Scratch
+  description_de: Eine Online-Plattform, die es ermöglicht, interaktive Geschichten, Spiele und Animationen zu erstellen und zu teilen.
   url: https://scratch.mit.edu/
   age: 8-16
   categories: ["learning"]
 
-- title: ScratchJr
-  description: Eine visuelle Programmierumgebung für junge Kinder, die ihnen ermöglicht, Geschichten und Spiele zu erstellen.
+- title_de: ScratchJr
+  description_de: Eine visuelle Programmierumgebung für junge Kinder, die ihnen ermöglicht, Geschichten und Spiele zu erstellen.
   url: https://www.scratchjr.org/
   categories: ["learning"]
   age: 5-7
 
-- title: Hopscotch
-  description: Eine kreative Plattform für Kinder, um interaktive Spiele, Animationen und mehr zu programmieren und zu teilen.
+- title_de: Hopscotch
+  description_de: Eine kreative Plattform für Kinder, um interaktive Spiele, Animationen und mehr zu programmieren und zu teilen.
   url: https://www.gethopscotch.com/
   categories: ["learning"]
   age: 8-14
 
-- title: Kodable
-  description: Eine Programmierplattform für Kinder, die spielerisches Lernen und die Grundlagen des Programmieren fördert.
+- title_de: Kodable
+  description_de: Eine Programmierplattform für Kinder, die spielerisches Lernen und die Grundlagen des Programmieren fördert.
   url: https://www.kodable.com/
   categories: ["learning"]
   age: 8-14
 
-- title: Wishlephant - Deine online Wunschliste
-  description: "Mit Wunschlisten deiner Kinder kannst du dir sehr viel Stress rund um Geburtstage und Feierlichkeiten sparen. Keine doppelten Geschenke, keine langen Chats was so geschenkt werden könnte."
+- title_de: Wishlephant - Deine online Wunschliste
+  description_de: "Mit Wunschlisten deiner Kinder kannst du dir sehr viel Stress rund um Geburtstage und Feierlichkeiten sparen. Keine doppelten Geschenke, keine langen Chats was so geschenkt werden könnte."
   url: https://wishlephant.com/
   categories: ["apps", "birthdays"]
 
-- title: Mental Load Test
+- title_de: Mental Load Test
   url: https://mental-load-test.org/
-  description: "[Mental load](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/) ist ein Thema, das jeder Vater* kennen und verstehen sollte. Dieser Test kann eine erste Bestandsaufnahme sein, um die Paarbeziehung zu verbessern und Lasten besser aufzuteilen."
+  description_de: "[Mental load](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/) ist ein Thema, das jeder Vater* kennen und verstehen sollte. Dieser Test kann eine erste Bestandsaufnahme sein, um die Paarbeziehung zu verbessern und Lasten besser aufzuteilen."
   categories: ["apps"]
 
-- title: "FamilieVerstehen: Das ABC der Gewaltfreien Kommunikation"
-  description: Der Podcast für Eltern mit Herz und Verstand. Von A wie Anziehen bis Z wie Zähneputzen - in liebevoller Verbindung bleiben, auch wenn es zu Hause mal anstrengend wird.
+- title_de: "FamilieVerstehen: Das ABC der Gewaltfreien Kommunikation"
+  description_de: Der Podcast für Eltern mit Herz und Verstand. Von A wie Anziehen bis Z wie Zähneputzen - in liebevoller Verbindung bleiben, auch wenn es zu Hause mal anstrengend wird.
   url: https://das-elterm-abc.podigee.io
   categories: ["podcast"]
 
-- title: Lachlabor - Lustiges Wissen für Kinder zum Miträtseln
-  description: "Tina und Mischa beantworten im Lachlabor die verrücktesten Kinderfragen: Kann man in geschmolzener Schokolade schwimmen? Macht ein Känguru-Baby auch mal in den Beutel der Mama? Oder: Kann man Wolken wegpusten? Die beiden machen lustige Experimente, und bekommen auf ihrer Suche nach Wissen und Antworten Hilfe vom Kinder-Miträtsel-Team und von Expertinnen und Experten."
+- title_de: Lachlabor - Lustiges Wissen für Kinder zum Miträtseln
+  description_de: "Tina und Mischa beantworten im Lachlabor die verrücktesten Kinderfragen: Kann man in geschmolzener Schokolade schwimmen? Macht ein Känguru-Baby auch mal in den Beutel der Mama? Oder: Kann man Wolken wegpusten? Die beiden machen lustige Experimente, und bekommen auf ihrer Suche nach Wissen und Antworten Hilfe vom Kinder-Miträtsel-Team und von Expertinnen und Experten."
   url: https://www.br.de/mediathek/podcast/lachlabor/515
   categories: ["podcast-kids"]
 
-- title: Anna und die wilden Tiere
-  description: "Ihr kennt \"Anna und die wilden Tiere\" aus dem Fernsehen? Auch hier im Podcast kommt Anna wilden Tieren ganz nah - egal ob Pferden, Haien, Elefanten oder Schlangen. Ihr erfahrt dabei vieles über Tiere, das ihr garantiert noch nicht wusstet - zum Beispiel über superstarke Abwehrtechniken gegenüber Feinden oder mit welchen schlauen Mitteln sie an ihr Lieblingsfutter gelangen. Und an Annas Seite ist immer: die Hyäne. Sie erzählt Witze, puh, die sind manchmal richtig schlecht und ... ach, hört einfach rein!"
+- title_de: Anna und die wilden Tiere
+  description_de: "Ihr kennt \"Anna und die wilden Tiere\" aus dem Fernsehen? Auch hier im Podcast kommt Anna wilden Tieren ganz nah - egal ob Pferden, Haien, Elefanten oder Schlangen. Ihr erfahrt dabei vieles über Tiere, das ihr garantiert noch nicht wusstet - zum Beispiel über superstarke Abwehrtechniken gegenüber Feinden oder mit welchen schlauen Mitteln sie an ihr Lieblingsfutter gelangen. Und an Annas Seite ist immer: die Hyäne. Sie erzählt Witze, puh, die sind manchmal richtig schlecht und ... ach, hört einfach rein!"
   url: https://www.br.de/mediathek/podcast/anna-und-die-wilden-tiere/858
   categories: ["podcast-kids"]
 
-- title: artgerecht – der andere Elternpodcast
+- title_de: artgerecht – der andere Elternpodcast
   url: https://www.artgerecht-projekt.de/artgerecht-der-andere-elternpodcast/
-  description: Eine schöne Kindheit für unsere Kinder ist ja gut und schön – aber wie schaffen wir es, uns selbst dabei nicht zu verlieren? Wie kommen wir gut durch die wohl herausforderndste Zeit unseres Lebens?  Schnapp‘ dir ein Kissen und setze dich zu uns ans artgerecht Lagerfeuer. 
+  description_de: Eine schöne Kindheit für unsere Kinder ist ja gut und schön – aber wie schaffen wir es, uns selbst dabei nicht zu verlieren? Wie kommen wir gut durch die wohl herausforderndste Zeit unseres Lebens?  Schnapp‘ dir ein Kissen und setze dich zu uns ans artgerecht Lagerfeuer. 
   categories: ["podcast"]
 
-- title: Familienrat mit Katia Saalfrank
-  description: Wie spricht man am besten über Herausforderungen im Familienalltag? Viele Eltern umtreiben dieselben Sorgen, und lesen einen Ratgeber nach dem Anderen. Jeder hat eine andere Idee von Erziehung und nur selten werden Sorgen offen ausgesprochen. Im  Familienrat-Podcast besuchen wir die Diplompädagogin Katia Saalfrank und stellen ihr eure Fragen rund um Erziehung und Familienleben. 
+- title_de: Familienrat mit Katia Saalfrank
+  description_de: Wie spricht man am besten über Herausforderungen im Familienalltag? Viele Eltern umtreiben dieselben Sorgen, und lesen einen Ratgeber nach dem Anderen. Jeder hat eine andere Idee von Erziehung und nur selten werden Sorgen offen ausgesprochen. Im  Familienrat-Podcast besuchen wir die Diplompädagogin Katia Saalfrank und stellen ihr eure Fragen rund um Erziehung und Familienleben. 
   url: https://mitvergnuegen.com/familienrat/
   categories: ["podcast"]
 
-- title: CheckPod - Der Podcast mit Checker Tobi
-  description:  Der Checker zum Hören! Tobi checkt zusammen mit einem Kind drei Fragen zu einem Wissensthema. Lustige Experimente, kluge Expertinnen und Experten sowie die schlaue Datenbank helfen ihnen dabei. Und am Schluss jeder Folge verrät Checker Tobi ein persönliches Geheimnis. Ob es um Bäume, Märchen oder Schleim geht, im CheckPod macht Wissen Spaß und gute Laune. Alle neuen Folgen gibt es immer eine Woche vorab exklusiv in der ARD-Audiothek! 
+- title_de: CheckPod - Der Podcast mit Checker Tobi
+  description_de:  Der Checker zum Hören! Tobi checkt zusammen mit einem Kind drei Fragen zu einem Wissensthema. Lustige Experimente, kluge Expertinnen und Experten sowie die schlaue Datenbank helfen ihnen dabei. Und am Schluss jeder Folge verrät Checker Tobi ein persönliches Geheimnis. Ob es um Bäume, Märchen oder Schleim geht, im CheckPod macht Wissen Spaß und gute Laune. Alle neuen Folgen gibt es immer eine Woche vorab exklusiv in der ARD-Audiothek! 
   url: https://www.br.de/mediathek/podcast/checkpod-der-podcast-mit-checker-tobi/859
   categories: ["podcast-kids"]
 
-- title: "Aumio: Gute Nacht Geschichten"
+- title_de: "Aumio: Gute Nacht Geschichten"
   age: 4-
-  description: "Die #1 Schlaf-App für Kinder in Deutschland - der Aumio Hörspiel-Kosmos zum Einschlafen und Entspannen. Und das beste: viele Krankenkassen übernehmen die Abokosten"
+  description_de: "Die #1 Schlaf-App für Kinder in Deutschland - der Aumio Hörspiel-Kosmos zum Einschlafen und Entspannen. Und das beste: viele Krankenkassen übernehmen die Abokosten"
   url: https://aumio.de/
   categories: ["apps"]
 
-- title: Das klingende Museum
+- title_de: Das klingende Museum
   categories: ["birthdays"]
   url: https://www.klingendes-museum-berlin.de/
-  description: Schlichtweg der Hit ist ein Kindergeburtstag mit dem Klingenden Museum.
+  description_de: Schlichtweg der Hit ist ein Kindergeburtstag mit dem Klingenden Museum.
   age: 4-12
 
-- title: Untitled Goose Game
+- title_de: Untitle_ded Goose Game
   categories: ["digital-games"]
-  description: Sehr lustiges Rätselspiel rund um eine gemeine Gans.
+  description_de: Sehr lustiges Rätselspiel rund um eine gemeine Gans.
   age: 5-
   url: https://goose.game/
 
-- title: Spiel des Jahres
+- title_de: Spiel des Jahres
   categories: ["boardgames"]
-  description: DER Brettspiel-Kritikerpreis. Hier gibt es immer tolle Kinderspiel-Empfehlungen.
+  description_de: DER Brettspiel-Kritikerpreis. Hier gibt es immer tolle Kinderspiel-Empfehlungen.
   age: 4-
   url: https://www.spiel-des-jahres.de
 
-- title: Deutscher Spielepreis
+- title_de: Deutscher Spielepreis
   categories: ["boardgames"]
-  description: Der grösste Deutsche Community Award für Brettspiele.
+  description_de: Der grösste Deutsche Community Award für Brettspiele.
   url: https://spielessen.de/de/programm/dsp
   age: 5-

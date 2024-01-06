@@ -13,6 +13,7 @@ t:
     footer_languages: Languages
     footer_fathers: Fathers*?
     footer_fathers_text: Inclusion is important to us. Everyone with a father role is welcome.
+    all_posts: All blogposts
 
   de:
     parenting_resources: Eltern Ressourcen
@@ -28,3 +29,4 @@ t:
     footer_languages: Sprachen
     footer_fathers: Väter*?
     footer_fathers_text: Uns ist Inklusion wichtig. Jede*r Mensch mit Vaterrolle ist willkommen.
+    all_posts: Alle Beiträge
