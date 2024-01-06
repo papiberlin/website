@@ -1,8 +1,12 @@
 # Site
 name: "Papi Berlin"
 title: "Papi Berlin"
-description: "Eine Community für aktive Väter in Berlin."
-meta_description: "Eine Community für aktive Väter in Berlin."
+description:
+  de: "Eine Community für aktive Väter in Berlin."
+  en: "A community for active fathers* in Berlin."
+meta_description:
+  de: "Eine Community für aktive Väter in Berlin."
+  en: "A community for active fathers* in Berlin."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
@@ -16,7 +20,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-archives
   - jekyll-datapage-generator
   - jekyll-polyglot
