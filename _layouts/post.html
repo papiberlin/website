@@ -41,7 +41,7 @@ post_class: post-template
             <img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}"
                 alt="{{page.image_description}}" />
             {% if page.image_credit %}
-            <footer><small>{{ page.image_credit }}</small></footer>
+            <footer><small>{{ page.image_credit | markdownify }}</small></footer>
             {% endif %}
         </figure>
 
