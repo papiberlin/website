@@ -19,6 +19,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-datapage-generator
+  - jekyll-polyglot
         
 # Archives
 jekyll-archives:
@@ -38,3 +39,8 @@ page_gen:
     name: id
     dir: resourcen
     template: 'resource'
+
+languages: ["en", "de"]
+default_lang: "de"
+exclude_from_localization: ["assets", "public"]
+parallel_localization: true

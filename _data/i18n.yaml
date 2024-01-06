@@ -1,0 +1,44 @@
+t:
+  en:
+    parenting_resources: Parenting Resources
+    about: About us
+    newsletter: Newsletter
+    contact: Contact
+    code_of_conduct: Code of conduct
+    privacy: Privacy
+    footer_headline: Active father*hood beyond gender stereotypes
+    footer_text: We are a group of fathers* and are happy to welcome anyone who wants to join us.
+    footer_link: More about us ...
+    footer_find_us: "You can find us here:"
+    footer_languages: Languages
+    footer_fathers: Fathers*?
+    footer_fathers_text: Inclusion is important to us. Everyone with a father role is welcome.
+    all_posts: All blogposts
+    newer: Newer
+    older: Older
+    page: Page
+    page_of: of
+    back: Back
+    age: Age
+
+  de:
+    parenting_resources: Eltern Ressourcen
+    about: Über uns
+    newsletter: Newsletter
+    contact: Kontakt
+    code_of_conduct: Verhaltenskodex
+    privacy: Datenschutz
+    footer_headline: Aktive Vater*schaft abseits von Rollenklischees
+    footer_text: Wir sind eine Gruppe von Vätern* und freuen uns über jeden, der Teil von uns werden will.
+    footer_link: Mehr über uns...
+    footer_find_us: "Hier findest du uns:"
+    footer_languages: Sprachen
+    footer_fathers: Väter*?
+    footer_fathers_text: Uns ist Inklusion wichtig. Jede*r Mensch mit Vaterrolle ist willkommen.
+    all_posts: Alle Beiträge
+    newer: Neuer
+    older: Älter
+    page: Seite
+    page_of: von
+    back: Zurück
+    age: Alter

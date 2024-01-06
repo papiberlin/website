@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{site.active_lang}}">
 
+{% assign translation = site.data.i18n.t[site.active_lang] %}
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -22,9 +23,49 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+
+    <link
+      href="/atom.xml"
+      rel="alternate"
+      title="Papi Berlin Feed"
+      type="application/atom+xml"
+    />
+
+    <script>
+        function getBestSuitableSupportedLang(lang, locale, supported) {
+          // Exclude first element, default language
+          var supported_lang = supported.shift();
+          
+          if (supported.includes(lang + "-" + locale)) {
+            supported_lang = lang + "-" + locale;
+          } else if (supported.includes(lang)) {
+            supported_lang = lang;
+          }
+        
+          return supported_lang;
+        }
+        
+        var [lang, locale] = (((navigator.userLanguage || navigator.language).replace('-', '_')).toLowerCase()).split('_');
+        var supported_languages = ["de", "en"];
+        var current_lang = {{ site.active_lang | jsonify }};
+        
+        var suitable_lang = getBestSuitableSupportedLang(lang, locale, supported_languages)
+        
+        var lang_param = new URLSearchParams(window.location.search).get("lang"); 
+        
+        if (lang_param == null && window.location.pathname === "/" && current_lang !== suitable_lang) {
+          window.location = '/' + suitable_lang;
+        } else if (lang_param !== null && current_lang !== lang_param) {
+          var base_path = window.location.pathname.replace("/" + current_lang, "")
+          if (lang_param === "de") {
+            window.location = base_path + '?lang=de';
+          } else {
+            window.location = "/" + lang_param + base_path + '?lang=' + lang_param;
+          }
+        }
+        </script>
+
 </head>
-
-
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
@@ -41,9 +82,15 @@
         <div class="container">
 
             <!-- Begin Logo -->
-            <a class="navbar-brand" href="{{ site.baseurl }}/">
-                Papi Berlin
+            {% if site.active_lang == "de" %}
+            <a class="navbar-brand" href="{{ site.baseurl }}/?lang={{ site.active_lang }}">
+              Papi Berlin
             </a>
+            {% else %}
+            <a class="navbar-brand" href="{{ site.baseurl }}/{{ site.active_lang }}?lang={{ site.active_lang }}">
+              Papi Berlin
+            </a>
+            {% endif %}
             <!-- End Logo -->
 
             <!-- Begin Menu -->
@@ -57,18 +104,18 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/resourcen">Eltern Ressourcen</a>
+                        <a class="nav-link" href="{{ site.baseurl }}/resourcen">{{ translation.parenting_resources }}</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/about">Über uns</a>
+                        <a class="nav-link" href="{{ site.baseurl }}/about">{{ translation.about }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/newsletter">Newsletter</a>
+                        <a class="nav-link" href="{{ site.baseurl }}/newsletter">{{ translation.newsletter }}</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/contact">Kontakt</a>
+                        <a class="nav-link" href="{{ site.baseurl }}/contact">{{ translation.contact }}</a>
                     </li>
                     <!--
                     <li class="nav-item">
@@ -119,12 +166,12 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-8">
-                        <h3>Aktive Vater*schaft abseits von Rollenklischees</h3>
-                        <p>Wir sind eine Gruppe von Vätern* und freuen uns über jeden, der Teil von uns werden will.</p>
-                        <a class="btn btn-primary btn-lg" href="/about">Mehr über uns...</a>
+                        <h3>{{ translation.footer_headline }}</h3>
+                        <p>{{ translation.footer_text }}</p>
+                        <a class="btn btn-primary btn-lg" href="/about">{{ translation.footer_link }}</a>
                     </div>
                     <div class="col-md-4 text-right footersocial">
-                        <h5>Hier findest du uns:</h5>
+                        <h5>{{ translation.footer_find_us }}</h5>
                         <a target="_blank" href="https://join.slack.com/t/dadaberlin/shared_invite/zt-1skuexk5x-OUzSHVwxWWayPUHYjNfiAA" aria-label="Unser Slack Kanal"><i
                                 class="fa fa-slack"></i> Slack</a>
                         <a target="_blank" href="https://github.com/papiberlin/" aria-label="Unsere Github-Seite"><i
@@ -141,7 +188,7 @@
             <div class="container">
 
                 <div class="row">
-                    <div class="col-sm-6">
+                    <div class="col-sm-3">
                         <div class="footer-widget">
                             <a href="{{site.baseurl}}/contact">
                                 <img src="{{ site.baseurl }}/assets/images/logo-footer.png">
@@ -151,21 +198,30 @@
 
                     <div class="col-sm-3">
                         <div class="footer-widget">
+                            <h5 class="title">{{ translation.footer_languages }}</h5>
+                            <ul>
+                                <li><a href="{{page.url}}?lang=de">Deutsch</a></li>
+                                <li><a href="{{page.url}}?lang=en">English</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="footer-widget">
                             <h5 class="title">Links</h5>
                             <ul>
-                                <li><a href="/about">Über uns</a></li>
+                                <li><a href="/about">{{ translation.about }}</a></li>
                                 <li><a href="/impressum">Impressum</a></li>
-                                <li><a href="/codeofconduct">Verhaltenskodex</a></li>
-                                <li><a href="/contact">Kontakt</a></li>
-                                <li><a href="/datenschutz">Datenschutz</a></li>
+                                <li><a href="/codeofconduct">{{ translation.code_of_conduct }}</a></li>
+                                <li><a href="/contact">{{ translation.contact }}</a></li>
+                                <li><a href="/datenschutz">{{ translation.privacy }}</a></li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="col-sm-3">
                         <div class="footer-widget textwidget">
-                            <h5 class="title">Väter*?</h5>
-                            <p>Uns ist Inklusion wichtig. Jede*r Mensch mit Vaterrolle ist willkommen.</p>
+                            <h5 class="title">{{ translation.footer_fathers }}</h5>
+                            <p>{{ translation.footer_fathers_text }}</p>
                         </div>
                     </div>
                 </div>

@@ -2,9 +2,11 @@
 layout: default
 title: Home
 ---
-
+{% assign translation = site.data.i18n.t[site.active_lang] %}
 <!-- Home Jumbotron
 ================================================== -->
+
+{% if site.active_lang == "de" %}
 <section class="intro full-width">
     <div class="wrapintro">
         <h1>Papi Berlin</h1>
@@ -14,6 +16,16 @@ title: Home
         <a href="/about" class="btn">Mehr über uns...</a>
     </div>
 </section>
+{% else %}
+<section class="intro full-width">
+    <div class="wrapintro">
+        <h1>Papi Berlin</h1>
+        <p class="lead">
+            We are a community of active fathers* in Berlin. Would you like to meet or exchange ideas with other fathers*? Or do you have questions and need help? Then you've come to the right place.
+        </p> <a href="/about" class="btn">More about us...</a>
+    </div>
+</section>
+{% endif %}
 
 
 <!-- Featured
@@ -49,7 +61,7 @@ title: Home
     <div class="col-sm-12">
 
         <div class="section-title">
-            <h2><span>Alle Beiträge</span></h2>
+            <h2><span>{{ translation.all_posts }}</span></h2>
         </div>
 
         <div class="masonrygrid row listrecent">

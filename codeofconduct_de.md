@@ -2,8 +2,9 @@
 layout: post
 title: Verhaltenskodex
 comments: true
+lang: de
+permalink: codeofconduct
 ---
-
 ## Zielsetzung
 
 Wir haben als ein wichtiges Ziel gesetzt, die größtmögliche Anzahl an Beitragenden mit den vielfältigsten und unterschiedlichsten Hintergründen einzubeziehen. Wir sehen es als unsere Aufgabe, eine freundliche, sichere und einladende Umgebung zu schaffen, unabhängig von Geschlecht, sexueller Orientierung, Befähigung, Herkunft, Religion (oder deren Nichtvorhandensein) sowie gesellschaftlichem und wirtschaftlichem Status.
@@ -24,13 +25,9 @@ Wenn du Personen begegnest, die sich viel Mühe geben, unsere Community einladen
 ## Erwartetes Verhalten
 
 * Beteilige dich authentisch und aktiv. Dadurch trägst du zur Gesundheit und Langlebigkeit dieser Community bei.
-
 * Verhalte dich rücksichts- und respektvoll in Wort und Tat.
-
 * Bemühe dich um Zusammenarbeit, damit du Konflikte von Anfang an vermeiden kannst.
-
 * Nimm Abstand von erniedrigender, diskriminierender oder belästigender Sprache und Verhalten.
-
 * Achte auf deine Umgebung und die anderen Teilnehmenden. Mache die Veranstaltenden oder andere Anwesende darauf aufmerksam, wenn du eine gefährliche Situation, jemanden in Bedrängnis oder Verletzungen dieses Verhaltenskodexes bemerkst, selbst wenn sie zunächst belanglos erscheinen.
 
 

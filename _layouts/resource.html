@@ -1,38 +1,66 @@
 ---
 layout: default
 ---
+{% assign translation = site.data.i18n.t[site.active_lang] %}
 
 <div class="back-link">
-  <a href="/resourcen">&laquo; Zurück</a>
+  <a href="/resourcen">&laquo; {{ translation.back }}</a>
 </div>
 
 <div class="article-post">
   <div class="mainheading" >
-    <h1 class="posttitle">{{ page.title }}</h1>
+    {% if site.active_lang == "de" %}
+    <h1 class="posttitle">{{ page.title_de }}</h1>
     <p class="lead">
-      {{page.description }}
+      {{page.description_de }}
     </p>
+    {% else %}
+    <h1 class="posttitle">{{ page.title_en }}</h1>
+    <p class="lead">
+      {{page.description_en }}
+    </p>
+    {% endif %}
   </div>
 
+  {% if site.active_lang == "de" %}
+    {% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | sort: "title_de" %}
+  {% else %}
+    {% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | sort: "title_en" %}
+  {% endif %}
+
   <ul>
-{% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | sort: "title" %}
-{% for resource in sortedItems %}
-  <li>
-    <a href="{{ resource.url }}">
-      {{ resource.title }}
-    </a>
-    {% assign cleaned_age = resource.age | strip_newlines %}
-    {% if cleaned_age != "" %}
-      <div class="age-group">Alter: {{ cleaned_age }}</div>
-    {% endif %}
-    {{ resource.description | strip_newlines | markdownify}}
-  </li>
-{% endfor %}
+  {% for resource in sortedItems %}
+    <li>
+      <a href="{{ resource.url }}">
+        {% if site.active_lang == "de" %}
+          {{ resource.title_de }}
+        {% else %}
+          {{ resource.title_en }}
+        {% endif %}
+      </a>
+      {% assign cleaned_age = resource.age | strip_newlines %}
+      {% if cleaned_age != "" %}
+        <div class="age-group">{{ translation.age }}: {{ cleaned_age }}</div>
+      {% endif %}
+
+      {% if site.active_lang == "de" %}
+        {{ resource.description_de | strip_newlines | markdownify}}
+      {% else %}
+        {{ resource.description_en | strip_newlines | markdownify}}
+      {% endif %}
+    </li>
+  {% endfor %}
   </ul>
 
+  {% if site.active_lang == "de" %}
   <p>
     Wenn du eine Webseite kennst, die hier fehlt, dann schreib uns doch <a href="/contact">über unser Kontaktformular</a>.
   </p>
+  {% else %}
+  <p>
+    If you know a website that is missing here, please <a href="/contact">contact us</a>.
+  </p>
+  {% endif %}
 </div>
 
 
