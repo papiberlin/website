@@ -6,7 +6,7 @@ lang: en
 permalink: /resourcen/
 ---
 Welcome to our parenting resources. Here we collect links to websites that we think are helpful. 
-So far {{ site.data.resources | size }} have been collected. If you know of a website that is missing here, please write to us [via our contact form](/contact) or join [our Slack chat](/pages/slack).
+So far we collected {{ site.data.resources | size }}. If you know of a website that is missing here, please write to us [via our contact form](/contact) or join [our Slack chat](/pages/slack).
 
 ### Categories
 
