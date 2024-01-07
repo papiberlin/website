@@ -562,7 +562,7 @@
 
 - title_de: Spiel des Jahres
   description_de: DER Brettspiel-Kritikerpreis. Hier gibt es immer tolle Kinderspiel-Empfehlungen.
-  title_en: Spiel des Jahres
+  tGitle_en: Spiel des Jahres
   description_en: THE board game critic award. Here, you always find great recommendations for children's games.
   categories: ["boardgames"]
   age: 4-
@@ -582,3 +582,10 @@
   description_en: The Tilt Parenting Podcast is a podcast about learning disabilities, special education, ADHD, autism, giftedness, twice-exceptionality, and more. The weekly show features transformational interviews and conversations with authors, parenting experts, educators, and other parents, as well as insightful conversations between Debbie and her differently wired child, all aimed at supporting parents raising differently wired kids.
   categories: ["podcast"]
   url: https://tiltparenting.com/podcast-about-children-with-learning-disabilities/
+
+- title_en: Does the Dog Die?
+  title_de: Does the Dog Die?
+  description_de: Crowdsourced Trigger-Warnungen für Filme, Fernsehen, Bücher und mehr mit 180+ Triggern.
+  description_en: Crowdsourced trigger warnings for movies, tv, books and more tracking 180+ tiggers.
+  url: https://www.doesthedogdie.com
+  categories: ["media"]
