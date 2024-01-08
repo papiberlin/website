@@ -589,3 +589,10 @@
   description_en: Crowdsourced trigger warnings for movies, tv, books and more tracking 180+ tiggers.
   url: https://www.doesthedogdie.com
   categories: ["media"]
+
+- title_de: Wishlephant Bücher-Empfehlungen
+  description_de: Wishlephant hat ein paar sehr tolle Listen mit tollen Bücher für alle Altersgruppen.
+  title_en: Wishlephant Book recommendations
+  description_en: Wishlephant  has tons of nice lists with great book recommendations for all ages.
+  url: https://wishlephant.com/gift-ideas#b%C3%BCcher
+  categories: ["reading"]
