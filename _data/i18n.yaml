@@ -20,7 +20,13 @@ t:
     page_of: of
     back: Back
     age: Age
-
+    language: Language
+    languages: Languages
+    lang:
+      de: German
+      en: English
+      fr: French
+      es: Spanish
   de:
     parenting_resources: Eltern Ressourcen
     about: Über uns
@@ -42,3 +48,10 @@ t:
     page_of: von
     back: Zurück
     age: Alter
+    language: Sprache
+    languages: Sprachen
+    lang:
+      de: Deutsch
+      en: Englisch
+      fr: Französisch
+      es: Spanisch

@@ -42,6 +42,23 @@ layout: default
       {% if cleaned_age != "" %}
         <div class="age-group">{{ translation.age }}: {{ cleaned_age }}</div>
       {% endif %}
+      {% if resource.lang != nil %}
+        <div class="language">
+          <span>
+          {% if resource.lang.size > 1 %}
+            {{ translation.languages }}: 
+          {% else %}
+            {{ translation.language }}: 
+          {% endif %}
+         </span>
+          <ul class="language-list">
+            {% for lang in resource.lang %}
+              <li>{{ translation.lang[lang] }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+      
 
       {% if site.active_lang == "de" %}
         {{ resource.description_de | strip_newlines | markdownify}}

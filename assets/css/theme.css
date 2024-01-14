@@ -1062,3 +1062,24 @@ iframe {
 .age-group {
   font-size: 0.9rem
 }
+
+.language {
+  display: flex;
+  font-size: 0.9rem
+}
+
+.language-list {
+  display: inline-block;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0.5rem;
+}
+
+.language-list li {
+  display: inline;
+  float: left;
+}
+
+.language-list li + li:before {
+    content: ", ";
+}
