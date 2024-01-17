@@ -675,3 +675,44 @@
   url: https://wishlephant.com/gift-ideas#b%C3%BCcher
   categories: ["reading"]
   lang: ["de"]
+
+- title_de: Weihnachtsmärkte Berlin
+  description_de: Eine Übersicht über alle Weihnachtsmärkte in Berlin
+  title_en: Christmas markets Berlin
+  description_en: A overview of all christmas markets in Berlin
+  url: https://www.berlin.de/weihnachtsmarkt/
+  lang: ["de", "en"]
+  categories: ["berlin"]
+
+- title_de: Lebensmittelkontrollen in Pankow
+  description_de: Alle amtlichen Kontrollergebnisse der Liebensmittelbetriebe in Pankow
+  title_en: Food Inspections in Pankow
+  description_en: All official inspection results of food businesses in Pankow
+  url: https://pankow.lebensmittel-kontrollergebnisse.de/
+  lang: ["de"]
+  categories: ["berlin"]
+
+- title_de: Spielplatzguide Friedrichshain
+  description_de: Eine Übersicht aller Spielplätze in Friedrichshain
+  title_en: Playground Guide Friedrichshain
+  description_en: An overview of all playgrounds in Friedrichshain
+  url: https://padlet.com/Familienzentrum_Einhorn_Fredersdorferstrasse_10_10243_Berlin/entdecke-deinen-kiez-spielplatzguide-gj1859kq6ogz2pqa 
+  lang: ["de"]
+  categories: ["berlin"]
+
+- title_de: Badestellen
+  description_de: Die Wasserqualität aller Berliner Badestellen
+  title_en: Bathing Spots
+  description_en: The water quality of all bathing spots in Berlin
+  url: https://www.badestellen.berlin.de/
+  lang: ["de"]
+  categories: ["berlin"]
+
+- title_de: Luftqualitätsindex
+  description_de: Die aktuelle Luftbelastung an den offiziellen Messstellen in Berlin
+  title_en: Air Quality Index
+  description_en: The current air pollution levels at official monitoring points in Berlin
+  url: https://luftdaten.berlin.de/lqi
+  lang: ["de"]
+  categories: ["berlin"]
+
