@@ -23,9 +23,9 @@ layout: default
   </div>
 
   {% if site.active_lang == "de" %}
-    {% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | sort: "title_de" %}
+    {% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | ssort_natural: "title_de" %}
   {% else %}
-    {% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | sort: "title_en" %}
+    {% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | sort_natural: "title_en" %}
   {% endif %}
 
   <ul>

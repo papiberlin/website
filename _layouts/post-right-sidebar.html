@@ -18,7 +18,7 @@ post_class: post-template
             <!-- Post Categories -->
             <div class="after-post-tags">
                 <ul class="tags">
-                    {% assign sortedCategories = page.categories | sort %}
+                    {% assign sortedCategories = page.categories | sort_natural %}
                     {% for category in sortedCategories %}
                     <li>
                         <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>

@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{site.active_lang}}">
-
-{% assign translation = site.data.i18n.t[site.active_lang] %}
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">
     <title>{{ page.title }} | {{site.name}}</title>
-
+    {% assign translation = site.data.i18n.t[site.active_lang] -%}
+    {% assign field = "description_" | append: site.active_lang -%}
+    {% assign description = page[field] | default: page.description | default: site.description[site.active_lang] -%}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:locale" content="{{ site.active_lang }}" />
-    <meta name="description" content="{{ site.description[site.active_lang] }}" />
-    <meta property="og:description" content="{{ site.description[site.active_lang] }}" />
+    <meta name="description" content="{{ description }}" />
+    <meta property="og:description" content="{{ description }}" />
     <link rel="canonical" href="{{ site.url }}{{page.url}}" />
     <meta property="og:url" content="{{ site.url }}{{page.url}}" />
     <meta property="og:site_name" content="{{ site.name }}" />
-    {% if page.image != "" %}
+    {% if page.image and page.image != blank -%}
     <meta property="og:image" content="{{ site.url }}/{{page.image}}" />
-    {% endif %}
+    {% endif -%}
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary" />
     <meta property="twitter:title" content="{{ page.title }}" />
@@ -25,10 +25,12 @@
     {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "description": {{ site.description[site.active_lang] | jsonify }},
+    "description": {{ description | jsonify }},
     "headline": {{ page.title | jsonify}},
     "name": "Papi Berlin",
-    {% if page.image != "" %}"image": "{{ site.url }}/{{page.image}}",{% endif %}
+    {% if page.image and page.image != blank -%}
+    "image": "{{ site.url }}/{{page.image}}",
+    {% endif -%}
     "publisher": {
         "@type": "Organization",
         "logo": {
