@@ -18,7 +18,7 @@ t:
     older: Older
     page: Page
     page_of: of
-    back: Back
+    back: All categories
     age: Age
     language: Language
     languages: Languages
@@ -46,7 +46,7 @@ t:
     older: Älter
     page: Seite
     page_of: von
-    back: Zurück
+    back: Alle Kategorien
     age: Alter
     language: Sprache
     languages: Sprachen
