@@ -42,6 +42,7 @@ page_gen:
     name: id
     dir: resourcen
     template: 'resource'
+    title_expr: 'record["title_#{site.active_lang}"]'
 
 languages: ["en", "de"]
 default_lang: "de"
