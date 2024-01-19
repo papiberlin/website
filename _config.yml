@@ -11,6 +11,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: ''
+url: 'https://papiberlin.de'
 email: 'mail@papiberlin.de'
 
 permalink: /pages/:title
