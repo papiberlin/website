@@ -38,7 +38,7 @@ layout: default
   {% for resource in pinnedItems %}
     <li>
       <a href="{{ resource.url }}">
-        <img src="/assets/images/pin.svg" class="pin"/>
+        <img src="/assets/images/pin.svg" class="pin" aria-hidden="true"/>
         {% if site.active_lang == "de" %}
           {{ resource.title_de }}
         {% else %}
