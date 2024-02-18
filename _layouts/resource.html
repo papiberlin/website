@@ -23,13 +23,62 @@ layout: default
   </div>
 
   {% if site.active_lang == "de" %}
-    {% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | ssort_natural: "title_de" %}
+    {% assign pinnedItems = site.data.resources | where_exp: 'resource', 'resource.pinned contains page.id' | sort_natural: "title_de" %}
+  {% else %}
+    {% assign pinnedItems = site.data.resources | where_exp: 'resource', 'resource.pinned contains page.id' | sort_natural: "title_en" %}
+  {% endif %}
+
+  {% if site.active_lang == "de" %}
+    {% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | sort_natural: "title_de" %}
   {% else %}
     {% assign sortedItems = site.data.resources | where_exp: 'resource', 'resource.categories contains page.id' | sort_natural: "title_en" %}
   {% endif %}
 
   <ul>
+  {% for resource in pinnedItems %}
+    <li>
+      <a href="{{ resource.url }}">
+        <img src="/assets/images/pin.svg" class="pin"/>
+        {% if site.active_lang == "de" %}
+          {{ resource.title_de }}
+        {% else %}
+          {{ resource.title_en }}
+        {% endif %}
+      </a>
+      {% assign cleaned_age = resource.age | strip_newlines %}
+      {% if cleaned_age != "" %}
+        <div class="age-group">{{ translation.age }}: {{ cleaned_age }}</div>
+      {% endif %}
+      {% if resource.lang != nil %}
+        <div class="language">
+          <span>
+          {% if resource.lang.size > 1 %}
+            {{ translation.languages }}: 
+          {% else %}
+            {{ translation.language }}: 
+          {% endif %}
+         </span>
+          <ul class="language-list">
+            {% for lang in resource.lang %}
+              <li>{{ translation.lang[lang] }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+      
+
+      {% if site.active_lang == "de" %}
+        {{ resource.description_de | strip_newlines | markdownify}}
+      {% else %}
+        {{ resource.description_en | strip_newlines | markdownify}}
+      {% endif %}
+    </li>
+  {% endfor %}
+
   {% for resource in sortedItems %}
+    {% if resource.pinned contains page.id %}
+      {% continue %}
+    {% endif %}
     <li>
       <a href="{{ resource.url }}">
         {% if site.active_lang == "de" %}

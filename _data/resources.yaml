@@ -158,6 +158,7 @@
   url: https://www.familygamingdatabase.com
   age: 4-16
   categories: ["digital-games", "boardgames"]
+  pinned: ["digital-games"]
   lang: ["en"]
 
 - title_de: Kinderfilmblog
@@ -716,3 +717,63 @@
   lang: ["de"]
   categories: ["berlin"]
 
+- title_de: Sago Mini Serie
+  title_en: Sago Mini Series
+  url: https://sagomini.com/
+  categories: ["digital-games"]
+  lang: ["de", "en", "es", "ru", "fr"]
+  age: 3-5
+  description_en: Sago Mini offers a collection of charming and educational apps for preschoolers, each focused on a specific theme like farm animals, the zoo, or the construction site. Through simple controls and adorable animations, they encourage exploration, discovery, and creativity in a safe and ad-free environment.
+  description_de: Sago Mini bietet eine Sammlung bezaubernder und lehrreicher Apps für Kinder im Vorschulalter, die sich jeweils auf ein bestimmtes Thema wie Bauernhoftiere, den Zoo oder die Baustelle konzentrieren. Durch einfache Steuerung und bezaubernde Animationen fördern sie das Entdecken, Lernen und die Kreativität in einer sicheren und werbefreien Umgebung.
+
+- title_de:  Monument Valley
+  title_en:  Monument Valley
+  url: https://www.monumentvalleygame.com/mvpc
+  categories: ["digital-games"]
+  age: 6-
+  description_en: Guide Ida, a silent princess, through impossible, Escher-inspired landscapes by manipulating the very architecture, bending reality to solve optical illusions and unveil the mysteries of her sacred journey.
+  description_de: Führe Ida, eine stille Prinzessin, durch unmögliche, von Escher inspirierte Landschaften, indem du die Architektur selbst manipulierst, die Realität verbiegst, um optische Täuschungen zu lösen und die Geheimnisse ihrer heiligen Reise zu enthüllen.
+
+- title_de: Townscaper
+  title_en: Townscaper
+  url: https://www.townscapergame.com
+  categories: ["digital-games"]
+  age: 5-
+  description_en: No goal. No real gameplay. Just plenty of building and plenty of beauty. That's it.
+  description_de: Kein Ziel, kein Gameplay. Aber jede Menge tollster Bauspaß.
+
+- title_de: Lego Builder`s Journey
+  title_en: Lego Builder`s Journey
+  url: https://www.lego.com/en-us/categories/games/builders-journey 
+  categories: ["digital-games"]
+  age: 8-
+  description_en: Embark on a heartwarming puzzle adventure in a stunning Lego brick world. Follow the story of a character rebuilding their connection with someone special, using creative solutions and innovative building techniques to overcome challenges.
+  description_de: Begib dich auf ein herzerwärmendes Rätselabenteuer in einer atemberaubenden Welt aus Lego-Steinen. Folge der Geschichte eines Charakters, der seine Verbindung zu einem besonderen Menschen wiederherstellt, und nutze kreative Lösungen und innovative Bautechniken, um Herausforderungen zu meistern. 
+
+- title_de: Dorfromantik
+  url: https://toukana.com/dorfromantik/
+  categories: ["digital-games"]
+  age: 8-
+  description_en: Dorfromantik is a relaxing puzzle where you build a charming village landscape by placing hexagonal tiles, creating a peaceful world teeming with forests, fields, and rivers.
+  description_de: Dorfromantik ist ein entspannendes Puzzlerlebnis, bei dem du durch das Platzieren von sechseckigen Kacheln eine bezaubernde Dorflandschaft gestaltest und eine friedliche Welt mit Wäldern, Feldern und Flüssen erschaffst.
+
+- title_de: Tinykin
+  url: https://www.tinykingame.com/
+  categories: ["digital-games"]
+  age: 8-
+  description_en: Tinykin shrinks you down to the size of an ant, letting you explore a giant house filled with friendly bugs called Tinykin! Use their unique abilities to overcome obstacles, solve puzzles, and find your way back to normal size, uncovering the house's mysterious secrets along the way.
+  description_de: In Tinykin wirst du auf Ameisengröße geschrumpft und erkundest ein riesiges Haus voller freundlicher Insekten, den Tinykin! Nutze ihre einzigartigen Fähigkeiten, um Hindernisse zu überwinden, Rätsel zu lösen und den Weg zurück zu deiner normalen Größe zu finden, während du dabei die mysteriösen Geheimnisse des Hauses aufdeckst.
+
+- title_de: Wo ist mein Wasser [iOS]
+  title_en: Where is my water [iOS]
+  url: https://apps.apple.com/de/app/wo-ist-mein-wasser/id449735650
+  categories: ["digital-games"]
+  description_en: Help Swampy the alligator take a shower by guiding different types of water (clean, dirty, steamy) through colorful dirt-filled puzzles. Use your ingenuity to dig paths, avoid obstacles, and collect hidden ducks in this award-winning physics-based game.
+  description_de: Hilf Sumpf-Willi dem Alligator beim Duschen, indem du verschiedene Wasserarten (rein, schmutzig, dampfig) durch bunte, mit Erde gefüllte Rätsel leitest. Setze deinen Einfallsreichtum ein, um Wege zu graben, Hindernissen auszuweichen und versteckte Entchen in diesem preisgekrönten Physikspiel zu sammeln.
+
+- title_de: Wo ist mein Wasser [Android]
+  title_en: Where is my water [Android]
+  url: https://play.google.com/store/apps/details?id=com.disney.WMW
+  categories: ["digital-games"]
+  description_en: Help Swampy the alligator take a shower by guiding different types of water (clean, dirty, steamy) through colorful dirt-filled puzzles. Use your ingenuity to dig paths, avoid obstacles, and collect hidden ducks in this award-winning physics-based game.
+  description_de: Hilf Sumpf-Willi dem Alligator beim Duschen, indem du verschiedene Wasserarten (rein, schmutzig, dampfig) durch bunte, mit Erde gefüllte Rätsel leitest. Setze deinen Einfallsreichtum ein, um Wege zu graben, Hindernissen auszuweichen und versteckte Entchen in diesem preisgekrönten Physikspiel zu sammeln.
