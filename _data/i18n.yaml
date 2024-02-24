@@ -2,7 +2,6 @@ t:
   en:
     parenting_resources: Parenting Resources
     about: About us
-    newsletter: Newsletter
     contact: Contact
     code_of_conduct: Code of conduct
     privacy: Privacy
@@ -30,7 +29,6 @@ t:
   de:
     parenting_resources: Eltern Ressourcen
     about: Über uns
-    newsletter: Newsletter
     contact: Kontakt
     code_of_conduct: Verhaltenskodex
     privacy: Datenschutz

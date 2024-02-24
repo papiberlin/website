@@ -20,5 +20,4 @@ We are no lawyers, but if you need some guidance in the German bureaucracy or
 have questions regarding raising your kid, we might know the answer or at least
 the right person to ask.
 
-So please subscribe to our newsletter or join our slack. Alternatively, feel
-free to [contact](/contact) us via the web form.
+So please join [our slack](/pages/slack), we are happy to help. Alternatively, feel free to [contact](/contact) us via the web form.
