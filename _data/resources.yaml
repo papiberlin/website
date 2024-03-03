@@ -14,6 +14,14 @@
   description_en: Bambooland is a popular destination for birthday parties because of its accessibility and casual approach.
   age: 4-12
 
+- title_de: Partylicious - Celebrate in Style
+  title_en: Partylicious - Celebrate in Style
+  categories: ["birthdays"]
+  url: https://www.partylicious-berlin.com/services-7
+  description_de: Partylicious hat für jedes Alter zauberhafte Mottoparties im Angebot.
+  description_en: Partylicious offers full service private birthday parties for all ages with a variety of themes.
+  age: 2-12
+
 - title_de: Brio World
   title_en: Brio World
   categories: ["digital-games"]
