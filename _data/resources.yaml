@@ -6,6 +6,14 @@
   description_en: Entdeckum offers not only experimentation courses for children but also researcher-themed birthday parties.
   age: 5-12
 
+- title_de: Bambooland - Berlins coolstes Family Fun Center
+  title_en: Bambooland - Berlin's Coolest Family Fun Center
+  categories: ["birthdays"]
+  url: https://www.bambooland.de/geburtstage/partypakete
+  description_de: Im Bambooland Geburtstag feiern heißt Spiel, Spaß & Bewegung für die ganze Familie.
+  description_en: Bambooland is a popular destination for birthday parties because of its accessibility and casual approach.
+  age: 4-12
+
 - title_de: Brio World
   title_en: Brio World
   categories: ["digital-games"]
