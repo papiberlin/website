@@ -781,3 +781,11 @@
   description_en: Help Swampy the alligator take a shower by guiding different types of water (clean, dirty, steamy) through colorful dirt-filled puzzles. Use your ingenuity to dig paths, avoid obstacles, and collect hidden ducks in this award-winning physics-based game.
   description_de: Hilf Sumpf-Willi dem Alligator beim Duschen, indem du verschiedene Wasserarten (rein, schmutzig, dampfig) durch bunte, mit Erde gefüllte Rätsel leitest. Setze deinen Einfallsreichtum ein, um Wege zu graben, Hindernissen auszuweichen und versteckte Entchen in diesem preisgekrönten Physikspiel zu sammeln.
   age: 6-
+
+- title_de: Kunstschule Prib
+  title_en: Artschool Prib
+  url: https://www.kunstschule-prib.de/
+  categories: ["berlin", "learning"]
+  description_de: "Die Kunstschule Prib bietet Mal- und Zeichenunterricht für Kindern, Jugendlichen und Erwachsene an."
+  description_en: "The Prib Art School offers painting and drawing lessons for kids, teenagers and adults."
+  age: 2-
