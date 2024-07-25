@@ -821,3 +821,21 @@
   description_de: "Die Kunstschule Prib bietet Mal- und Zeichenunterricht für Kindern, Jugendlichen und Erwachsene an."
   description_en: "The Prib Art School offers painting and drawing lessons for kids, teenagers and adults."
   age: 2-
+
+- title_de: Die Abenteuer von Enny und Mo | Hörgeschichten für Kinder
+  title_en: The adventures of Enny and Mo | Audio stories for kids
+  url: https://www.apotheken-umschau.de/podcast/serie/die-abenteuer-von-enny-und-mo-hoergeschichten-fuer-kinder-783293.html
+  age: 2-5
+  description_de: Entdecke die Welt der kleinen Ente Enny und ihrem Freund Mo, dem kleinen Bär. Die Hörgeschichten eignen sich für Kinder zwischen 2 und 5 Jahren.
+  description_en: Discover the world of the little duck Enny and her friend Mo, the little bear. The audio stories are suitable for children aged between 2 and 5.
+  categories: ["podcast-kids"]
+  lang: ["de"]
+
+- title_de: Taxi ins Mich | Der Hörspiel-Podcast für Kinder
+  title_en: Cab to Me | The radio play podcast for children
+  url: https://www.apotheken-umschau.de/podcast/serie/taxi-ins-mich-der-hoerspiel-podcast-fuer-kinder-1093041.html
+  age: 5-10
+  description_de: Tessa, Ella und Yassin gehen auf eine ganz besondere Entdeckungsreise – zusammen mit Ärztin Toni. Die hat nämlich ein super-spezielles Taxi, das sich auf Bakteriengröße schrumpfen kann. Und mit dem fliegen die vier in den menschlichen Körper hinein! Zusammen düsen sie durch Blutbahnen, Sehnen oder sogar Knochen. Dabei treffen sie auf wundersame Gestalten wie Blutkörperchen, Bakterien und Fresszellen. Gemeinsam erforschen Toni und die Kinder den Körper und geben ihr Bestes, um zu helfen.
+  description_en: Tessa, Ella and Yassin go on a very special journey of discovery - together with doctor Toni. She has a super-special cab that can shrink to the size of bacteria. And the four of them use it to fly into the human body! Together they jet through blood vessels, tendons and even bones. In the process, they encounter wondrous creatures such as blood cells, bacteria and phagocytes. Together, Toni and the children explore the body and do their best to help.
+  categories: ["podcast-kids"]
+  lang: ["de"]
