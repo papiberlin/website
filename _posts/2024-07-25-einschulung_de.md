@@ -39,7 +39,7 @@ Thema Schule, nämlich:
 
 1. [Folge 146 - Den Schulanfang beziehungsorientiert begleiten
    (20.08.2024)](https://www.gewuenschtestes-wunschkind.de/2024/08/hallo-schulanfang-podcast-mir-saskia.html)
-1. Folge 147 - Miteinander durch die Grundschulzeit (03.09.2024)
+1. [Folge 147 - Miteinander durch die Grundschulzeit (03.09.2024)](https://www.gewuenschtestes-wunschkind.de/2024/09/miteinander-durch-die-grundschulzeit.html)
 
 Falls Ihr noch mehr Fragen rund um das Thema Schule habt, kommt doch gern in
 unseren

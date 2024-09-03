@@ -38,10 +38,9 @@ publish two episodes on the topic of school:
 
 1. [Episode 146 - Accompanying the Start of School in a Relationship-Oriented
    Manner (20.08.2024)](https://www.gewuenschtestes-wunschkind.de/2024/08/hallo-schulanfang-podcast-mir-saskia.html)
-1. Episode 147 - Getting Through Elementary School Together (03.09.2024)
+1. [Episode 147 - Getting Through Elementary School Together (03.09.2024)](https://www.gewuenschtestes-wunschkind.de/2024/09/miteinander-durch-die-grundschulzeit.html)
 
 If you have more questions about the topic of school or parenting in general,
 feel free to join our [Slack
 channel](https://join.slack.com/t/dadaberlin/shared_invite/zt-1skuexk5x-OUzSHVwxWWayPUHYjNfiAA),
 where we are happy to help you.
-
