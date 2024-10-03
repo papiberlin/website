@@ -861,3 +861,12 @@
   pinned: ["events"]
   lang: ["de"]
 
+- title_de: KinderKulturMonat
+  description_de: Jeden Oktober gibt es viele tolle kostenlose Workshops/Events für Kinder. Buchbar ab September, aber seit schnell, viel ist sofort ausgebucht leider.
+  title_en: Kids culture month (KinderKulturMonat)
+  url: https://www.kinderkulturmonat.de/
+  description_en: Every October the KinderkulturMonat offers lots of great free workshops/events for children. Booking starts in September, but be quick, unfortunately tickets go fast.
+  age: 4-12
+  categories: ["events"]
+  lang: ["de"]
+
