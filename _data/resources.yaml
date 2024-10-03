@@ -257,7 +257,7 @@
   title_en: MIRA & das fliegende Haus
   age: 4-11
   url: https://mira-welt.de/
-  description_de: "Bei \"MIRA & das fliegende Haus\" dreht sich alles um die wirklich wichtigen Themen: Nämlich den Umgang mit Gefühlen, Achtsamkeit, Selbstliebe, Nachhaltigkeit, Empathie, Diversity, Inklusion und vieles mehr."
+  description_de: 'Bei "MIRA & das fliegende Haus" dreht sich alles um die wirklich wichtigen Themen: Nämlich den Umgang mit Gefühlen, Achtsamkeit, Selbstliebe, Nachhaltigkeit, Empathie, Diversity, Inklusion und vieles mehr.'
   description_en: "At 'MIRA & das fliegende Haus,' everything revolves around the truly important topics: dealing with emotions, mindfulness, self-love, sustainability, empathy, diversity, inclusion, and much more."
   categories: ["podcast-kids"]
   lang: ["de"]
@@ -271,7 +271,7 @@
   lang: ["de"]
 
 - title_de: Alba - A Wildlife Adventure
-  description_de: Sehr tolles Abenteuer-Spiel. Mit sehr viel liebe gemacht und extrem Lehrreich. 
+  description_de: Sehr tolles Abenteuer-Spiel. Mit sehr viel liebe gemacht und extrem Lehrreich.
   title_en: Alba - A Wildlife Adventure
   description_en: A very fantastic adventure game. Made with a lot of love and extremely educational.
   url: https://www.albawildlife.com/
@@ -303,7 +303,7 @@
   url: https://boardgamegeek.com/
   categories: ["boardgames"]
   lang: ["en"]
-  
+
 - title_de: Die Welt wartet
   description_de: Ihr wollt verreisen, aber wollt euch den Stress der Planung und des Buchens ersparen? Die Welt wartet hilft euch.
   title_en: Die Welt wartet
@@ -371,7 +371,7 @@
   lang: ["de"]
 
 - title_de: Milchsalon
-  description_de: Gute Kindermusik. Für Alle. Hörbar. Tanzbar. Wunderbar. Der Milchsalon ist – seit 2011 – eine erfrischend andere Konzertreihe, die Kinder zum Musizieren, Tanzen und Ausflippen animiert. 
+  description_de: Gute Kindermusik. Für Alle. Hörbar. Tanzbar. Wunderbar. Der Milchsalon ist – seit 2011 – eine erfrischend andere Konzertreihe, die Kinder zum Musizieren, Tanzen und Ausflippen animiert.
   title_en: Milchsalon
   description_en: Good children's music. For everyone. Audible. Danceable. Wonderful. Milchsalon is a refreshingly different concert series since 2011, encouraging children to make music, dance, and have a great time.
   url: https://milchsalon.de/
@@ -402,6 +402,7 @@
   age: 0-
   url: https://www.kindaling.de/
   categories: ["events"]
+  pinned: ["events"]
   lang: ["de"]
 
 - title_de: Berlin mit Kind
@@ -411,6 +412,7 @@
   url: https://berlinmitkind.de/
   age: 0-
   categories: ["events"]
+  pinned: ["events"]
   lang: ["de"]
 
 - title_de: Luna Baby Monitor
@@ -425,7 +427,7 @@
   description_de: Alle Termine, Fristen, Anträge, Ämtergänge und Todo`s in der Zeit der Schwangerschaft und nach der Geburt stressfrei im Auge behalten.
   title_en: Baby Berlin iOS
   description_en: Keep all appointments, deadlines, applications, office visits, and to-dos during pregnancy and after childbirth stress-free in sight.
-  url: https://apps.apple.com/de/app/baby-berlin/id6472043925 
+  url: https://apps.apple.com/de/app/baby-berlin/id6472043925
   categories: ["apps"]
   lang: ["de", "en"]
 
@@ -484,7 +486,7 @@
   url: https://onceupon.photo/
   categories: ["apps"]
   lang: ["en"]
-  
+
 - title_de: ENE MENE BU
   description_de: ENE MENE BU ist eine Kika Sendung, bei der Kinder basteln, malen, entdecken, spielen und Geschichten erfinden.
   title_en: ENE MENE BU
@@ -609,7 +611,7 @@
 
 - title_de: Anna und die wilden Tiere
   title_en: Anna und die wilden Tiere
-  description_de: "Ihr kennt \"Anna und die wilden Tiere\" aus dem Fernsehen? Auch hier im Podcast kommt Anna wilden Tieren ganz nah - egal ob Pferden, Haien, Elefanten oder Schlangen. Ihr erfahrt dabei vieles über Tiere, das ihr garantiert noch nicht wusstet - zum Beispiel über superstarke Abwehrtechniken gegenüber Feinden oder mit welchen schlauen Mitteln sie an ihr Lieblingsfutter gelangen. Und an Annas Seite ist immer: die Hyäne. Sie erzählt Witze, puh, die sind manchmal richtig schlecht und ... ach, hört einfach rein!"
+  description_de: 'Ihr kennt "Anna und die wilden Tiere" aus dem Fernsehen? Auch hier im Podcast kommt Anna wilden Tieren ganz nah - egal ob Pferden, Haien, Elefanten oder Schlangen. Ihr erfahrt dabei vieles über Tiere, das ihr garantiert noch nicht wusstet - zum Beispiel über superstarke Abwehrtechniken gegenüber Feinden oder mit welchen schlauen Mitteln sie an ihr Lieblingsfutter gelangen. Und an Annas Seite ist immer: die Hyäne. Sie erzählt Witze, puh, die sind manchmal richtig schlecht und ... ach, hört einfach rein!'
   description_en: "You know 'Anna und die wilden Tiere' from television? Here in the podcast, Anna gets up close with wild animals – whether it's horses, sharks, elephants, or snakes. You'll learn a lot about animals that you definitely didn't know – for example, about super-strong defense techniques against enemies or clever methods they use to get their favorite food. And by Anna's side is always: the hyena. She tells jokes, well, they're sometimes really bad, and... oh, just listen in!"
   url: https://www.br.de/mediathek/podcast/anna-und-die-wilden-tiere/858
   categories: ["podcast-kids"]
@@ -618,7 +620,7 @@
 
 - title_de: artgerecht – der andere Elternpodcast
   title_en: artgerecht – der andere Elternpodcast
-  description_de: Eine schöne Kindheit für unsere Kinder ist ja gut und schön – aber wie schaffen wir es, uns selbst dabei nicht zu verlieren? Wie kommen wir gut durch die wohl herausforderndste Zeit unseres Lebens?  Schnapp‘ dir ein Kissen und setze dich zu uns ans artgerecht Lagerfeuer. 
+  description_de: Eine schöne Kindheit für unsere Kinder ist ja gut und schön – aber wie schaffen wir es, uns selbst dabei nicht zu verlieren? Wie kommen wir gut durch die wohl herausforderndste Zeit unseres Lebens?  Schnapp‘ dir ein Kissen und setze dich zu uns ans artgerecht Lagerfeuer.
   description_en: Providing a beautiful childhood for our children is good and fine – but how do we manage not to lose ourselves in the process? How do we get through the most challenging time of our lives successfully? Grab a cushion and join us by the artgerecht campfire.
   url: https://www.artgerecht-projekt.de/artgerecht-der-andere-elternpodcast/
   categories: ["podcast"]
@@ -626,7 +628,7 @@
 
 - title_de: Familienrat mit Katia Saalfrank
   title_en: Familienrat mit Katia Saalfrank
-  description_de: Wie spricht man am besten über Herausforderungen im Familienalltag? Viele Eltern umtreiben dieselben Sorgen, und lesen einen Ratgeber nach dem Anderen. Jeder hat eine andere Idee von Erziehung und nur selten werden Sorgen offen ausgesprochen. Im  Familienrat-Podcast besuchen wir die Diplompädagogin Katia Saalfrank und stellen ihr eure Fragen rund um Erziehung und Familienleben. 
+  description_de: Wie spricht man am besten über Herausforderungen im Familienalltag? Viele Eltern umtreiben dieselben Sorgen, und lesen einen Ratgeber nach dem Anderen. Jeder hat eine andere Idee von Erziehung und nur selten werden Sorgen offen ausgesprochen. Im  Familienrat-Podcast besuchen wir die Diplompädagogin Katia Saalfrank und stellen ihr eure Fragen rund um Erziehung und Familienleben.
   description_en: How do you best talk about challenges in family life? Many parents share the same concerns and read one parenting guide after another. Everyone has a different idea of parenting, and worries are rarely openly discussed. In the Family Council podcast, we visit the educationalist Katia Saalfrank and ask her your questions about parenting and family life.
   url: https://mitvergnuegen.com/familienrat/
   categories: ["podcast"]
@@ -634,7 +636,7 @@
 
 - title_de: CheckPod - Der Podcast mit Checker Tobi
   title_en: CheckPod - Der Podcast mit Checker Tobi
-  description_de:  Der Checker zum Hören! Tobi checkt zusammen mit einem Kind drei Fragen zu einem Wissensthema. Lustige Experimente, kluge Expertinnen und Experten sowie die schlaue Datenbank helfen ihnen dabei. Und am Schluss jeder Folge verrät Checker Tobi ein persönliches Geheimnis. Ob es um Bäume, Märchen oder Schleim geht, im CheckPod macht Wissen Spaß und gute Laune. Alle neuen Folgen gibt es immer eine Woche vorab exklusiv in der ARD-Audiothek! 
+  description_de: Der Checker zum Hören! Tobi checkt zusammen mit einem Kind drei Fragen zu einem Wissensthema. Lustige Experimente, kluge Expertinnen und Experten sowie die schlaue Datenbank helfen ihnen dabei. Und am Schluss jeder Folge verrät Checker Tobi ein persönliches Geheimnis. Ob es um Bäume, Märchen oder Schleim geht, im CheckPod macht Wissen Spaß und gute Laune. Alle neuen Folgen gibt es immer eine Woche vorab exklusiv in der ARD-Audiothek!
   description_en: The checker for listening! Tobi, along with a child, checks three questions on a knowledge topic. Funny experiments, smart experts, and the clever database help them out. And at the end of each episode, Checker Tobi reveals a personal secret. Whether it's about trees, fairy tales, or slime, in CheckPod, knowledge is fun and uplifting. All new episodes are always available exclusively in the ARD Audiothek one week in advance!
   url: https://www.br.de/mediathek/podcast/checkpod-der-podcast-mit-checker-tobi/859
   categories: ["podcast-kids"]
@@ -729,7 +731,7 @@
   description_de: Eine Übersicht aller Spielplätze in Friedrichshain
   title_en: Playground Guide Friedrichshain
   description_en: An overview of all playgrounds in Friedrichshain
-  url: https://padlet.com/Familienzentrum_Einhorn_Fredersdorferstrasse_10_10243_Berlin/entdecke-deinen-kiez-spielplatzguide-gj1859kq6ogz2pqa 
+  url: https://padlet.com/Familienzentrum_Einhorn_Fredersdorferstrasse_10_10243_Berlin/entdecke-deinen-kiez-spielplatzguide-gj1859kq6ogz2pqa
   lang: ["de"]
   categories: ["berlin"]
 
@@ -758,8 +760,8 @@
   description_en: Sago Mini offers a collection of charming and educational apps for preschoolers, each focused on a specific theme like farm animals, the zoo, or the construction site. Through simple controls and adorable animations, they encourage exploration, discovery, and creativity in a safe and ad-free environment.
   description_de: Sago Mini bietet eine Sammlung bezaubernder und lehrreicher Apps für Kinder im Vorschulalter, die sich jeweils auf ein bestimmtes Thema wie Bauernhoftiere, den Zoo oder die Baustelle konzentrieren. Durch einfache Steuerung und bezaubernde Animationen fördern sie das Entdecken, Lernen und die Kreativität in einer sicheren und werbefreien Umgebung.
 
-- title_de:  Monument Valley
-  title_en:  Monument Valley
+- title_de: Monument Valley
+  title_en: Monument Valley
   url: https://www.monumentvalleygame.com/mvpc
   categories: ["digital-games"]
   age: 6-
@@ -776,11 +778,11 @@
 
 - title_de: Lego Builder`s Journey
   title_en: Lego Builder`s Journey
-  url: https://www.lego.com/en-us/categories/games/builders-journey 
+  url: https://www.lego.com/en-us/categories/games/builders-journey
   categories: ["digital-games"]
   age: 8-
   description_en: Embark on a heartwarming puzzle adventure in a stunning Lego brick world. Follow the story of a character rebuilding their connection with someone special, using creative solutions and innovative building techniques to overcome challenges.
-  description_de: Begib dich auf ein herzerwärmendes Rätselabenteuer in einer atemberaubenden Welt aus Lego-Steinen. Folge der Geschichte eines Charakters, der seine Verbindung zu einem besonderen Menschen wiederherstellt, und nutze kreative Lösungen und innovative Bautechniken, um Herausforderungen zu meistern. 
+  description_de: Begib dich auf ein herzerwärmendes Rätselabenteuer in einer atemberaubenden Welt aus Lego-Steinen. Folge der Geschichte eines Charakters, der seine Verbindung zu einem besonderen Menschen wiederherstellt, und nutze kreative Lösungen und innovative Bautechniken, um Herausforderungen zu meistern.
 
 - title_de: Dorfromantik
   title_en: Dorfromantik
@@ -845,6 +847,17 @@
   categories: ["digital-games"]
   description_de: Ein sehr schönes Point-And-Click Adventure Game, das behutsam in das Genre einführt. Lesen ist nicht notwendig, die schweren Zwischensequenzen können übersprungen werden. Tips helfen wenn man die Lösung nicht weiss. Sehr toll um gemeinsam mit dem Kind zu rätseln.
   description_en: A very nice point-and-click adventure game that gently introduces players to the genre. Reading is not necessary, and difficult cutscenes can be skipped. Hints are available if you don't know the solution. Great for puzzling together with your child.
-  age: 6- 
+  age: 6-
   lang: ["de", "en", "fr", "es"]
   url: https://www.happyjuice.games/
+
+- title_de: Berlin.de Wochenendtipps
+  description_de: Viele schöne Tipps für Events in und um Berlin, auch als Email-Newsletter
+  title_en: Berlin.de Weekend tips
+  description_en: Lots of great tips for events in and around Berlin, also as an email newsletter
+  url: https://www.berlin.de/kultur-und-tickets/tipps/kinder/wochenende/
+  age: 0-
+  categories: ["events"]
+  pinned: ["events"]
+  lang: ["de"]
+
