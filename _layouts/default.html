@@ -1,13 +1,17 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{site.active_lang}}">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png" />
     <title>{{ page.title }} | {{site.name}}</title>
-    {% assign translation = site.data.i18n.t[site.active_lang] -%}
-    {% assign field = "description_" | append: site.active_lang -%}
-    {% assign description = page[field] | default: page.description | default: site.description[site.active_lang] -%}
+    {% assign translation = site.data.i18n.t[site.active_lang] -%} {% assign
+    field = "description_" | append: site.active_lang -%} {% assign description
+    = page[field] | default: page.description | default:
+    site.description[site.active_lang] -%}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:locale" content="{{ site.active_lang }}" />
     <meta name="description" content="{{ description }}" />
@@ -22,41 +26,56 @@
     <meta name="twitter:card" content="summary" />
     <meta property="twitter:title" content="{{ page.title }}" />
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "description": {{ description | jsonify }},
-    "headline": {{ page.title | jsonify}},
-    "name": "Papi Berlin",
-    {% if page.image and page.image != blank -%}
-    "image": "{{ site.url }}/{{page.image}}",
-    {% endif -%}
-    "publisher": {
-        "@type": "Organization",
-        "logo": {
-        "@type": "ImageObject",
-        "url": "{{ site.url }}/assets/images/logo.png"
-        }
-    },
-    "url": "{{ site.url}}{{ page.url }}"
-    }
+      {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "description": {{ description | jsonify }},
+      "headline": {{ page.title | jsonify}},
+      "name": "Papi Berlin",
+      {% if page.image and page.image != blank -%}
+      "image": "{{ site.url }}/{{page.image}}",
+      {% endif -%}
+      "publisher": {
+          "@type": "Organization",
+          "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/assets/images/logo.png"
+          }
+      },
+      "url": "{{ site.url}}{{ page.url }}"
+      }
     </script>
+    {% if page.author %} {% assign author = site.data.authors[page.author] %} {%
+    if author.mastodon %}
+    <meta name="fediverse:creator" content="{{ author.mastodon }}" />
+    {% endif %} {% endif %}
 
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap.min.css"
-        integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-    <link href="{{ site.baseurl }}/assets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/font.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="{{ site.baseurl }}/assets/css/bootstrap.min.css"
+      integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
+      crossorigin="anonymous"
+    />
+    <link
+      href="{{ site.baseurl }}/assets/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+    <link href="{{ site.baseurl }}/assets/css/font.css" rel="stylesheet" />
+    <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet" />
+    <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet" />
 
     {% if jekyll.environment == 'production' %}
-    <script defer data-domain="papiberlin.de" src="https://ping.tasche.me/js/script.js"></script>
+    <script
+      defer
+      data-domain="papiberlin.de"
+      src="https://ping.tasche.me/js/script.js"
+    ></script>
     {% endif %}
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
 
     <link
       href="/atom.xml"
@@ -66,211 +85,222 @@
     />
 
     <script>
-        function getBestSuitableSupportedLang(lang, locale, supported) {
-          // Exclude first element, default language
-          var supported_lang = supported.shift();
-          
-          if (supported.includes(lang + "-" + locale)) {
-            supported_lang = lang + "-" + locale;
-          } else if (supported.includes(lang)) {
-            supported_lang = lang;
-          }
-        
-          return supported_lang;
+      function getBestSuitableSupportedLang(lang, locale, supported) {
+        // Exclude first element, default language
+        var supported_lang = supported.shift();
+
+        if (supported.includes(lang + "-" + locale)) {
+          supported_lang = lang + "-" + locale;
+        } else if (supported.includes(lang)) {
+          supported_lang = lang;
         }
-        
-        var [lang, locale] = (((navigator.userLanguage || navigator.language).replace('-', '_')).toLowerCase()).split('_');
-        var supported_languages = ["de", "en"];
-        var current_lang = {{ site.active_lang | jsonify }};
-        
-        var suitable_lang = getBestSuitableSupportedLang(lang, locale, supported_languages)
-        
-        var lang_param = new URLSearchParams(window.location.search).get("lang"); 
-        
-        if (lang_param == null && window.location.pathname === "/" && current_lang !== suitable_lang) {
-          window.location = '/' + suitable_lang;
-        } else if (lang_param !== null && current_lang !== lang_param) {
-          var base_path = window.location.pathname.replace("/" + current_lang, "")
-          if (lang_param === "de") {
-            window.location = base_path + '?lang=de';
-          } else {
-            window.location = "/" + lang_param + base_path + '?lang=' + lang_param;
-          }
+
+        return supported_lang;
+      }
+
+      var [lang, locale] = (((navigator.userLanguage || navigator.language).replace('-', '_')).toLowerCase()).split('_');
+      var supported_languages = ["de", "en"];
+      var current_lang = {{ site.active_lang | jsonify }};
+
+      var suitable_lang = getBestSuitableSupportedLang(lang, locale, supported_languages)
+
+      var lang_param = new URLSearchParams(window.location.search).get("lang");
+
+      if (lang_param == null && window.location.pathname === "/" && current_lang !== suitable_lang) {
+        window.location = '/' + suitable_lang;
+      } else if (lang_param !== null && current_lang !== lang_param) {
+        var base_path = window.location.pathname.replace("/" + current_lang, "")
+        if (lang_param === "de") {
+          window.location = base_path + '?lang=de';
+        } else {
+          window.location = "/" + lang_param + base_path + '?lang=' + lang_param;
         }
-        </script>
+      }
+    </script>
+  </head>
 
-</head>
+  {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{%
+  endcapture %}
 
-{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-
-<body class="{{ layout }}">
-
-
+  <body class="{{ layout }}">
     <!-- Begin Menu Navigation
 ================================================== -->
-    <header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
-            data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="container">
+    <header
+      class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation"
+    >
+      <button
+        class="navbar-toggler navbar-toggler-right"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarsWow"
+        aria-controls="navbarsWow"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="container">
+        <!-- Begin Logo -->
+        {% if site.active_lang == "de" %}
+        <a
+          class="navbar-brand"
+          href="{{ site.baseurl }}/?lang={{ site.active_lang }}"
+        >
+          Papi Berlin
+        </a>
+        {% else %}
+        <a
+          class="navbar-brand"
+          href="{{ site.baseurl }}/{{ site.active_lang }}?lang={{ site.active_lang }}"
+        >
+          Papi Berlin
+        </a>
+        {% endif %}
+        <!-- End Logo -->
 
-            <!-- Begin Logo -->
-            {% if site.active_lang == "de" %}
-            <a class="navbar-brand" href="{{ site.baseurl }}/?lang={{ site.active_lang }}">
-              Papi Berlin
-            </a>
-            {% else %}
-            <a class="navbar-brand" href="{{ site.baseurl }}/{{ site.active_lang }}?lang={{ site.active_lang }}">
-              Papi Berlin
-            </a>
-            {% endif %}
-            <!-- End Logo -->
+        <!-- Begin Menu -->
+        <div class="collapse navbar-collapse" id="navbarsWow">
+          <!-- Begin Menu -->
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/index.html">Start</a>
+            </li>
 
-            <!-- Begin Menu -->
-            <div class="collapse navbar-collapse" id="navbarsWow">
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/resourcen"
+                >{{ translation.parenting_resources }}</a
+              >
+            </li>
 
-                <!-- Begin Menu -->
-                <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/about"
+                >{{ translation.about }}</a
+              >
+            </li>
 
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/index.html">Start</a>
-                    </li>
-
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/resourcen">{{ translation.parenting_resources }}</a>
-                    </li>
-
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/about">{{ translation.about }}</a>
-                    </li>
-
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}/contact">{{ translation.contact }}</a>
-                    </li>
-                    <!--
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/contact"
+                >{{ translation.contact }}</a
+              >
+            </li>
+            <!--
                     <li class="nav-item">
                         <a class="nav-link highlight" href="{{ site.baseurl}}/pages/beginner-kurs">Väter*-Kurs</a>
                     </li>
                   -->
-
-                </ul>
-                <!-- End Menu -->
-
-            </div>
+          </ul>
+          <!-- End Menu -->
         </div>
+      </div>
     </header>
-
-
 
     <!-- End Menu Navigation
 ================================================== -->
 
     <div class="site-content">
-
-        <div class="container">
-
-            <!-- Site Title
+      <div class="container">
+        <!-- Site Title
     ================================================== -->
 
-            <div class="mainheading" style="display:none;">
-                <h1 class="sitetitle">{{ site.name }}</h1>
-                <p class="lead">
-                    {{ site.description }}
-                </p>
-            </div>
-
-
-            <!-- Content
-    ================================================== -->
-            <div class="main-content">
-                {{ content }}
-            </div>
-
-        </div><!-- /.container -->
-
-
-
-        <!-- Before Footer
-    ================================================== -->
-        <div class="beforefooter">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-8">
-                        <h3>{{ translation.footer_headline }}</h3>
-                        <p>{{ translation.footer_text }}</p>
-                        <a class="btn btn-primary btn-lg" href="/about">{{ translation.footer_link }}</a>
-                    </div>
-                    <div class="col-md-4 text-right footersocial">
-                        <h5>{{ translation.footer_find_us }}</h5>
-                        <a target="_blank" href="https://join.slack.com/t/dadaberlin/shared_invite/zt-1skuexk5x-OUzSHVwxWWayPUHYjNfiAA" aria-label="Unser Slack Kanal"><i
-                                class="fa fa-slack"></i> Slack</a>
-                        <a target="_blank" href="https://github.com/papiberlin/" aria-label="Unsere Github-Seite"><i
-                                class="fa fa-github"></i> GitHub</a>
-                    </div>
-                </div>
-            </div>
+        <div class="mainheading" style="display: none">
+          <h1 class="sitetitle">{{ site.name }}</h1>
+          <p class="lead">{{ site.description }}</p>
         </div>
 
-        <!-- Begin Footer
+        <!-- Content
     ================================================== -->
-        <footer class="footer">
+        <div class="main-content">{{ content }}</div>
+      </div>
+      <!-- /.container -->
 
-            <div class="container">
+      <!-- Before Footer
+    ================================================== -->
+      <div class="beforefooter">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-md-8">
+              <h3>{{ translation.footer_headline }}</h3>
+              <p>{{ translation.footer_text }}</p>
+              <a class="btn btn-primary btn-lg" href="/about"
+                >{{ translation.footer_link }}</a
+              >
+            </div>
+            <div class="col-md-4 text-right footersocial">
+              <h5>{{ translation.footer_find_us }}</h5>
+              <a
+                target="_blank"
+                href="https://join.slack.com/t/dadaberlin/shared_invite/zt-1skuexk5x-OUzSHVwxWWayPUHYjNfiAA"
+                aria-label="Unser Slack Kanal"
+                ><i class="fa fa-slack"></i> Slack</a
+              >
+              <a
+                target="_blank"
+                href="https://github.com/papiberlin/"
+                aria-label="Unsere Github-Seite"
+                ><i class="fa fa-github"></i> GitHub</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
 
-                <div class="row">
-                    <div class="col-sm-3">
-                        <div class="footer-widget">
-                            <a href="{{site.baseurl}}/contact">
-                                <img src="{{ site.baseurl }}/assets/images/logo-footer.png">
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-3">
-                        <div class="footer-widget">
-                            <h5 class="title">{{ translation.footer_languages }}</h5>
-                            <ul>
-                                <li><a href="{{page.url}}?lang=de">Deutsch</a></li>
-                                <li><a href="{{page.url}}?lang=en">English</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="footer-widget">
-                            <h5 class="title">Links</h5>
-                            <ul>
-                                <li><a href="/about">{{ translation.about }}</a></li>
-                                <li><a href="/impressum">Impressum</a></li>
-                                <li><a href="/codeofconduct">{{ translation.code_of_conduct }}</a></li>
-                                <li><a href="/contact">{{ translation.contact }}</a></li>
-                                <li><a href="/datenschutz">{{ translation.privacy }}</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-3">
-                        <div class="footer-widget textwidget">
-                            <h5 class="title">{{ translation.footer_fathers }}</h5>
-                            <p>{{ translation.footer_fathers_text }}</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="copyright">
-                    <p class="pull-left">
-                        © {{ site.time | date: "%Y" }} {{ site.name }}.
-                    </p>
-                    <div class="clearfix"></div>
-                </div>
-
+      <!-- Begin Footer
+    ================================================== -->
+      <footer class="footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-3">
+              <div class="footer-widget">
+                <a href="{{site.baseurl}}/contact">
+                  <img src="{{ site.baseurl }}/assets/images/logo-footer.png" />
+                </a>
+              </div>
             </div>
 
-        </footer>
-        <!-- End Footer
+            <div class="col-sm-3">
+              <div class="footer-widget">
+                <h5 class="title">{{ translation.footer_languages }}</h5>
+                <ul>
+                  <li><a href="{{page.url}}?lang=de">Deutsch</a></li>
+                  <li><a href="{{page.url}}?lang=en">English</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-sm-3">
+              <div class="footer-widget">
+                <h5 class="title">Links</h5>
+                <ul>
+                  <li><a href="/about">{{ translation.about }}</a></li>
+                  <li><a href="/impressum">Impressum</a></li>
+                  <li>
+                    <a href="/codeofconduct"
+                      >{{ translation.code_of_conduct }}</a
+                    >
+                  </li>
+                  <li><a href="/contact">{{ translation.contact }}</a></li>
+                  <li><a href="/datenschutz">{{ translation.privacy }}</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-sm-3">
+              <div class="footer-widget textwidget">
+                <h5 class="title">{{ translation.footer_fathers }}</h5>
+                <p>{{ translation.footer_fathers_text }}</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="copyright">
+            <p class="pull-left">
+              © {{ site.time | date: "%Y" }} {{ site.name }}.
+            </p>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+      </footer>
+      <!-- End Footer
     ================================================== -->
-
-
     </div>
     <!-- /.site-content>
 
@@ -279,20 +309,25 @@
 
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
-    <script src="{{ site.baseurl }}/assets/js/tether.min.js"
-        integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
-        crossorigin="anonymous"></script>
+    <script
+      src="{{ site.baseurl }}/assets/js/tether.min.js"
+      integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
+      crossorigin="anonymous"
+    ></script>
 
-    <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"
-        integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
-        crossorigin="anonymous"></script>
+    <script
+      src="{{ site.baseurl }}/assets/js/bootstrap.min.js"
+      integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
+      crossorigin="anonymous"
+    ></script>
 
     <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
 
-    <script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
+    <script
+      type="text/javascript"
+      src="{{ site.baseurl }}/assets/js/masonry.pkgd.min.js"
+    ></script>
 
     <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
-
-</body>
-
+  </body>
 </html>
