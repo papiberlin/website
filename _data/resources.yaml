@@ -870,3 +870,11 @@
   categories: ["events"]
   lang: ["de"]
 
+- title_de: Spielplatztreff.de
+  description_de: Auf Spielplatztreff kannst du schöne Spielplätze in deiner Nähe finden, selbst Spielplätze eintragen, bewerten, Spielplatz-Fotos hochladen und dich mit anderen Spielplatzfans austauschen.
+  title_en: Spielplatztreff (Playground Database)
+  url: https://www.spielplatztreff.de
+  description_en: On Spielplatztreff, you can find beautiful playgrounds near you, add playgrounds yourself, rate them, upload playground photos, and exchange ideas with other playground fans.
+  age: 0-12
+  categories: ["apps"]
+  lang: ["de"]
