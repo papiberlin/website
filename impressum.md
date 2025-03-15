@@ -5,8 +5,9 @@ title: Impressum
 
 <a href="https://bodo.tasche.me">Bodo Tasche</a>
 
-Richard-Sorge-Str. 59  
-10249 Berlin
+c/o IP-Management #4518  
+Ludwig-Erhard-Str. 18  
+20459 Hamburg
 
 +49 30 41728894
 
