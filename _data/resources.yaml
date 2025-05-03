@@ -878,3 +878,42 @@
   age: 0-12
   categories: ["apps"]
   lang: ["de"]
+
+- title_de: Hallo Schulanfang
+  description_de: Dein Kind startet bald in das Schulleben? Dann ist das hier der beste Ratgeber.
+  title_en: Hallo Schulanfang - Hello school begin
+  description_en: Is your child about to start school? Then this is the best guide for you.
+  url: https://www.genialokal.de/Produkt/Saskia-Niechzial/Hallo-Schulanfang_lid_49176235.html
+  age: 6
+  categories: ["school"]
+  lang: ["de"]
+
+- title_de: Schulkindliste mit 53 Geschenkideen für die Schultüte.
+  description_de: Viele tollen Ideen für die Schultüte.
+  title_en: School Kid List with 53 Gift Ideas for the School Cone
+  description_en: Lots of ideas for presents in the school cone
+  url: https://wishlephant.com/wishlists/b65082f9-8e86-475e-936d-9edd02b74e7a
+  categories: ["school"]
+  lang: ["de"]
+  age: 6
+
+- title_de: Ranzenfee, der Laden für Schulranzen in Berlin
+  description_de: Die Ranzenfee ist der Laden, wo gefühlt fast alle BerlinerInnen ihre Schulranzen kaufen
+  title_en: Ranzenfee, the store for school backpacks in Berlin
+  description_en: Ranzenfee is the store where it feels like almost all Berliners buy their school backpacks
+  url: https://ranzenfee-koffertroll.de/
+  categories: ["school"]
+
+- title_de: Lern-Resourcen
+  description_de: Hier gibt es noch viele Links zum Thema Lernen
+  title_en: Learning Resources
+  description_en: Here you'll find many more links on the topic of learning
+  url: /resourcen/learning
+  categories: ["school"]
+
+- title_de: Der Kundschafter
+  description_de: Eine kleine Schulranzenmanufaktur im Prenzlauer Berg. Für alle die etwas individuellere Schulranzen mögen.
+  title_en: Der Kundschafter
+  description_en: A small school backpack workshop in Prenzlauer Berg. For everyone who likes slightly more individual backpacks.
+  url: https://derkundschafter.de/
+  categories: ["school"]
