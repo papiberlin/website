@@ -917,3 +917,35 @@
   description_en: A small school backpack workshop in Prenzlauer Berg. For everyone who likes slightly more individual backpacks.
   url: https://derkundschafter.de/
   categories: ["school"]
+
+- title_de: Spieleratgeber NRW
+  description_de: Ein pädagogischer Ratgeber zu digitalen Spielen mit Bewertungen und Altersempfehlungen.
+  title_en: Spieleratgeber NRW (Game recommendations NRW)
+  description_en: An educational guide to digital games with reviews and geame recommendations
+  url: https://spieleratgeber-nrw.de/
+  categories: ["digital-games"]
+  lang: ["de"]
+
+- title_de: USK - Unterhaltungssoftware Selbstkontrolle
+  description_de: Die USK prüft die Altersfreigabe von Spielen in Deutschland. Hier findest du die Altersempfehlungen von allen Spielen, die in Deutschland veröffentlicht wurden.
+  title_en: USK - The german age recommendation agency
+  description_en: The USK reviews the age ratings of games in Germany. Here you can find the age recommendations for all games released in Germany.
+  url: https://usk.de/
+  categories: ["digital-games"]
+  lang: ["de"]
+
+- title_de: Fold 'N Fly
+  description_de: Eine Datenbank mit vielen Papierflugzeug-Modellen und Faltanleitungen.
+  title_en: Fold 'N Fly
+  description_en: A database of paper airplanes with easy to follow folding instructions,
+  url: https://www.foldnfly.com
+  categories: ["crafting"]
+  lang: ["en"]
+
+- title_de: amuvee
+  description_de: amuvee ist eine Platform, die alleinerziehenden Eltern zur Seite steht.
+  title_en: amuvee
+  description_en: amuvee is a platform that supports single parents.
+  url: https://amuvee.de
+  lang: ["de"]
+  categories: ["apps"]
