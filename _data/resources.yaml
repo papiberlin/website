@@ -949,3 +949,10 @@
   url: https://amuvee.de
   lang: ["de"]
   categories: ["apps"]
+
+- title_de: fLotte - Freie Lastenräder für Berlin
+  description_de: Hier kannst du Kostenlos Lastenräder ausleihen in der ganzen Stadt.
+  title_en: fLotte - Free cargo bikes in Berlin
+  description_en: Here you can rent cargo bikes for free.
+  url: https://flotte-berlin.de/
+  categories: ["berlin"]
