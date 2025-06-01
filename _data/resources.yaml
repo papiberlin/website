@@ -956,3 +956,12 @@
   description_en: Here you can rent cargo bikes for free.
   url: https://flotte-berlin.de/
   categories: ["berlin"]
+
+- title_de: K5 Learning
+  title_en: K5 Learning
+  categories: ["learning"]
+  description_de: K5 bietet englische Lernwerkzeuge und Materialien für Kinder vom Kindergarten bis zur fünften Klasse an.
+  description_en: K5 offers learning tools and materials for kids from kindergarten up to grade 5
+  age: 5-11
+  url: https://www.k5learning.com/
+  lang: ["en"]
