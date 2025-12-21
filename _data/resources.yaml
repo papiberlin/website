@@ -965,3 +965,12 @@
   age: 5-11
   url: https://www.k5learning.com/
   lang: ["en"]
+
+- title_de: Bluey’s Quest For The Gold Pen
+  title_en: Bluey’s Quest For The Gold Pen
+  categories: ["digital-games"]
+  description_de: Eine Originalgeschichte von Joe Brumm, Bluey’s Quest for The Gold Pen, lädt Spieler ein, Blueys Zeichnungen freizuschalten, die zum Leben erweckt werden.
+  description_en: An original story by Joe Brumm, Bluey’s Quest for The Gold Pen invites players to unlock Bluey’s drawings, brought to real life.
+  age: 8-
+  lang: ["de", "en", "fr", "es"]
+  url: https://www.bluey.tv/play/blueys-quest/
