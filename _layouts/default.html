@@ -186,9 +186,9 @@
 
             <li class="nav-item nav-lang-switch">
               {% if site.active_lang == "de" %}
-              <span class="nav-link"><span class="nav-lang-active">[🇩🇪]</span> <a href="{{page.url}}?lang=en">🇬🇧</a></span>
+              <span class="nav-link"><span class="nav-lang-active" aria-hidden="true">[🇩🇪]</span> <a href="{{page.url}}?lang=en" aria-label="Switch to english">🇬🇧</a></span>
               {% else %}
-              <span class="nav-link"><a href="{{page.url}}?lang=de">🇩🇪</a> <span class="nav-lang-active">[🇬🇧]</span></span>
+              <span class="nav-link"><a href="{{page.url}}?lang=de" aria-label="Auf Deutsch umstellen">🇩🇪</a> <span class="nav-lang-active" aria-hidden="true">[🇬🇧]</span></span>
               {% endif %}
             </li>
             <!--
