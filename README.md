@@ -6,7 +6,7 @@ Based on the [affiliates-jekyll-theme](https://github.com/wowthemesnet/affiliate
 
 To start the app locally just follow these steps:
 
-* Install ruby + bundler
-* bundle
-* bundle exec jekyll s -H 0.0.0.0
+* Install ruby + bundler + [just](https://github.com/casey/just)
+* `just install`
+* `just start`
 * Open a webbrowser with [http://localhost:4000](http://localhost:4000)
