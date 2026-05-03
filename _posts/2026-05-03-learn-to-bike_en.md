@@ -61,5 +61,19 @@ size. Heavy bikes make learning unnecessarily hard. The
 [Kinderfahrradfinder](https://www.kinderfahrradfinder.de/) (kids' bike finder)
 helps you find good, lightweight bikes sized correctly for your child.
 
-The right bike makes all the difference — and those three days of practice
-turn into real riding.
+## Step 3: Getting on the real bike — hold, run, let go
+
+Once your child has the right bike, the actual riding practice is shorter than
+you'd expect. Start by holding the bike steady while they get on and find their
+footing. Then run alongside them, holding the back of the seat to keep things
+stable. Let them pedal and steer — your job is just to stop the bike from
+falling, not to guide it.
+
+As they gain confidence, start letting go briefly. A second or two at first,
+then longer. They often won't notice right away, which is the point: they're
+already balancing on their own. Gradually increase the time you're not holding
+until they're riding freely.
+
+Most kids need just a few sessions of this before they take off on their own.
+The balance bike and trike did the hard work — this last step is just about
+putting it all together.
