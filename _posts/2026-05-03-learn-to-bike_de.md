@@ -39,6 +39,23 @@ Laufrad und Dreirad trainieren also gemeinsam die zwei Kernfähigkeiten, die
 ein Kind für das Fahrradfahren braucht – und zwar getrennt voneinander, sodass
 jede Fertigkeit wirklich verinnerlicht werden kann.
 
+## Schritt 3: Aufs Fahrrad – halten, mitlaufen, loslassen
+
+Sobald dein Kind das richtige Fahrrad hat, geht das eigentliche Üben
+erstaunlich schnell. Halte das Fahrrad zunächst fest, während dein Kind
+aufsteigt und sich orientiert. Dann lauf nebenher und halte den Sattel von
+hinten – nur so weit, dass das Rad nicht umfällt. Das Lenken und Treten
+übernimmt dein Kind selbst.
+
+Wenn du merkst, dass dein Kind sicherer wird, lass kurz los. Erst nur eine
+Sekunde, dann etwas länger. Oft merkt das Kind gar nicht sofort, dass du nicht
+mehr hältst – und das ist genau richtig: Es balanciert bereits selbst. Verlängere
+die Zeit ohne Halt langsam, bis dein Kind alleine fährt.
+
+Die meisten Kinder brauchen nur wenige solcher Übungseinheiten, bevor sie
+eigenständig losfahren. Laufrad und Dreirad haben die Grundlagen gelegt –
+dieser letzte Schritt bringt alles zusammen.
+
 ## Stützräder: auf gar keinen Fall
 
 Stützräder klingen nach einer logischen Hilfe, sind aber in der Praxis eher
@@ -60,20 +77,3 @@ Wenn es dann soweit ist, lohnt es sich, ein passendes und leichtes
 Kinderfahrrad zu wählen. Schwere Räder machen das Lernen unnötig schwer. Der
 [Kinderfahrradfinder](https://www.kinderfahrradfinder.de/) hilft dabei, gute,
 leichte Fahrräder in der richtigen Größe für dein Kind zu finden.
-
-## Schritt 3: Aufs Fahrrad – halten, mitlaufen, loslassen
-
-Sobald dein Kind das richtige Fahrrad hat, geht das eigentliche Üben
-erstaunlich schnell. Halte das Fahrrad zunächst fest, während dein Kind
-aufsteigt und sich orientiert. Dann lauf nebenher und halte den Sattel von
-hinten – nur so weit, dass das Rad nicht umfällt. Das Lenken und Treten
-übernimmt dein Kind selbst.
-
-Wenn du merkst, dass dein Kind sicherer wird, lass kurz los. Erst nur eine
-Sekunde, dann etwas länger. Oft merkt das Kind gar nicht sofort, dass du nicht
-mehr hältst – und das ist genau richtig: Es balanciert bereits selbst. Verlängere
-die Zeit ohne Halt langsam, bis dein Kind alleine fährt.
-
-Die meisten Kinder brauchen nur wenige solcher Übungseinheiten, bevor sie
-eigenständig losfahren. Laufrad und Dreirad haben die Grundlagen gelegt –
-dieser letzte Schritt bringt alles zusammen.
