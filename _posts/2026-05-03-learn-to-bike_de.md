@@ -71,6 +71,19 @@ Stützrädern" zu „ohne" dauert oft Wochen, manchmal Monate.
 Mit dem Laufrad-Dreirad-Ansatz braucht es diesen Sprung nicht. Die Transition
 zum Fahrrad ist ein kurzer, fast selbstverständlicher Schritt.
 
+## Drei Sachen kaufen klingt teuer
+
+Klingt erst mal so – bis man merkt, dass man nichts davon neu kaufen muss.
+Laufräder und Dreiräder tauchen ständig auf eBay, Kleinanzeigen oder Nebenan
+und auf, meistens in gutem Zustand und deutlich günstiger als ein neues.
+Kinder wachsen schnell daraus heraus, und Verkäufer:innen sind oft froh,
+wenn neue Kinder an ihnen Freude haben.
+
+Ein Dreirad musst vielleicht gar nicht gekauft. Viele Kindergärten haben
+Dreiräder als Teil ihrer Ausstattung – dein Kind übt die Pedalbewegung
+vielleicht schon dort. Und falls nicht: In Familie oder Freundeskreis findet
+sich oft eins, das gerade nicht genutzt wird. Einfach fragen, bevor man kauft.
+
 ## Das richtige Fahrrad finden
 
 Wenn es dann soweit ist, lohnt es sich, ein passendes und leichtes

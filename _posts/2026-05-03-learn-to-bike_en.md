@@ -71,6 +71,20 @@ sometimes months.
 With the balance bike and trike approach, there is no such jump. The
 transition to a real bike is a short, almost natural step.
 
+## Buying three separate things sounds expensive
+
+It does — until you realize you don't have to buy any of it new. Balance bikes
+and trikes show up constantly on eBay, Kleinanzeigen, or Nebenan, usually in good
+condition and at a fraction of the new price. Kids
+outgrow them quickly, so sellers are often just happy to have kids
+giving them a new life and love.
+
+For the trike in particular, you may not need to own one at all. Many
+kindergartens have trikes as part of their regular equipment — your child
+might already be getting that pedaling practice there. And if not, chances are
+someone in your family or circle of friends has one gathering dust. It's worth
+asking before buying.
+
 ## Finding the right bike
 
 When the time comes, it pays to pick a bike that's lightweight and the right
