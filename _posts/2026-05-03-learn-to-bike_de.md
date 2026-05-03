@@ -68,14 +68,14 @@ Moment, wenn die Stützräder dann abgenommen werden, ist für viele Kinder wie
 ein kompletter Neuanfang – frustrierend und langwierig. Der Sprung von „mit
 Stützrädern" zu „ohne" dauert oft Wochen, manchmal Monate.
 
-Mit dem Laufrad-Dreirad-Ansatz braucht es diesen Sprung nicht. Die Transition
+Mit dem Laufrad-Dreirad-Ansatz braucht es diesen Sprung nicht. Die Umstellung
 zum Fahrrad ist ein kurzer, fast selbstverständlicher Schritt.
 
 ## Drei Sachen kaufen klingt teuer
 
 Klingt erst mal so – bis man merkt, dass man nichts davon neu kaufen muss.
 Laufräder und Dreiräder tauchen ständig auf eBay, Kleinanzeigen oder Nebenan
-und auf, meistens in gutem Zustand und deutlich günstiger als ein neues.
+auf, meistens in gutem Zustand und deutlich günstiger als ein neues.
 Kinder wachsen schnell daraus heraus, und Verkäufer:innen sind oft froh,
 wenn neue Kinder an ihnen Freude haben.
 
