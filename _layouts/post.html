@@ -68,6 +68,12 @@ post_class: post-template
 
 
 
+        <!-- Slack CTA -->
+        {% unless page.url contains '/pages/slack' %}
+        {% include slack_cta.html %}
+        {% endunless %}
+        <!-- End Slack CTA -->
+
         <!-- Prev/Next -->
         <div class="row PageNavigation mt-4 prevnextlinks">
             {% if page.previous.url %}

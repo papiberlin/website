@@ -21,6 +21,8 @@ t:
     age: Age
     language: Language
     languages: Languages
+    slack_cta_text: "We have a Slack chat for fathers*. Feel free to join."
+    slack_cta_button: "Join our Slack"
     lang:
       de: German
       en: English
@@ -48,6 +50,8 @@ t:
     age: Alter
     language: Sprache
     languages: Sprachen
+    slack_cta_text: "Wir haben einen Slack-Chat für Väter*. Komm gerne dazu."
+    slack_cta_button: "Unserem Slack beitreten"
     lang:
       de: Deutsch
       en: Englisch

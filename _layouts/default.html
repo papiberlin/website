@@ -183,6 +183,14 @@
                 >{{ translation.contact }}</a
               >
             </li>
+
+            <li class="nav-item nav-lang-switch">
+              {% if site.active_lang == "de" %}
+              <span class="nav-link"><span class="nav-lang-active">[🇩🇪]</span> <a href="{{page.url}}?lang=en">🇬🇧</a></span>
+              {% else %}
+              <span class="nav-link"><a href="{{page.url}}?lang=de">🇩🇪</a> <span class="nav-lang-active">[🇬🇧]</span></span>
+              {% endif %}
+            </li>
             <!--
                     <li class="nav-item">
                         <a class="nav-link highlight" href="{{ site.baseurl}}/pages/beginner-kurs">Väter*-Kurs</a>
