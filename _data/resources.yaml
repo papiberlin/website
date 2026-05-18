@@ -974,3 +974,12 @@
   age: 8-
   lang: ["de", "en", "fr", "es"]
   url: https://www.bluey.tv/play/blueys-quest/
+
+- title_de: Spürnasen Podcast
+  title_en: Spürnasen Podcast
+  url: https://www.spuernasen-podcast.de/
+  age: 6-12
+  description_de: Ein Kriminalpodcast für Kinder im Grundschulalter.
+  description_en: A true crime podcast for kids in primary school.
+  categories: ["podcast-kids"]
+  lang: ["de"]
