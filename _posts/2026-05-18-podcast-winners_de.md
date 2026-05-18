@@ -32,5 +32,5 @@ hört unbedingt mal rein.
 
 Du brauchst mehr Podcast Empfehlungen? Wir haben einige tolle Podcasts
 in unserer Resourcen-Sektion für
-[Eltern](/de/resourcen/podcast)
-und [Kinder](/de/resourcen/podcast-kids).
+[Eltern](/resourcen/podcast)
+und [Kinder](/resourcen/podcast-kids).
