@@ -28,3 +28,7 @@ eagerly waiting for more. If that isn't a recommendation, I don't know what is.
 We adults find the way the criminal cases are handled very sweet and
 child-friendly. If you have a little detective at home, definitely give it
 a listen.
+
+Need more podcasts? We have tons in our recommendations section for
+[parents](/en/resourcen/podcast)
+and [kids](/en/resourcen/podcast-kids).

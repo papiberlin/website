@@ -29,3 +29,8 @@ auf Nachschub. Wenn das keine Empfehlung ist, dann weiß ich auch nicht. Wir
 Erwachsenen finden die Aufarbeitung der Kriminalfälle sehr süß und kindgerecht.
 Also, wenn ihr auch eine Detektivin oder einen Detektiv bei euch zu Hause habt,
 hört unbedingt mal rein.
+
+Du brauchst mehr Podcast Empfehlungen? Wir haben einige tolle Podcasts
+in unserer Resourcen-Sektion für
+[Eltern](/de/resourcen/podcast)
+und [Kinder](/de/resourcen/podcast-kids).
