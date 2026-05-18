@@ -8,7 +8,7 @@ image_description: A girl listening to something on her headphones
 image_credit:
   'Photo by <a href="https://unsplash.com/@lacostercell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ladislav Stercell</a> on <a href="https://unsplash.com/photos/a-little-girl-sitting-in-a-chair-with-headphones-on-NrhRrC6UnDY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   '
-lang: de
+lang: en
 slug: best-kid-podcasts
 ---
 
