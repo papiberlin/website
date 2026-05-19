@@ -362,14 +362,6 @@
   categories: ["reading"]
   lang: ["de", "en", "fr", "es"]
 
-- title_de: LesenMit.app
-  description_de: LesenMit.app prüft regelmäßig Apps und gibt euch Tipps, wie diese in Familie, Kita, Kindergarten, Hort und Schule genutzt werden können.
-  title_en: LesenMit.app
-  description_en: LesenMit.app regularly reviews apps and provides tips on how they can be used in family, daycare, kindergarten, after-school care, and school settings.
-  url: https://lesenmit.app/
-  categories: ["reading"]
-  lang: ["de"]
-
 - title_de: Milchsalon
   description_de: Gute Kindermusik. Für Alle. Hörbar. Tanzbar. Wunderbar. Der Milchsalon ist – seit 2011 – eine erfrischend andere Konzertreihe, die Kinder zum Musizieren, Tanzen und Ausflippen animiert.
   title_en: Milchsalon
