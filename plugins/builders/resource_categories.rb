@@ -61,11 +61,21 @@ class Builders::ResourceCategories < SiteBuilder
       {
         "title" => resource["title_#{loc}"],
         "description" => resource["description_#{loc}"].to_s.strip,
-        "url" => resource["url"],
+        "url" => localized_url(resource["url"], loc),
         "age" => age.empty? ? nil : age,
         "lang" => resource["lang"],
         "pinned" => pinned,
       }
     end.sort_by { |resource| resource["title"].to_s.downcase }
+  end
+
+  # Links to our own pages are written as German paths (the default locale is
+  # served from the root), so they need the locale prefix on the other locales.
+  # External URLs are left alone.
+  def localized_url(url, loc)
+    return url unless url.to_s.start_with?("/")
+    return url if loc.to_s == site.config.default_locale.to_s
+
+    "/#{loc}#{url}"
   end
 end

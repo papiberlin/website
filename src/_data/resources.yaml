@@ -984,3 +984,21 @@
   description_en: A true crime podcast for kids in primary school.
   categories: ["podcast-kids"]
   lang: ["de"]
+
+- title_de: Radiosender für Kinder
+  title_en: Radio Stations for Kids
+  url: /pages/kids-radio/
+  age: 3-13
+  description_de: Radio hören mit Kindern, ohne Nachrichtenblock und ungeeignete Musik. Eine Übersicht der Kinderradiosender, die wir als Familie gerne hören.
+  description_en: Listening to the radio with kids, without news blocks and unsuitable music. An overview of the kids' radio stations we enjoy as a family.
+  categories: ["media"]
+  lang: ["de", "en"]
+
+- title_de: In 3 Tagen Fahrrad fahren lernen
+  title_en: Teach Your Kid to Ride a Bike in 3 Days
+  url: /pages/learn-to-bike/
+  age: 2-8
+  description_de: Warum Laufrad und Dreirad die bessere Wahl als Stützräder sind, was man davon gebraucht kaufen kann und wie man das passende Kinderfahrrad findet.
+  description_en: Why a balance bike and a trike beat training wheels, what you can buy secondhand, and how to find the right kids' bike.
+  categories: ["shopping-advice"]
+  lang: ["de", "en"]
