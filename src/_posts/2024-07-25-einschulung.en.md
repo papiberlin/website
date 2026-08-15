@@ -29,7 +29,7 @@ prepared for the school routine, here are a few links that really helped us:
 1. Additionally, [Stiftung Warentest has a school backpack test from
    2019](https://www.test.de/Schulranzen-im-Test-1765493-0/)
 1. You can find more links on learning in our [resource
-   collection](/resourcen/learning).
+   collection](/en/resourcen/learning/).
 
 Next month, two episodes of one of our favorite german parenting podcast ([Das
 gewünscheste Wunschkind](https://www.gewuenschtestes-wunschkind.de/)) will
