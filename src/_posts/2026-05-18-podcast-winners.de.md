@@ -12,7 +12,7 @@ slug: best-kid-podcasts
 ---
 
 Dieses Jahr gab es gleich zwei Podcasts für Kinder, die beim [Deutschen Podcast
-Award gewonnen haben. Einer bemerkenswerterweise sogar in einer Kategorie, die
+Award](https://www.deutscherpodcastaward.com/) gewonnen haben. Einer bemerkenswerterweise sogar in einer Kategorie, die
 nicht explizit nur Kinderpodcasts enthält.
 
 Der [Kakadu-Podcast](https://www.kakadu.de) ist so alt, er könnte eigene Kinder

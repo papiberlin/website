@@ -11,7 +11,7 @@ image_credit:
 slug: best-kid-podcasts
 ---
 
-This year, two podcasts for children won at the [German Podcast Awards].
+This year, two podcasts for children won at the [German Podcast Awards](https://www.deutscherpodcastaward.com/).
 Remarkably, one even won in a category that wasn't explicitly limited to
 children's podcasts.
 
