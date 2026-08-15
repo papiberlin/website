@@ -1,0 +1,12 @@
+<nav class="pagination" role="pagination">
+    {% if paginator.previous_page %}
+    <a class="newer-posts" href="{{ paginator.previous_page_path }}"
+        title="{{ "posts.previous_page" | t }}">&laquo; {{ "posts.newer" | t }}</a>
+    {% endif %}
+    <span class="page-number"> &nbsp; &nbsp; {{ "posts.page" | t }} {{ paginator.page }} {{ "posts.page_of" | t }} {{ paginator.total_pages }} &nbsp; &nbsp;
+    </span>
+    {% if paginator.next_page %}
+    <a class="older-posts" href="{{ paginator.next_page_path }}"
+        title="{{ "posts.next_page" | t }}">{{ "posts.older" | t }} &raquo;</a>
+    {% endif %}
+</nav>

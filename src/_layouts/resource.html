@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div class="back-link">
+  <a href="{{ "/resourcen/" | in_locale | relative_url }}">&laquo; {{ "resources.back" | t }}</a>
+</div>
+
+<div class="article-post">
+  <div class="mainheading">
+    <h1 class="posttitle">{{ page.title }}</h1>
+    <p class="lead">
+      {{ page.description }}
+    </p>
+  </div>
+
+  <ul>
+  {% for resource in page.resources %}
+    <li>
+      <a href="{{ resource.url }}">
+        {% if resource.pinned %}
+        <img src="/assets/images/pin.svg" class="pin" aria-hidden="true" alt="" />
+        {% endif %}
+        {{ resource.title }}
+      </a>
+      {% if resource.age %}
+        <div class="age-group">{{ "resources.age" | t }}: {{ resource.age }}</div>
+      {% endif %}
+      {% if resource.lang %}
+        <div class="language">
+          <span>
+          {% if resource.lang.size > 1 %}
+            {{ "resources.languages" | t }}:
+          {% else %}
+            {{ "resources.language" | t }}:
+          {% endif %}
+          </span>
+          <ul class="language-list">
+            {% for lang in resource.lang %}
+              {% assign lang_key = lang | prepend: "lang." %}
+              <li>{{ lang_key | t }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+
+      {{ resource.description | markdownify }}
+    </li>
+  {% endfor %}
+  </ul>
+
+  {{ "resources.missing_link" | t | markdownify }}
+</div>

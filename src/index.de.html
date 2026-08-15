@@ -1,0 +1,9 @@
+---
+layout: default
+title: Home
+permalink: /
+pagination:
+  collection: posts
+---
+{% assign featured_posts = collections.posts.resources | in_locale | where: "featured", true %}
+{% render "home", site: site, paginator: paginator, featured_posts: featured_posts %}

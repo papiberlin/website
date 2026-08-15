@@ -1,19 +1,14 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
+# If you need to upgrade/switch Bridgetown versions, change the line below
+# and then run `bundle update bridgetown`
+gem "bridgetown", "~> 2.2.2"
 
-# If you have any plugins, put them here!
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-group :jekyll_plugins do
-    gem 'jekyll-feed'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-paginate'
-    gem 'jekyll-archives'
-    gem "jekyll-datapage-generator"
-    gem "jekyll-polyglot"
-end
+# Paginates the blog index (/, /page2/, ... and the /en/ equivalents)
+gem "bridgetown-paginate", "~> 2.2.2"
+
+# Generates /sitemap.xml and /robots.txt
+gem "bridgetown-sitemap", "~> 3.0"
+
+# The Rack-compliant web server used by `bin/bridgetown start`
+gem "puma", "~> 6.4"

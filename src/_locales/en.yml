@@ -1,0 +1,62 @@
+en:
+  site:
+    description: A community for active fathers* in Berlin.
+  home:
+    lead: >-
+      We are a community of active fathers* in Berlin. Would you like to meet or exchange ideas
+      with other fathers*? Or do you have questions and need help? Then you've come to the right
+      place.
+    more: More about us...
+  nav:
+    start: Start
+    parenting_resources: Parenting Resources
+    about: About us
+    contact: Contact
+    code_of_conduct: Code of conduct
+    privacy: Privacy
+    switch_language: Switch to english
+  footer:
+    headline: Active father*hood beyond gender stereotypes
+    text: We are a group of fathers* and are happy to welcome anyone who wants to join us.
+    link: More about us ...
+    find_us: "You can find us here:"
+    languages: Languages
+    fathers: Fathers*?
+    fathers_text: Inclusion is important to us. Everyone with a father role is welcome.
+    slack_label: Our Slack channel
+    github_label: Our GitHub page
+  posts:
+    all: All blogposts
+    newer: Newer
+    older: Older
+    previous_page: Previous page
+    next_page: Next page
+    page: Page
+    page_of: of
+    read_story: Read story
+    updated: Updated
+  archive:
+    category: Category
+  resources:
+    back: All categories
+    age: Age
+    language: Language
+    languages: Languages
+    missing_link: >-
+      If you know a website that is missing here, please [contact us](mailto:mail@papiberlin.de).
+  slack_cta:
+    text: "We have a Slack chat for fathers*. Feel free to join."
+    button: "Join our Slack"
+  sidebar:
+    headline: Useful Links
+    slack: Join our Papi-Slack
+    resources: Parenting Resources
+    wishlephant: Wishlephant - the independent wishlist
+    all_about_berlin: All About Berlin - a Berlin starter guide
+    kobra: KOBRA - Elternberatung
+  lang:
+    de: German
+    en: English
+    fr: French
+    es: Spanish
+    ru: Russian

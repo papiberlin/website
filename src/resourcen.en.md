@@ -1,0 +1,26 @@
+---
+layout: post
+title: Parenting Resources
+comments: true
+permalink: /:locale/resourcen/
+description: Welcome to our parenting resources. Here we collect links to websites that we think are helpful.
+---
+Welcome to our parenting resources. Here we collect links to websites that we think are helpful.
+So far we collected {{ site.data.resources | size }}. If you know of a website that is missing here, please write to us [via our contact form](/en/contact/) or join [our Slack chat](/en/pages/slack/).
+
+### Categories
+
+{% assign sortedItems = site.data.resource_categories | sort_natural: "title_en" %}
+
+<ul>
+{% for category in sortedItems %}
+  <li>
+    <a href="/en/resourcen/{{ category.id }}/">
+      {{ category.title_en }}
+    </a>
+    <p>
+    {{ category.description_en }}
+    </p>
+  </li>
+{% endfor %}
+</ul>

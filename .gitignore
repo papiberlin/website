@@ -1,5 +1,23 @@
-_site
+# Bridgetown
+output
+.bridgetown-cache
+.bridgetown-metadata
+.routes.json
+
+# Dependency folders
+node_modules
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore all tempfiles.
+/tmp/*
+!/tmp/.keep
+
+# Ignore pidfiles, but keep the directory.
+/tmp/pids/*
+!/tmp/pids/
+!/tmp/pids/.keep
+
 .DS_Store
 *.swp
-.sass-cache
-.jekyll-cache

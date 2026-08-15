@@ -1,0 +1,29 @@
+---
+locale: multi
+permalink: /:locale/feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{%- assign posts = collections.posts.resources | in_locale | sort: "date" | reverse -%}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.metadata.title | xml_escape }}</title>
+    <description>{{ "site.description" | t | xml_escape }}</description>
+    <link>{{ "/" | in_locale | absolute_url }}</link>
+    <atom:link href="{{ "/feed.xml" | in_locale | absolute_url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Bridgetown v{{ bridgetown.version }}</generator>
+    {% for post in posts limit: 10 %}
+      <item>
+        <title>{{ post.data.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.absolute_url }}</link>
+        <guid isPermaLink="true">{{ post.absolute_url }}</guid>
+        {% for cat in post.data.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+de:
+  site:
+    description: Eine Community für aktive Väter in Berlin.
+  home:
+    lead: >-
+      Wir sind eine Community von aktiven Vätern* in Berlin. Hast du Lust, dich mit anderen
+      Vätern* zu treffen oder auszutauschen? Oder hast du Fragen und benötigst Hilfe? Dann bist
+      du genau richtig bei uns.
+    more: Mehr über uns...
+  nav:
+    start: Start
+    parenting_resources: Eltern Ressourcen
+    about: Über uns
+    contact: Kontakt
+    code_of_conduct: Verhaltenskodex
+    privacy: Datenschutz
+    switch_language: Auf Deutsch umstellen
+  footer:
+    headline: Aktive Vater*schaft abseits von Rollenklischees
+    text: Wir sind eine Gruppe von Vätern* und freuen uns über jeden, der Teil von uns werden will.
+    link: Mehr über uns...
+    find_us: "Hier findest du uns:"
+    languages: Sprachen
+    fathers: Väter*?
+    fathers_text: Uns ist Inklusion wichtig. Jede*r Mensch mit Vaterrolle ist willkommen.
+    slack_label: Unser Slack Kanal
+    github_label: Unsere Github-Seite
+  posts:
+    all: Alle Beiträge
+    newer: Neuer
+    older: Älter
+    previous_page: Vorherige Seite
+    next_page: Nächste Seite
+    page: Seite
+    page_of: von
+    read_story: Beitrag lesen
+    updated: Aktualisiert
+  archive:
+    category: Kategorie
+  resources:
+    back: Alle Kategorien
+    age: Alter
+    language: Sprache
+    languages: Sprachen
+    missing_link: >-
+      Wenn du eine Webseite kennst, die hier fehlt, dann schreib uns doch [über unser
+      Kontaktformular](/contact/).
+  slack_cta:
+    text: "Wir haben einen Slack-Chat für Väter*. Komm gerne dazu."
+    button: "Unserem Slack beitreten"
+  sidebar:
+    headline: Nützliche Links
+    slack: Komm in unseren Papi-Slack
+    resources: Eltern Resourcen
+    wishlephant: Wishlephant - die unabhängige Wunschliste
+    all_about_berlin: All About Berlin - ein Berlin-Anleitung
+    kobra: KOBRA - Elternberatung
+  lang:
+    de: Deutsch
+    en: Englisch
+    fr: Französisch
+    es: Spanisch
+    ru: Russisch

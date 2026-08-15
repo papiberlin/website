@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="{{ site.locale }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link rel="icon" href="/assets/images/favicon.png" />
+    <title>{{ page.title }} | {{ site.metadata.name }}</title>
+    {%- assign site_description = "site.description" | t -%}
+    {%- assign description = page.description | default: site_description -%}
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:locale" content="{{ site.locale }}" />
+    <meta name="description" content="{{ description }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <link rel="canonical" href="{{ page.relative_url | absolute_url }}" />
+    <meta property="og:url" content="{{ page.relative_url | absolute_url }}" />
+    <meta property="og:site_name" content="{{ site.metadata.name }}" />
+    {% if page.image and page.image != blank -%}
+    <meta property="og:image" content="{{ page.image | absolute_url }}" />
+    {% endif -%}
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content="{{ page.title }}" />
+    <script type="application/ld+json">
+      {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "description": {{ description | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "name": "Papi Berlin",
+      {% if page.image and page.image != blank -%}
+      "image": "{{ page.image | absolute_url }}",
+      {% endif -%}
+      "publisher": {
+          "@type": "Organization",
+          "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.metadata.logo | absolute_url }}"
+          }
+      },
+      "url": "{{ page.relative_url | absolute_url }}"
+      }
+    </script>
+    {% if page.author %}{% assign author = site.data.authors[page.author] %}{%
+    if author.mastodon %}
+    <meta name="fediverse:creator" content="{{ author.mastodon }}" />
+    {% endif %}{% endif %}
+
+    <link rel="stylesheet" href="{% asset_path css %}" />
+
+    {% if bridgetown.environment == 'production' %}
+    <script
+      defer
+      data-domain="papiberlin.de"
+      src="https://ping.tasche.me/js/script.js"
+    ></script>
+    {% endif %}
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <link
+      href="{{ "/atom.xml" | in_locale | relative_url }}"
+      rel="alternate"
+      title="Papi Berlin Feed"
+      type="application/atom+xml"
+    />
+
+    <script>
+      function getBestSuitableSupportedLang(lang, locale, supported) {
+        // Exclude first element, default language
+        var supported_lang = supported.shift();
+
+        if (supported.includes(lang + "-" + locale)) {
+          supported_lang = lang + "-" + locale;
+        } else if (supported.includes(lang)) {
+          supported_lang = lang;
+        }
+
+        return supported_lang;
+      }
+
+      var [lang, locale] = (((navigator.userLanguage || navigator.language).replace('-', '_')).toLowerCase()).split('_');
+      var supported_languages = ["de", "en"];
+      var current_lang = {{ site.locale | jsonify }};
+
+      var suitable_lang = getBestSuitableSupportedLang(lang, locale, supported_languages)
+
+      var lang_param = new URLSearchParams(window.location.search).get("lang");
+
+      if (lang_param == null && window.location.pathname === "/" && current_lang !== suitable_lang) {
+        window.location = '/' + suitable_lang;
+      } else if (lang_param !== null && current_lang !== lang_param) {
+        var base_path = window.location.pathname.replace("/" + current_lang, "")
+        if (lang_param === "de") {
+          window.location = base_path + '?lang=de';
+        } else {
+          window.location = "/" + lang_param + base_path + '?lang=' + lang_param;
+        }
+      }
+    </script>
+  </head>
+
+  {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{%
+  endcapture %}
+
+  <body class="{{ layout }}">
+    <!-- Begin Menu Navigation
+================================================== -->
+    <header
+      class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation"
+    >
+      <button
+        class="navbar-toggler navbar-toggler-right"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarsWow"
+        aria-controls="navbarsWow"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="container">
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="{{ "/" | in_locale | relative_url }}?lang={{ site.locale }}">
+          Papi Berlin
+        </a>
+        <!-- End Logo -->
+
+        <!-- Begin Menu -->
+        <div class="collapse navbar-collapse" id="navbarsWow">
+          <!-- Begin Menu -->
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="{{ "/" | in_locale | relative_url }}">{{ "nav.start" | t }}</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="{{ "/resourcen/" | in_locale | relative_url }}"
+                >{{ "nav.parenting_resources" | t }}</a
+              >
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="{{ "/about/" | in_locale | relative_url }}"
+                >{{ "nav.about" | t }}</a
+              >
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="{{ "/contact/" | in_locale | relative_url }}"
+                >{{ "nav.contact" | t }}</a
+              >
+            </li>
+
+            <li class="nav-item nav-lang-switch">
+              {% if site.locale == "de" %}
+              <span class="nav-link"><span class="nav-lang-active" aria-hidden="true">[🇩🇪]</span> <a href="{{ page.relative_url }}?lang=en" aria-label="{{ "nav.switch_language" | t: "locale: en" }}">🇬🇧</a></span>
+              {% else %}
+              <span class="nav-link"><a href="{{ page.relative_url }}?lang=de" aria-label="{{ "nav.switch_language" | t: "locale: de" }}">🇩🇪</a> <span class="nav-lang-active" aria-hidden="true">[🇬🇧]</span></span>
+              {% endif %}
+            </li>
+          </ul>
+          <!-- End Menu -->
+        </div>
+      </div>
+    </header>
+
+    <!-- End Menu Navigation
+================================================== -->
+
+    <div class="site-content">
+      <div class="container">
+        <!-- Content
+    ================================================== -->
+        <div class="main-content">{{ content }}</div>
+      </div>
+      <!-- /.container -->
+
+      <!-- Before Footer
+    ================================================== -->
+      <div class="beforefooter">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-md-8">
+              <h3>{{ "footer.headline" | t }}</h3>
+              <p>{{ "footer.text" | t }}</p>
+              <a class="btn btn-primary btn-lg" href="{{ "/about/" | in_locale | relative_url }}"
+                >{{ "footer.link" | t }}</a
+              >
+            </div>
+            <div class="col-md-4 text-right footersocial">
+              <h5>{{ "footer.find_us" | t }}</h5>
+              <a
+                target="_blank"
+                href="{{ site.metadata.slack_invite }}"
+                aria-label="{{ "footer.slack_label" | t }}"
+                ><i class="fa fa-slack"></i> Slack</a
+              >
+              <a
+                target="_blank"
+                href="{{ site.metadata.github }}"
+                aria-label="{{ "footer.github_label" | t }}"
+                ><i class="fa fa-github"></i> GitHub</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Begin Footer
+    ================================================== -->
+      <footer class="footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-3">
+              <div class="footer-widget">
+                <a href="{{ "/contact/" | in_locale | relative_url }}">
+                  <img src="/assets/images/logo-footer.png" alt="Papi Berlin" />
+                </a>
+              </div>
+            </div>
+
+            <div class="col-sm-3">
+              <div class="footer-widget">
+                <h5 class="title">{{ "footer.languages" | t }}</h5>
+                <ul>
+                  <li><a href="{{ page.relative_url }}?lang=de">Deutsch</a></li>
+                  <li><a href="{{ page.relative_url }}?lang=en">English</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-sm-3">
+              <div class="footer-widget">
+                <h5 class="title">Links</h5>
+                <ul>
+                  <li><a href="{{ "/about/" | in_locale | relative_url }}">{{ "nav.about" | t }}</a></li>
+                  <li><a href="{{ "/impressum/" | in_locale | relative_url }}">Impressum</a></li>
+                  <li>
+                    <a href="{{ "/codeofconduct/" | in_locale | relative_url }}"
+                      >{{ "nav.code_of_conduct" | t }}</a
+                    >
+                  </li>
+                  <li><a href="{{ "/contact/" | in_locale | relative_url }}">{{ "nav.contact" | t }}</a></li>
+                  <li><a href="{{ "/datenschutz/" | in_locale | relative_url }}">{{ "nav.privacy" | t }}</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-sm-3">
+              <div class="footer-widget textwidget">
+                <h5 class="title">{{ "footer.fathers" | t }}</h5>
+                <p>{{ "footer.fathers_text" | t }}</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="copyright">
+            <p class="pull-left">
+              © {{ site.time | date: "%Y" }} {{ site.metadata.name }}.
+            </p>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+      </footer>
+      <!-- End Footer
+    ================================================== -->
+    </div>
+    <!-- /.site-content>
+
+<!-- JavaScript
+================================================== -->
+
+    <script src="{% asset_path js %}" defer></script>
+  </body>
+</html>
