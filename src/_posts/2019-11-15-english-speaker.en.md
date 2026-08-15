@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "We speak english ❤️!"
-categories: [ ]
+title: "We speak english ❤️!"
+categories: []
 image: /assets/images/english.jpg
 image_description: A game of scrabble with the words "Read More"
 image_credit: Photo by <a href="https://unsplash.com/@nicolehoneywill_sincerelymedia">Nicole Honeywill</a>
 featured: true
 short_title: 🇩🇪 Wir sprechen auch Deutsch ❤️!
-short_body: Zur [deutschen Version](/?lang=de) von dieser Webseite.
+short_body: Zur [deutschen Version von dieser Webseite](/?lang=de).
 slug: english-speaker
 ---
+
 A lot of our members are expats. [Our
 Slack](https://join.slack.com/t/dadaberlin/shared_invite/zt-1skuexk5x-OUzSHVwxWWayPUHYjNfiAA) has a very active English channel and on our meetups we try to include everyone. Just send
 us an <a href="mailto:mail@papiberlin.de?subject=Slack&body=Slack invite">email</a> and
