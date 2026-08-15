@@ -720,14 +720,6 @@
   lang: ["de", "en"]
   categories: ["berlin"]
 
-- title_de: Lebensmittelkontrollen in Pankow
-  description_de: Alle amtlichen Kontrollergebnisse der Liebensmittelbetriebe in Pankow
-  title_en: Food Inspections in Pankow
-  description_en: All official inspection results of food businesses in Pankow
-  url: https://pankow.lebensmittel-kontrollergebnisse.de/
-  lang: ["de"]
-  categories: ["berlin"]
-
 - title_de: Spielplatzguide Friedrichshain
   description_de: Eine Übersicht aller Spielplätze in Friedrichshain
   title_en: Playground Guide Friedrichshain
