@@ -11,4 +11,4 @@ gem "bridgetown-paginate", "~> 2.2.2"
 gem "bridgetown-sitemap", "~> 3.0"
 
 # The Rack-compliant web server used by `bin/bridgetown start`
-gem "puma", "~> 6.4"
+gem "puma", "~> 7.2"
