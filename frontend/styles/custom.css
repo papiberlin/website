@@ -16,6 +16,12 @@
   gap: 1rem;
 }
 
+/* Even out the line breaks in card headlines so short titles don't leave a
+   single word (or emoji) dangling on its own line on narrow screens. */
+h2.card-title {
+  text-wrap: balance;
+}
+
 .slack-cta {
   background: #fff100;
   padding: 1.5rem 2rem;
