@@ -55,3 +55,6 @@ so it targets a slightly older audience than the stations mentioned above.
 
 Do you know other stations you enjoy listening to with your kids?
 [Bring them on](/en/contact/) ❤️.
+
+And if you're after something else to listen to: our resources section collects
+plenty of [podcasts for kids](/en/resourcen/podcast-kids/).

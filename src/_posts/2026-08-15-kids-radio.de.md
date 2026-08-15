@@ -58,3 +58,7 @@ sie interessant sein können in Berlin.
 
 Habt ihr noch weitere Sender, die ihr gerne mit euren Kids hört? Dann
 [her damit](/contact/) ❤️.
+
+Und wenn es doch mal etwas anderes zum Hören sein soll: In unserer
+Ressourcen-Sektion sammeln wir jede Menge
+[Podcasts für Kinder](/resourcen/podcast-kids/).
