@@ -1,5 +1,4 @@
 ---
-locale: multi
 layout: post
 title:  "Digital Elternhelfer"
 author: bodo
@@ -7,8 +6,8 @@ categories: [ Bibliothek ]
 image: /assets/images/blog/digitale-elternhelfer.jpg
 image_description: Ein Mensch hält ein Telefon und fotografiert ein Kind, das Kind ist unscharf zu sehen im Hintergrund.
 image_credit: Foto von <a href="https://unsplash.com/@derekthomson">Derek Thomson</a>
+slug: digital-parenting
 ---
-
 Der Markt an Anwendungen und Hilfsmitteln für Eltern ist unüberschaubar groß. Von der Begleitung in der Schwangerschaft bis zum Babyphone gibt es für alles eine App. Wir haben hier mal zusammen getragen, was von anderen Eltern in der [Slack-Gruppe](/pages/slack) empfohlen wurde. Unterteilt in "vor" und "nach" der Geburt.
 
 Neben den Apps haben viele übrigens auch einen geteilten Kalender. Sei es mit Hilfe von Google Calendar, Apple iCloud oder mit einem selbst betriebenen Server. Dieser geteilter Kalender ist ein wichtiger erster Schritt das Thema [Mental-Load](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/) zu managen.

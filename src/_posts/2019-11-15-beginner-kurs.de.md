@@ -1,5 +1,4 @@
 ---
-locale: multi
 layout: post
 title:  "\"Ich-werde-Vater*\"-Kurs"
 categories: [ Kurs ]
@@ -9,6 +8,7 @@ image_credit: Foto von <a href="https://unsplash.com/@peter_oslanec">Peter Oslan
 featured: true
 author: bodo
 published: false
+slug: beginner-kurs
 ---
 Dieser Kurs richtet sich an alle werdenden Väter* , die sich vor der Geburt gut vorbereitet fühlen wollen und sich mit anderen werdenden Vätern* austauschen wollen. 
 

@@ -1,5 +1,4 @@
 ---
-locale: multi
 layout: post
 title:  "Corona Elternressourcen"
 author: bodo
@@ -7,7 +6,7 @@ categories: [ Bibliothek ]
 image: /assets/images/blog/covid-19.jpg
 image_description: Ein Kind malt auf einem Blatt Papier.
 image_credit: Bild von <a href="https://pixabay.com/de/users/picjumbo_com-2130229/">Pixabay</a>
-
+slug: corona-resources
 ---
 Eltern haben gerade eine besondere Herausforderung durch Covid-19. Homeoffice,
 Kinder bespaßen und dabei vielleicht noch ein wenig Schulstoff pauken? Das ist
