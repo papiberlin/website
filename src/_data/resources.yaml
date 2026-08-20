@@ -994,3 +994,12 @@
   description_en: Why a balance bike and a trike beat training wheels, what you can buy secondhand, and how to find the right kids' bike.
   categories: ["shopping-advice"]
   lang: ["de", "en"]
+
+- title_de: Ohrka
+  title_en: Ohrka
+  url: https://www.ohrka.de/
+  age: 4-13
+  description_de: Kostenlose Hörbücher, Hörspiele, Podcasts und Radiosendungen für Kinder, werbefrei und liebevoll produziert. Von "Das Dschungelbuch" mit Anke Engelke bis zu "Politik für Kinder".
+  description_en: Free audiobooks, audio dramas, podcasts and radio shows for kids, ad-free and lovingly produced. From "The Jungle Book" narrated by Anke Engelke to "Politics for Children".
+  categories: ["media", "podcast-kids"]
+  lang: ["de"]
