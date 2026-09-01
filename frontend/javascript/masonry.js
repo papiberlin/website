@@ -1,9 +1,11 @@
-// Registers the `$.fn.masonry` and `$.fn.imagesLoaded` plugins that
-// `vendor/theme.js` uses to lay out the post grid.
-import jQuery from "./globals.js"
-import jQueryBridget from "jquery-bridget"
+// Lays out the post grids on the home page and the category archives.
 import Masonry from "masonry-layout"
 import imagesLoaded from "imagesloaded"
 
-jQueryBridget("masonry", Masonry, jQuery)
-imagesLoaded.makeJQueryPlugin(jQuery)
+document.querySelectorAll(".masonrygrid").forEach((grid) => {
+  const layout = new Masonry(grid, { itemSelector: ".grid-item" })
+
+  // Post thumbnails have no intrinsic size until they load, so re-run the
+  // layout as each one arrives.
+  imagesLoaded(grid).on("progress", () => layout.layout())
+})
