@@ -1003,3 +1003,12 @@
   description_en: Free audiobooks, audio dramas, podcasts and radio shows for kids, ad-free and lovingly produced. From "The Jungle Book" narrated by Anke Engelke to "Politics for Children".
   categories: ["media", "podcast-kids"]
   lang: ["de"]
+
+- title_de: ElternMail Berlin
+  title_en: ElternMail Berlin
+  url: https://www.elternleben.de/elternmail-berlin/
+  age: 0-
+  description_de: Kostenloser Newsletter des Berliner Senats mit Infos zu Entwicklung und Erziehung, passend zum Geburtsdatum deines Kindes.
+  description_en: Free newsletter funded by the Berlin Senate with information on child development and parenting, timed to your child's date of birth.
+  categories: ["berlin"]
+  lang: ["de", "en", "tr", "uk", "ar", "pl"]
