@@ -18,7 +18,7 @@ halbwegs gut vorbereitet in den Schulalltag starten könnt, hier mal ein paar
 Links, die uns sehr geholfen haben:
 
 1. Das Buch [Hallo
-   Schulanfang!](https://www.genialokal.de/Produkt/Saskia-Niechzial/Hallo-Schulanfang_lid_49176235.html)
+   Schulanfang!](https://bookpile.org/b/9783407867735)
    hat uns viele Ängste genommen und einen klaren Weg aufgezeigt, was wir vor
    Schulstart noch so alles machen sollten/könnten.
 1. Unsere [Schulkindliste mit 53 Geschenkideen für die

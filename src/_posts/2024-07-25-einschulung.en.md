@@ -17,7 +17,7 @@ It's crazy how time flies with kids sometimes. But to help you be somewhat
 prepared for the school routine, here are a few links that really helped us:
 
 1. The german book [Hallo
-   Schulanfang!](https://www.genialokal.de/Produkt/Saskia-Niechzial/Hallo-Schulanfang_lid_49176235.html)
+   Schulanfang!](https://bookpile.org/b/9783407867735)
    alleviated many of our fears and provided a clear path of what we should/could
    do before school starts.
 1. Our [School Kid List with 53 Gift Ideas for the School
