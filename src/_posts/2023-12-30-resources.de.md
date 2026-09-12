@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Eltern Ressourcen"
+seo_title: "Neu: Eltern Ressourcen – gesammelte Links aus unserem Slack für Väter* | Papi Berlin"
+description: "Wir sammeln die besten Links aus unserem Slack für Väter* an einem Ort: Podcasts, Apps, Veranstaltungsseiten und mehr in unseren Eltern Ressourcen."
 author: bodo
 categories: [ Resources ]
 image: /assets/images/blog/resources.jpg

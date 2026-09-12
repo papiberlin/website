@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Digital Elternhelfer"
+description: "Apps und digitale Helfer für Eltern, empfohlen in unserer Berliner Community von Vätern*: von Schwangerschafts-Apps über Kita-Navigator bis Babyphone."
 author: bodo
 categories: [ Bibliothek ]
 image: /assets/images/blog/digitale-elternhelfer.jpg

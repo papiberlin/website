@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Datenschutz
+description: "Datenschutzerklärung von Papi Berlin: welche Daten beim Besuch der Webseite und bei der Nutzung des Kontaktformulars verarbeitet werden."
 locale: multi
 permalink: /:locale/datenschutz/
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "🎄 Weihnachtswünsche im Easy-Modus"
+description: "Weihnachtsgeschenke ohne Stress: Wie eine gemeinsame Wunschliste die Frage nach den Kinderwünschen löst – plus vier Tipps für gute Listen."
 author: bodo
 categories: [Weihnachten, Geschenk]
 image: /assets/images/blog/christmas.jpg

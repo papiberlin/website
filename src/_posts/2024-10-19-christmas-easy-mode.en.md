@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "🎄 Christmas wishes in easy mode"
+description: "Christmas presents without the stress: how a shared wish list answers the question of what your child wants, plus four tips for building a good list."
 author: bodo
 categories: [Christmas, Presents]
 image: /assets/images/blog/christmas.jpg

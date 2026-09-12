@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Corona resources for parents"
+description: "A long list of free activities, learning offers, audio plays and colouring sheets for preschoolers and schoolkids at home, collected for parents."
 author: bodo
 categories: [ Library ]
 image: /assets/images/blog/covid-19.jpg

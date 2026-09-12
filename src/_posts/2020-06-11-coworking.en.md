@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coworking for Parents"
+description: "Coworking spaces with childcare are ideal for freelancing parents. How the concept works and where to find a parent-friendly office near you."
 author: bodo
 categories: [Resources]
 image: /assets/images/blog/coworking.jpg

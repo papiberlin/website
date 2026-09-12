@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Digital helpers for parents"
+description: "Apps and digital helpers for parents, recommended in our Berlin community of dads*: pregnancy trackers, the Kita navigator, baby monitors and feeding logs."
 author: bodo
 categories: [ Library ]
 image: /assets/images/blog/digitale-elternhelfer.jpg

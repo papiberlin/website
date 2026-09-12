@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lost in Play"
+description: "Lost in Play im Test: Ein Point-and-Click-Abenteuer, das schon Sechsjährige ohne Lesen spielen können. Ohne Werbung, ohne Lootboxen, 5/5 von unserer Familie."
 author: bodo
 categories: [Games]
 image: /assets/images/blog/lost_in_play.jpeg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Podcast Award Gewinner Kids & Family"
+description: "Kakadu und der Spürnasen-Podcast haben beim Deutschen Podcast Award gewonnen. Zwei Hörempfehlungen für Kinder plus unsere komplette Podcast-Sammlung."
 author: bodo
 categories: [Podcast]
 image: /assets/images/blog/podcast-award.jpg

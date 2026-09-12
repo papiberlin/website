@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "In 3 Tagen Fahrrad fahren lernen"
+description: "Fahrradfahren lernen in zwei bis drei Tagen: mit Laufrad, Balance zuerst und den richtigen Übungen zur richtigen Zeit. Eine Schritt-für-Schritt-Anleitung."
 author: bodo
 categories: [Fahrrad, Draußen]
 image: /assets/images/blog/learn-to-bike.jpg

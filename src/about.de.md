@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Über uns
+description: "Papi Berlin ist eine Gruppe aktiver Väter*, die Rollenklischees hinterfragen. Mental Load, bedürfnisorientierte Erziehung und ein sehr aktiver Slack-Chat."
 comments: true
 permalink: /:locale/about/
 ---

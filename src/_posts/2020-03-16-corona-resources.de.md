@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Corona Elternressourcen"
+description: "Eine lange Liste kostenloser Beschäftigungsideen, Lernangebote, Hörspiele und Malvorlagen für Kita- und Schulkinder zu Hause – gesammelt für Eltern."
 author: bodo
 categories: [ Bibliothek ]
 image: /assets/images/blog/covid-19.jpg

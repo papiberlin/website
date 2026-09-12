@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: "Questions about father*hood, Elterngeld, Kita or parenting in Berlin? Write to Papi Berlin via our contact form and we will try to help you out."
 permalink: /:locale/contact/
 ---
 

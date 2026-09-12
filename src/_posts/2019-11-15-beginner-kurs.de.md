@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "\"Ich-werde-Vater*\"-Kurs"
+description: "Ein Kurs an drei Abenden für werdende Väter* in Berlin: Geburt, Wochenbett, die erste Zeit als Eltern und Zeitmanagement – plus Austausch mit anderen."
 categories: [ Kurs ]
 image: /assets/images/vater-kurs.jpg
 image_description: Ein Gesicht eines schlafenden Kindes

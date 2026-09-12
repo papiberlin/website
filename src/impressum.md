@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impressum
+description: "Impressum und Anbieterkennzeichnung von Papi Berlin, der Community für aktive Väter* in Berlin."
 locale: multi
 permalink: /:locale/impressum/
 ---

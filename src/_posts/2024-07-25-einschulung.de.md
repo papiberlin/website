@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Einschulung - Huch, was nun?"
+description: "Einschulung in Berlin: Bücher, Schulranzen-Beratung, Geschenkideen für die Schultüte und Podcast-Folgen, die uns beim Start in die Grundschule geholfen haben."
 author: bodo
 categories: [Schule]
 image: /assets/images/blog/einschulung.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "\"I'm-going-to-be-a-dad*\" course"
+description: "A three-evening course for expectant fathers* in Berlin: birth, the postnatal weeks, life as new parents and time management, plus others in the same boat."
 categories: [ Course ]
 image: /assets/images/vater-kurs.jpg
 image_description: The face of a sleeping child

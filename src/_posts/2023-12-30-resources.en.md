@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Parenting Resources"
+seo_title: "New: Parenting Resources – curated links from our Slack for dads* | Papi Berlin"
+description: "We collect the best links from our Slack for dads* in one place: podcasts, apps, event listings and more, all in our parenting resources."
 author: bodo
 categories: [ Resources ]
 image: /assets/images/blog/resources.jpg

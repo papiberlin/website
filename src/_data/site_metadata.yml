@@ -1,6 +1,9 @@
 name: Papi Berlin
 title: Papi Berlin
 email: mail@papiberlin.de
-logo: /assets/images/logo.png
+# Used as the Organization logo in the structured data of every page.
+logo: /android-chrome-512x512.png
+# Fallback og:image / twitter:image for pages that bring no image of their own.
+share_image: /assets/images/share.jpg
 slack_invite: https://join.slack.com/t/dadaberlin/shared_invite/zt-1skuexk5x-OUzSHVwxWWayPUHYjNfiAA
 github: https://github.com/papiberlin/

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Starting school - Oops, what now?"
+description: "Starting school in Berlin: books, school bag advice, gift ideas for the Schultüte and podcast episodes that helped us prepare for the first day."
 author: bodo
 categories: [School]
 image: /assets/images/blog/einschulung.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lost in Play"
+description: "Lost in Play reviewed: a point-and-click adventure a six-year-old can play without reading a word. No ads, no loot boxes, a 5/5 from our family."
 author: bodo
 categories: [Games]
 image: /assets/images/blog/lost_in_play.jpeg

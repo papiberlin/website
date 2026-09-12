@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Verhaltenskodex
+description: "Der Verhaltenskodex von Papi Berlin: Wie wir in Slack und bei Treffen miteinander umgehen und wie du Verstöße melden kannst."
 comments: true
 permalink: /:locale/codeofconduct/
 ---

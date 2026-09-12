@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Radio Stations for Kids"
+description: "Radio stations made for kids: music everyone can live with and news prepared for a young audience. Our picks for long family car rides."
 author: bodo
 categories: [Radio, Music]
 image: /assets/images/blog/kids-radio.jpg

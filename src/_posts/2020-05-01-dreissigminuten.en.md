@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Review: Dreißig Minuten, dann ist aber Schluss!"
+description: "A review of Patricia Cammarata's German book on media education: why rigid screen-time rules do not work and what parents should know instead."
 author: bodo
 categories: [ Review ]
 image: /assets/images/blog/dreissigminuten.jpg

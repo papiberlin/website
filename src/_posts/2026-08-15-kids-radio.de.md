@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Radiosender für Kinder"
+description: "Radiosender für Kinder: Musik, die allen gefällt, und Nachrichten, die kindgerecht aufbereitet sind. Unsere Empfehlungen für lange Autofahrten."
 author: bodo
 categories: [Radio, Musik]
 image: /assets/images/blog/kids-radio.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Rezension:  Dreißig Minuten, dann ist aber Schluss!"
+description: "Rezension von Patricia Cammaratas Buch zur Medienerziehung: warum starre Bildschirmzeit-Regeln nicht funktionieren und was Eltern stattdessen wissen sollten."
 author: bodo
 categories: [ Rezension ]
 image: /assets/images/blog/dreissigminuten.jpg

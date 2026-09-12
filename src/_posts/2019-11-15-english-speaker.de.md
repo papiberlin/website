@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "We speak english ❤️!"
+description: "Papi Berlin spricht auch Englisch: Unser Slack hat einen sehr aktiven englischsprachigen Kanal, und bei Treffen versuchen wir, alle einzubeziehen."
 categories: []
 image: /assets/images/english.jpg
 image_description: Ein Scrabble Spiel mit dem Worten "Read More"
 image_credit: Foto von <a href="https://unsplash.com/@nicolehoneywill_sincerelymedia">Nicole Honeywill</a>
 featured: true
 short_title: 🇬🇧 We also speak english ❤️!
-short_body: Switch to the [english version of this website](/en?lang=en).
+short_body: Switch to the [english version of this website](/en/).
 slug: english-speaker
 ---
 

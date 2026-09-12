@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About us
+description: "Papi Berlin is a group of active fathers* questioning traditional gender roles. Mental load, needs-oriented parenting and a very active Slack chat."
 comments: true
 permalink: /:locale/about/
 ---

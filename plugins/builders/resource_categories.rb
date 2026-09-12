@@ -26,14 +26,30 @@ class Builders::ResourceCategories < SiteBuilder
     page_title = category["title_#{loc}"]
     page_description = category["description_#{loc}"]
     page_resources = resources_for(category_id, loc)
+    page_seo_title = seo_title_for(page_title, loc)
 
     add_resource :pages, "resourcen/#{category_id}.#{loc}.html" do
       layout "resource"
       locale page_locale
       permalink "/:locale/resourcen/#{category_id}/"
       title page_title
+      seo_title page_seo_title
       description page_description
       resources page_resources
+    end
+  end
+
+  # A bare category name makes for a title like "Berlin | Papi Berlin", which
+  # says nothing on a results page about what the page actually lists.
+  def seo_title_for(title, loc)
+    # "Berlin: Links für Eltern in Berlin" reads badly, so the category whose
+    # name is already the city drops the locality.
+    place = title.include?("Berlin") ? "" : " in Berlin"
+
+    if loc.to_s == "en"
+      "#{title}: links for parents#{place} | Papi Berlin"
+    else
+      "#{title}: Links für Eltern#{place} | Papi Berlin"
     end
   end
 

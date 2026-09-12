@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Teach Your Kid to Ride a Bike in 3 Days"
+description: "Teach your kid to ride a bike in two to three days: balance bike first, then the right skills at the right time. A step-by-step guide for parents."
 author: bodo
 categories: [Biking, Outdoors]
 image: /assets/images/blog/learn-to-bike.jpg

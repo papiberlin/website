@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "German Podcast Award Winner Kids & Family"
+description: "Kakadu and the Spürnasen podcast won at the German Podcast Awards. Two listening tips for kids, plus our full collection of podcast recommendations."
 author: bodo
 categories: [Podcast]
 image: /assets/images/blog/podcast-award.jpg

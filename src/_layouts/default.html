@@ -6,47 +6,136 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <link rel="icon" href="/assets/images/favicon.png" />
-    <title>{{ page.title }} | {{ site.metadata.name }}</title>
+    {%- comment -%}
+      SEO metadata. Pages may override the defaults with `seo_title`,
+      `description` and `image` in their front matter; posts without a
+      `description` fall back to their first paragraph.
+    {%- endcomment -%}
+    {%- assign is_post = false -%}
+    {%- if page.collection.label == "posts" -%}{%- assign is_post = true -%}{%- endif -%}
+
     {%- assign site_description = "site.description" | t -%}
-    {%- assign description = page.description | default: site_description -%}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:locale" content="{{ site.locale }}" />
-    <meta name="description" content="{{ description }}" />
-    <meta property="og:description" content="{{ description }}" />
+    {%- assign excerpt = page.summary | markdownify | strip_html | normalize_whitespace | truncate: 160 -%}
+    {%- assign description = page.description | default: excerpt | default: site_description -%}
+    {%- if description == blank -%}{%- assign description = site_description -%}{%- endif -%}
+
+    {%- assign image = page.image | default: site.metadata.share_image -%}
+    {%- assign image_alt = page.image_description | default: site.metadata.name -%}
+
+    {%- comment -%}
+      `seo_title` also stands in for the headline shared on social networks and
+      in the structured data, where the bare `title` of the home page ("Home")
+      would say nothing.
+    {%- endcomment -%}
+    {%- assign social_title = page.seo_title | default: page.title -%}
+
+    {%- comment -%}
+      Page 2 and up of the blog index reuse the front matter of `/`, so give them
+      their own title instead of repeating the home page's word for word.
+    {%- endcomment -%}
+    {%- assign page_suffix = "" -%}
+    {%- if paginator and paginator.page > 1 -%}
+    {%- capture page_suffix %} – {{ "posts.page" | t }} {{ paginator.page }}{% endcapture -%}
+    {%- endif -%}
+    <title>{% if page.seo_title %}{{ page.seo_title }}{% else %}{{ page.title }} | {{ site.metadata.name }}{% endif %}{{ page_suffix }}</title>
+    <meta name="description" content="{{ description | escape }}" />
     <link rel="canonical" href="{{ page.relative_url | absolute_url }}" />
-    <meta property="og:url" content="{{ page.relative_url | absolute_url }}" />
+    {%- if page.noindex %}
+    <meta name="robots" content="noindex, follow" />
+    {%- endif %}
+
+    {%- comment -%}
+      Translations of this page, see plugins/builders/alternate_locales.rb.
+      Page 2 and up of the blog index inherit page 1's alternates, which point at
+      the wrong page, so they get no hreflang at all.
+    {%- endcomment -%}
+    {%- if page.alternate_urls and page_suffix == "" %}
+    {%- for alternate in page.alternate_urls %}
+    <link rel="alternate" hreflang="{{ alternate[0] }}" href="{{ alternate[1] | absolute_url }}" />
+    {%- endfor %}
+    <link rel="alternate" hreflang="x-default" href="{{ page.x_default_url | absolute_url }}" />
+    {%- endif %}
+
     <meta property="og:site_name" content="{{ site.metadata.name }}" />
-    {% if page.image and page.image != blank -%}
-    <meta property="og:image" content="{{ page.image | absolute_url }}" />
-    {% endif -%}
-    <meta property="og:type" content="website" />
-    <meta name="twitter:card" content="summary" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+    <meta property="og:type" content="{% if is_post %}article{% else %}website{% endif %}" />
+    <meta property="og:title" content="{{ social_title | escape }}" />
+    <meta property="og:description" content="{{ description | escape }}" />
+    <meta property="og:url" content="{{ page.relative_url | absolute_url }}" />
+    <meta property="og:locale" content="{% if site.locale == 'de' %}de_DE{% else %}en_GB{% endif %}" />
+    {%- if page.alternate_urls %}
+    {%- for alternate in page.alternate_urls %}
+    {%- unless alternate[0] == site.locale %}
+    <meta property="og:locale:alternate" content="{% if alternate[0] == 'de' %}de_DE{% else %}en_GB{% endif %}" />
+    {%- endunless %}
+    {%- endfor %}
+    {%- endif %}
+    {%- if image and image != blank %}
+    <meta property="og:image" content="{{ image | absolute_url }}" />
+    <meta property="og:image:alt" content="{{ image_alt | escape }}" />
+    {%- endif %}
+    {%- if is_post %}
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+    {%- if page.last_modified_at %}
+    <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}" />
+    {%- endif %}
+    {%- endif %}
+
+    <meta name="twitter:card" content="{% if image and image != blank %}summary_large_image{% else %}summary{% endif %}" />
+    <meta name="twitter:title" content="{{ social_title | escape }}" />
+    <meta name="twitter:description" content="{{ description | escape }}" />
+    {%- if image and image != blank %}
+    <meta name="twitter:image" content="{{ image | absolute_url }}" />
+    <meta name="twitter:image:alt" content="{{ image_alt | escape }}" />
+    {%- endif %}
+
+    {%- if page.author %}{% assign author = site.data.authors[page.author] %}
+    {%- if author.mastodon %}
+    <meta name="fediverse:creator" content="{{ author.mastodon }}" />
+    {%- endif %}
+    {%- endif %}
+
     <script type="application/ld+json">
       {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "description": {{ description | jsonify }},
-      "headline": {{ page.title | jsonify }},
-      "name": "Papi Berlin",
-      {% if page.image and page.image != blank -%}
-      "image": "{{ page.image | absolute_url }}",
-      {% endif -%}
-      "publisher": {
+        "@context": "https://schema.org",
+        "@type": {% if is_post %}"BlogPosting"{% else %}"WebPage"{% endif %},
+        "@id": {{ page.relative_url | absolute_url | jsonify }},
+        "url": {{ page.relative_url | absolute_url | jsonify }},
+        "headline": {{ social_title | jsonify }},
+        "name": {{ social_title | jsonify }},
+        "description": {{ description | jsonify }},
+        "inLanguage": {{ site.locale | jsonify }},
+        {% if image and image != blank -%}
+        "image": {{ image | absolute_url | jsonify }},
+        {% endif -%}
+        {% if is_post -%}
+        "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+        "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
+        {% if author -%}
+        "author": {
+          "@type": "Person",
+          "name": {{ author.display_name | jsonify }}
+          {%- if author.web %},
+          "url": {{ author.web | jsonify }}
+          {%- endif %}
+        },
+        {% endif -%}
+        {% endif -%}
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": {{ site.metadata.name | jsonify }},
+          "url": {{ "/" | in_locale | absolute_url | jsonify }}
+        },
+        "publisher": {
           "@type": "Organization",
+          "name": {{ site.metadata.name | jsonify }},
+          "url": {{ "/" | absolute_url | jsonify }},
           "logo": {
-          "@type": "ImageObject",
-          "url": "{{ site.metadata.logo | absolute_url }}"
+            "@type": "ImageObject",
+            "url": {{ site.metadata.logo | absolute_url | jsonify }}
           }
-      },
-      "url": "{{ page.relative_url | absolute_url }}"
+        }
       }
     </script>
-    {% if page.author %}{% assign author = site.data.authors[page.author] %}{%
-    if author.mastodon %}
-    <meta name="fediverse:creator" content="{{ author.mastodon }}" />
-    {% endif %}{% endif %}
 
     <link rel="stylesheet" href="{% asset_path css %}" />
 
@@ -70,39 +159,6 @@
       type="application/atom+xml"
     />
 
-    <script>
-      function getBestSuitableSupportedLang(lang, locale, supported) {
-        // Exclude first element, default language
-        var supported_lang = supported.shift();
-
-        if (supported.includes(lang + "-" + locale)) {
-          supported_lang = lang + "-" + locale;
-        } else if (supported.includes(lang)) {
-          supported_lang = lang;
-        }
-
-        return supported_lang;
-      }
-
-      var [lang, locale] = (((navigator.userLanguage || navigator.language).replace('-', '_')).toLowerCase()).split('_');
-      var supported_languages = ["de", "en"];
-      var current_lang = {{ site.locale | jsonify }};
-
-      var suitable_lang = getBestSuitableSupportedLang(lang, locale, supported_languages)
-
-      var lang_param = new URLSearchParams(window.location.search).get("lang");
-
-      if (lang_param == null && window.location.pathname === "/" && current_lang !== suitable_lang) {
-        window.location = '/' + suitable_lang;
-      } else if (lang_param !== null && current_lang !== lang_param) {
-        var base_path = window.location.pathname.replace("/" + current_lang, "")
-        if (lang_param === "de") {
-          window.location = base_path + '?lang=de';
-        } else {
-          window.location = "/" + lang_param + base_path + '?lang=' + lang_param;
-        }
-      }
-    </script>
   </head>
 
   {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{%
@@ -127,7 +183,7 @@
       </button>
       <div class="container">
         <!-- Begin Logo -->
-        <a class="navbar-brand" href="{{ "/" | in_locale | relative_url }}?lang={{ site.locale }}">
+        <a class="navbar-brand" href="{{ "/" | in_locale | relative_url }}">
           Papi Berlin
         </a>
         <!-- End Logo -->
@@ -158,11 +214,19 @@
               >
             </li>
 
+            {%- comment -%}
+              The switcher links straight at the translation of the current page
+              (see plugins/builders/alternate_locales.rb). Pages that have no
+              translation — the category archives — fall back to the other
+              locale's home page.
+            {%- endcomment -%}
             <li class="nav-item nav-lang-switch">
               {% if site.locale == "de" %}
-              <span class="nav-link"><span class="nav-lang-active" aria-hidden="true">[🇩🇪]</span> <a href="{{ page.relative_url }}?lang=en" aria-label="{{ "nav.switch_language" | t: "locale: en" }}">🇬🇧</a></span>
+              {%- assign other_locale_url = page.alternate_other_url | default: "/en/" -%}
+              <span class="nav-link"><span class="nav-lang-active" aria-hidden="true">[🇩🇪]</span> <a href="{{ other_locale_url }}" hreflang="en" lang="en" aria-label="{{ "nav.switch_language" | t: "locale: en" }}">🇬🇧</a></span>
               {% else %}
-              <span class="nav-link"><a href="{{ page.relative_url }}?lang=de" aria-label="{{ "nav.switch_language" | t: "locale: de" }}">🇩🇪</a> <span class="nav-lang-active" aria-hidden="true">[🇬🇧]</span></span>
+              {%- assign other_locale_url = page.alternate_other_url | default: "/" -%}
+              <span class="nav-link"><a href="{{ other_locale_url }}" hreflang="de" lang="de" aria-label="{{ "nav.switch_language" | t: "locale: de" }}">🇩🇪</a> <span class="nav-lang-active" aria-hidden="true">[🇬🇧]</span></span>
               {% endif %}
             </li>
           </ul>
@@ -230,8 +294,8 @@
               <div class="footer-widget">
                 <h5 class="title">{{ "footer.languages" | t }}</h5>
                 <ul>
-                  <li><a href="{{ page.relative_url }}?lang=de">Deutsch</a></li>
-                  <li><a href="{{ page.relative_url }}?lang=en">English</a></li>
+                  <li><a href="{{ page.alternate_urls.de | default: "/" }}" hreflang="de" lang="de">Deutsch</a></li>
+                  <li><a href="{{ page.alternate_urls.en | default: "/en/" }}" hreflang="en" lang="en">English</a></li>
                 </ul>
               </div>
             </div>

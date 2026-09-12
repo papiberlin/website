@@ -5,7 +5,8 @@
     <div class="card">
         <a href="{{ post.relative_url }}">
             {% if post.image %} <img class="img-postbox" src="{{ post.image }}"
-                alt="{{ post.title }}">
+                alt="{{ post.image_description | default: post.title }}" loading="lazy" decoding="async"
+                width="350" height="200">
             {% endif %}
         </a>
         <div class="card-block">
@@ -16,7 +17,8 @@
                     {% if post.author %}
                     <span class="meta-footer-thumb">
                         <img class="author-thumb" src="/assets/images/{{ author.image }}"
-                            alt="{{ author.display_name }}">
+                            alt="{{ author.display_name }}" loading="lazy" decoding="async"
+                            width="40" height="40">
                     </span>
                     <span class="author-meta">
                         <span class="post-name"><a target="_blank"

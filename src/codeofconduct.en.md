@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code of Conduct
+description: "The Papi Berlin code of conduct: how we treat each other in Slack and at meetups, and how to report a violation."
 comments: true
 permalink: /:locale/codeofconduct/
 ---

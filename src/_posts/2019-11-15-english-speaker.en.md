@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "We speak english ❤️!"
+description: "Many of our members are expats. Our Slack has a very active English channel, and we try to include everyone at our meetups. Just email us for an invite."
 categories: []
 image: /assets/images/english.jpg
 image_description: A game of scrabble with the words "Read More"
 image_credit: Photo by <a href="https://unsplash.com/@nicolehoneywill_sincerelymedia">Nicole Honeywill</a>
 featured: true
 short_title: 🇩🇪 Wir sprechen auch Deutsch ❤️!
-short_body: Zur [deutschen Version von dieser Webseite](/?lang=de).
+short_body: Zur [deutschen Version von dieser Webseite](/).
 slug: english-speaker
 ---
 

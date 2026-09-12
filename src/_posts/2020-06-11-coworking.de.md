@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coworking für Eltern"
+description: "Coworking-Spaces mit Kinderbetreuung sind ideal für Eltern und Freelancer. Wie das Konzept funktioniert und wo du Büros für Eltern in deiner Nähe findest."
 author: bodo
 categories: [Resources]
 image: /assets/images/blog/coworking.jpg

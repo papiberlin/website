@@ -1,0 +1,56 @@
+# The categories posts are filed under, keyed by a locale-independent id.
+#
+# Posts still carry their category by its *localized* name (`categories: [Musik]`
+# in German, `categories: [Music]` in English); this file is what tells
+# `plugins/builders/category_archives.rb` that those two are the same category,
+# so `/category/musik/` and `/en/category/music/` can point at each other with
+# `rel="alternate" hreflang"`.
+#
+# `title_de` / `title_en` are both the heading shown on the archive page *and*
+# the source of its URL slug, so changing one changes a published URL. The ids
+# are never user-visible.
+- id: biking
+  title_de: Fahrrad
+  title_en: Biking
+- id: christmas
+  title_de: Weihnachten
+  title_en: Christmas
+- id: communication
+  title_de: Kommunikation
+  title_en: Communication
+- id: course
+  title_de: Kurs
+  title_en: Course
+- id: games
+  title_de: Games
+  title_en: Games
+- id: library
+  title_de: Bibliothek
+  title_en: Library
+- id: music
+  title_de: Musik
+  title_en: Music
+- id: outdoors
+  title_de: Draußen
+  title_en: Outdoors
+- id: podcast
+  title_de: Podcast
+  title_en: Podcast
+- id: presents
+  title_de: Geschenk
+  title_en: Presents
+- id: radio
+  title_de: Radio
+  title_en: Radio
+- id: resources
+  title_de: Resources
+  title_en: Resources
+- id: review
+  title_de: Rezension
+  title_en: Review
+- id: school
+  title_de: Schule
+  title_en: School
+- id: tv-shows
+  title_de: TV-Sendungen
+  title_en: TV Shows
