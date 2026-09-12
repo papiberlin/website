@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Review: Dreißig Minuten, dann ist aber Schluss!"
+title: "Review: Dreißig Minuten, dann ist aber Schluss!"
 description: "A review of Patricia Cammarata's German book on media education: why rigid screen-time rules do not work and what parents should know instead."
 author: bodo
-categories: [ Review ]
+categories: [Review]
 image: /assets/images/blog/dreissigminuten.jpg
 image_description: Cover of the book.
 slug: dreissigminuten
@@ -17,6 +17,6 @@ One caveat: the book is only available in German.
 
 So what are you waiting for? Buy it. Read it.
 
-[![](/assets/images/blog/dreissigminuten_cover.jpg)](https://www.awin1.com/cread.php?awinmid=17358&awinaffid=934571&ued=https%3A%2F%2Fwww.genialokal.de%2FSuche%2F%3Fq%3D%2BDrei%25C3%259Fig%2BMinuten%252C%2Bdann%2Bist%2Baber%2BSchluss)
+[![](/assets/images/blog/dreissigminuten_cover.jpg)](https://bookpile.org/b/9783732588176)
 
-[Buy the book at Genialokal.de.](https://www.awin1.com/cread.php?awinmid=17358&awinaffid=934571&ued=https%3A%2F%2Fwww.genialokal.de%2FSuche%2F%3Fq%3D%2BDrei%25C3%259Fig%2BMinuten%252C%2Bdann%2Bist%2Baber%2BSchluss)
+[Find a bookstore](https://bookpile.org/b/9783732588176)
