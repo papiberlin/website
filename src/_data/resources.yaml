@@ -1012,3 +1012,12 @@
   description_en: Free newsletter funded by the Berlin Senate with information on child development and parenting, timed to your child's date of birth.
   categories: ["berlin"]
   lang: ["de", "en", "tr", "uk", "ar", "pl"]
+
+- title_de: Einmaleins.at
+  title_en: Einmaleins.at
+  categories: ["learning"]
+  description_de: Kostenlose Seite zum Üben des kleinen Einmaleins, mit Übungen zu jeder Reihe, Tempotests, Diplomen, Spielen und Arbeitsblättern zum Ausdrucken.
+  description_en: Free site for practicing the multiplication tables, with exercises for each table, speed tests, diplomas, games and printable worksheets.
+  age: 7-10
+  url: https://www.einmaleins.at/
+  lang: ["de"]
