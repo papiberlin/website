@@ -1,5 +1,5 @@
 start:
-    bin/bridgetown start --bind 0.0.0.0
+    bin/bridgetown start --bind 0.0.0.0 --future
 
 build:
     npm run esbuild

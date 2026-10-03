@@ -986,6 +986,15 @@
   categories: ["media"]
   lang: ["de", "en"]
 
+- title_de: Die besten YouTube-Kanäle für Kinder
+  title_en: Best YouTube Channels for Kids
+  url: /pages/youtube-channels/
+  age: 3-
+  description_de: Von Numberblocks und der Maus bis zu Mark Rober und TED-Ed. Unsere liebsten YouTube-Kanäle für Kinder, sortiert nach Alter.
+  description_en: From Numberblocks and Die Maus to Mark Rober and TED-Ed. Our favorite YouTube channels for kids, sorted by age.
+  categories: ["media"]
+  lang: ["de", "en"]
+
 - title_de: In 3 Tagen Fahrrad fahren lernen
   title_en: Teach Your Kid to Ride a Bike in 3 Days
   url: /pages/learn-to-bike/
@@ -1020,4 +1029,13 @@
   description_en: Free site for practicing the multiplication tables, with exercises for each table, speed tests, diplomas, games and printable worksheets.
   age: 7-10
   url: https://www.einmaleins.at/
+  lang: ["de"]
+
+- title_de: Schulvorlagen.de
+  title_en: Schulvorlagen.de
+  categories: ["learning"]
+  description_de: Kostenlose Arbeitsblätter und Vorlagen zum Ausdrucken für die Grundschule, z.B. für Deutsch, Mathe, Sachunterricht, Musik und Lineaturen.
+  description_en: Free printable worksheets and templates for primary school, e.g. for German, math, science, music and ruled writing sheets.
+  age: 6-10
+  url: https://schulvorlagen.de/index.html
   lang: ["de"]
